@@ -23,9 +23,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Model Merging":
-        filters: ["Model Merging", "Merge"]
+        filters: ["Model Merging"]
     "Continual Learning":
-        filters: ["Continual Learning", "Lifelong Learning", "Continual"]
+        filters: ["Continual Learning", "Lifelong Learning"]
     "Model Cooperation":
         filters: ["Model Ensemble", "Model Cooperation", "Model Fusion", 
                  "Model Collaboration", "Model Integration"]
