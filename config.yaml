@@ -26,7 +26,7 @@ keywords:
         filters: ["Model Merging", "Merge"]
     "Continual Learning":
         filters: ["Continual Learning", "Lifelong Learning", "Continual"]
-    "Model Cooperation"
+    "Model Cooperation":
         filters: ["Model Ensemble", "Model Cooperation", "Model Fusion", 
                  "Model Collaboration", "Model Integration"]
     
