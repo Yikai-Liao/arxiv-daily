@@ -1,4 +1,4 @@
-## Updated on 2025.01.25
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,14 +35,14 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-23**|**Spurious Forgetting in Continual Learning of Language Models**|Junhao Zheng et.al.|[2501.13453](http://arxiv.org/abs/2501.13453)|null|
-|**2025-01-23**|**Beyond Task Diversity: Provable Representation Transfer for Sequential Multi-Task Linear Bandits**|Thang Duong et.al.|[2501.13390](http://arxiv.org/abs/2501.13390)|null|
+|**2025-01-23**|**Spurious Forgetting in Continual Learning of Language Models**|Junhao Zheng et.al.|[2501.13453](http://arxiv.org/abs/2501.13453)|**[link](https://github.com/zzz47zzz/spurious-forgetting)**|
+|**2025-01-23**|**Beyond Task Diversity: Provable Representation Transfer for Sequential Multi-Task Linear Bandits**|Thang Duong et.al.|[2501.13390](http://arxiv.org/abs/2501.13390)|**[link](https://github.com/duongnhatthang/BOSS)**|
 |**2025-01-22**|**S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning**|Yichen Wu et.al.|[2501.13198](http://arxiv.org/abs/2501.13198)|null|
 |**2025-01-22**|**Multiple Queries with Multiple Keys: A Precise Prompt Matching Paradigm for Prompt-based Continual Learning**|Dunwei Tu et.al.|[2501.12635](http://arxiv.org/abs/2501.12635)|null|
 |**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|**[link](https://github.com/bytedance/ui-tars)**|
@@ -52,7 +52,7 @@
 |**2025-01-21**|**Optimally-Weighted Maximum Mean Discrepancy Framework for Continual Learning**|KaiHui Huang et.al.|[2501.12121](http://arxiv.org/abs/2501.12121)|null|
 |**2025-01-19**|**CLOFAI: A Dataset of Real And Fake Image Classification Tasks for Continual Learning**|William Doherty et.al.|[2501.11140](http://arxiv.org/abs/2501.11140)|**[link](https://github.com/will-doherty/clofai)**|
 |**2025-01-18**|**Dynamic Continual Learning: Harnessing Parameter Uncertainty for Improved Network Adaptation**|Christopher Angelini et.al.|[2501.10861](http://arxiv.org/abs/2501.10861)|null|
-|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|null|
+|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|**[link](https://github.com/xiaoshanzhou624/a-star-with-gui-for-human-inputs)**|
 |**2025-01-21**|**Redefining Affordance via Computational Rationality**|Yi-Chi Liao et.al.|[2501.09233](http://arxiv.org/abs/2501.09233)|null|
 |**2025-01-14**|**Adaptive Cybersecurity: Dynamically Retrainable Firewalls for Real-Time Network Protection**|Sina Ahmadi et.al.|[2501.09033](http://arxiv.org/abs/2501.09033)|null|
 |**2025-01-15**|**Incrementally Learning Multiple Diverse Data Domains via Multi-Source Dynamic Expansion Model**|Runqing Wu et.al.|[2501.08878](http://arxiv.org/abs/2501.08878)|null|
@@ -66,7 +66,7 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Model Cooperation
 
@@ -97,7 +97,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
