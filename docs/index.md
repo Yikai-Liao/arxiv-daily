@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.01.27
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts**|Wenju Sun et.al.|[2501.15065](http://arxiv.org/abs/2501.15065)|null|
 |**2025-01-16**|**Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging**|Anke Tang et.al.|[2501.09522](http://arxiv.org/abs/2501.09522)|**[link](https://github.com/tanganke/opcm)**|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar et.al.|[2501.08468](http://arxiv.org/abs/2501.08468)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-11**|**Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent**|Yongxian Wei et.al.|[2501.01230](http://arxiv.org/abs/2501.01230)|**[link](https://github.com/walkerworldpeace/doge)**|
@@ -34,12 +35,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-26**|**Random Walk Guided Hyperbolic Graph Distillation**|Yunbo Long et.al.|[2501.15696](http://arxiv.org/abs/2501.15696)|null|
+|**2025-01-26**|**An Empirical Study on Decision-Making Aspects in Responsible Software Engineering for AI**|Lekshmi Murali Rani et.al.|[2501.15691](http://arxiv.org/abs/2501.15691)|null|
+|**2025-01-24**|**Low-rank Prompt Interaction for Continual Vision-Language Retrieval**|Weicai Yan et.al.|[2501.14369](http://arxiv.org/abs/2501.14369)|**[link](https://github.com/kelvin-ywc/lpi)**|
+|**2025-01-24**|**Active Learning for Continual Learning: Keeping the Past Alive in the Present**|Jaehyun Park et.al.|[2501.14278](http://arxiv.org/abs/2501.14278)|null|
+|**2025-01-24**|**Top Ten Challenges Towards Agentic Neural Graph Databases**|Jiaxin Bai et.al.|[2501.14224](http://arxiv.org/abs/2501.14224)|null|
+|**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/abs/2501.14205)|null|
 |**2025-01-23**|**Spurious Forgetting in Continual Learning of Language Models**|Junhao Zheng et.al.|[2501.13453](http://arxiv.org/abs/2501.13453)|**[link](https://github.com/zzz47zzz/spurious-forgetting)**|
 |**2025-01-23**|**Beyond Task Diversity: Provable Representation Transfer for Sequential Multi-Task Linear Bandits**|Thang Duong et.al.|[2501.13390](http://arxiv.org/abs/2501.13390)|**[link](https://github.com/duongnhatthang/BOSS)**|
 |**2025-01-22**|**S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning**|Yichen Wu et.al.|[2501.13198](http://arxiv.org/abs/2501.13198)|null|
-|**2025-01-22**|**Multiple Queries with Multiple Keys: A Precise Prompt Matching Paradigm for Prompt-based Continual Learning**|Dunwei Tu et.al.|[2501.12635](http://arxiv.org/abs/2501.12635)|null|
+|**2025-01-26**|**Multiple Queries with Multiple Keys: A Precise Prompt Matching Paradigm for Prompt-based Continual Learning**|Dunwei Tu et.al.|[2501.12635](http://arxiv.org/abs/2501.12635)|null|
 |**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|**[link](https://github.com/bytedance/ui-tars)**|
-|**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|null|
+|**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|**[link](https://github.com/ast-fortiss-tum/perturbation-drive)**|
 |**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
 |**2025-01-21**|**A margin-based replacement for cross-entropy loss**|Michael W. Spratling et.al.|[2501.12191](http://arxiv.org/abs/2501.12191)|null|
 |**2025-01-21**|**Optimally-Weighted Maximum Mean Discrepancy Framework for Continual Learning**|KaiHui Huang et.al.|[2501.12121](http://arxiv.org/abs/2501.12121)|null|
@@ -63,6 +70,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Lightweight Weighted Average Ensemble Model for Pneumonia Detection in Chest X-Ray Images**|Suresh Babu Nettur et.al.|[2501.16249](http://arxiv.org/abs/2501.16249)|null|
+|**2025-01-27**|**Optimizing Sentence Embedding with Pseudo-Labeling and Model Ensembles: A Hierarchical Framework for Enhanced NLP Tasks**|Ziwei Liu et.al.|[2501.15876](http://arxiv.org/abs/2501.15876)|null|
+|**2025-01-26**|**Refined climatologies of future precipitation over High Mountain Asia using probabilistic ensemble learning**|Kenza Tazi et.al.|[2501.15690](http://arxiv.org/abs/2501.15690)|null|
+|**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|null|
+|**2025-01-24**|**Additive Manufacturing Processes Protocol Prediction by Artificial Intelligence using X-ray Computed Tomography data**|Sunita Khod et.al.|[2501.14306](http://arxiv.org/abs/2501.14306)|null|
 |**2025-01-23**|**Towards Real-World Validation of a Physics-Based Ship Motion Prediction Model**|Michail Mathioudakis et.al.|[2501.13804](http://arxiv.org/abs/2501.13804)|null|
 |**2025-01-22**|**A Functional Software Reference Architecture for LLM-Integrated Systems**|Alessio Bucaioni et.al.|[2501.12904](http://arxiv.org/abs/2501.12904)|null|
 |**2025-01-22**|**SoundSpring: Loss-Resilient Audio Transceiver with Dual-Functional Masked Language Modeling**|Shengshi Yao et.al.|[2501.12696](http://arxiv.org/abs/2501.12696)|null|
