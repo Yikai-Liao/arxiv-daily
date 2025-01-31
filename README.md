@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,14 +36,15 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Agential AI for Integrated Continual Learning, Deliberative Behavior, and Comprehensible Models**|Zeki Doruk Erden et.al.|[2501.16922](http://arxiv.org/abs/2501.16922)|null|
 |**2025-01-26**|**Random Walk Guided Hyperbolic Graph Distillation**|Yunbo Long et.al.|[2501.15696](http://arxiv.org/abs/2501.15696)|null|
-|**2025-01-26**|**An Empirical Study on Decision-Making Aspects in Responsible Software Engineering for AI**|Lekshmi Murali Rani et.al.|[2501.15691](http://arxiv.org/abs/2501.15691)|null|
+|**2025-01-28**|**An Empirical Study on Decision-Making Aspects in Responsible Software Engineering for AI**|Lekshmi Murali Rani et.al.|[2501.15691](http://arxiv.org/abs/2501.15691)|null|
 |**2025-01-24**|**Low-rank Prompt Interaction for Continual Vision-Language Retrieval**|Weicai Yan et.al.|[2501.14369](http://arxiv.org/abs/2501.14369)|**[link](https://github.com/kelvin-ywc/lpi)**|
 |**2025-01-24**|**Active Learning for Continual Learning: Keeping the Past Alive in the Present**|Jaehyun Park et.al.|[2501.14278](http://arxiv.org/abs/2501.14278)|null|
 |**2025-01-24**|**Top Ten Challenges Towards Agentic Neural Graph Databases**|Jiaxin Bai et.al.|[2501.14224](http://arxiv.org/abs/2501.14224)|null|
@@ -56,7 +57,7 @@
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|**[link](https://github.com/ast-fortiss-tum/perturbation-drive)**|
 |**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
 |**2025-01-21**|**A margin-based replacement for cross-entropy loss**|Michael W. Spratling et.al.|[2501.12191](http://arxiv.org/abs/2501.12191)|null|
-|**2025-01-21**|**Optimally-Weighted Maximum Mean Discrepancy Framework for Continual Learning**|KaiHui Huang et.al.|[2501.12121](http://arxiv.org/abs/2501.12121)|null|
+|**2025-01-28**|**Optimally-Weighted Maximum Mean Discrepancy Framework for Continual Learning**|KaiHui Huang et.al.|[2501.12121](http://arxiv.org/abs/2501.12121)|null|
 |**2025-01-19**|**CLOFAI: A Dataset of Real And Fake Image Classification Tasks for Continual Learning**|William Doherty et.al.|[2501.11140](http://arxiv.org/abs/2501.11140)|**[link](https://github.com/will-doherty/clofai)**|
 |**2025-01-18**|**Dynamic Continual Learning: Harnessing Parameter Uncertainty for Improved Network Adaptation**|Christopher Angelini et.al.|[2501.10861](http://arxiv.org/abs/2501.10861)|null|
 |**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|**[link](https://github.com/xiaoshanzhou624/a-star-with-gui-for-human-inputs)**|
@@ -73,7 +74,7 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Model Cooperation
 
@@ -81,7 +82,7 @@
 |---|---|---|---|---|
 |**2025-01-27**|**Lightweight Weighted Average Ensemble Model for Pneumonia Detection in Chest X-Ray Images**|Suresh Babu Nettur et.al.|[2501.16249](http://arxiv.org/abs/2501.16249)|null|
 |**2025-01-27**|**Optimizing Sentence Embedding with Pseudo-Labeling and Model Ensembles: A Hierarchical Framework for Enhanced NLP Tasks**|Ziwei Liu et.al.|[2501.15876](http://arxiv.org/abs/2501.15876)|null|
-|**2025-01-26**|**Refined climatologies of future precipitation over High Mountain Asia using probabilistic ensemble learning**|Kenza Tazi et.al.|[2501.15690](http://arxiv.org/abs/2501.15690)|null|
+|**2025-01-26**|**Refined climatologies of future precipitation over High Mountain Asia using probabilistic ensemble learning**|Kenza Tazi et.al.|[2501.15690](http://arxiv.org/abs/2501.15690)|**[link](https://github.com/kenzaxtazi/bcm4rcm)**|
 |**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|null|
 |**2025-01-24**|**Additive Manufacturing Processes Protocol Prediction by Artificial Intelligence using X-ray Computed Tomography data**|Sunita Khod et.al.|[2501.14306](http://arxiv.org/abs/2501.14306)|null|
 |**2025-01-23**|**Towards Real-World Validation of a Physics-Based Ship Motion Prediction Model**|Michail Mathioudakis et.al.|[2501.13804](http://arxiv.org/abs/2501.13804)|null|
@@ -109,7 +110,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
