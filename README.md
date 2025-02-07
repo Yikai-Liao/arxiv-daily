@@ -1,4 +1,4 @@
-## Updated on 2025.02.05
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
+|**2025-02-03**|**Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach**|Siqi Zeng et.al.|[2502.01015](http://arxiv.org/abs/2502.01015)|null|
+|**2025-02-04**|**MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs**|Yuhang Zhou et.al.|[2502.00997](http://arxiv.org/abs/2502.00997)|null|
+|**2025-01-31**|**BTS: Harmonizing Specialized Experts into a Generalist LLM**|Qizhen Zhang et.al.|[2502.00075](http://arxiv.org/abs/2502.00075)|null|
 |**2025-01-31**|**Norm-Bounded Low-Rank Adaptation**|Ruigang Wang et.al.|[2501.19050](http://arxiv.org/abs/2501.19050)|null|
 |**2025-01-25**|**Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts**|Wenju Sun et.al.|[2501.15065](http://arxiv.org/abs/2501.15065)|null|
 |**2025-01-16**|**Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging**|Anke Tang et.al.|[2501.09522](http://arxiv.org/abs/2501.09522)|**[link](https://github.com/tanganke/opcm)**|
@@ -37,12 +41,22 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Optimal Task Order for Continual Learning of Multiple Tasks**|Ziyan Li et.al.|[2502.03350](http://arxiv.org/abs/2502.03350)|null|
+|**2025-02-05**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs**|Dinithi Jayasuriya et.al.|[2502.02909](http://arxiv.org/abs/2502.02909)|null|
+|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
+|**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
+|**2025-02-03**|**Online Curvature-Aware Replay: Leveraging $\mathbf{2^{nd}}$ Order Information for Online Continual Learning**|Edoardo Urettini et.al.|[2502.01866](http://arxiv.org/abs/2502.01866)|null|
+|**2025-02-03**|**Structural features of the fly olfactory circuit mitigate the stability-plasticity dilemma in continual learning**|Heming Zou et.al.|[2502.01427](http://arxiv.org/abs/2502.01427)|null|
+|**2025-02-03**|**Activation by Interval-wise Dropout: A Simple Way to Prevent Neural Networks from Plasticity Loss**|Sangyeon Park et.al.|[2502.01342](http://arxiv.org/abs/2502.01342)|null|
+|**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[2502.00843](http://arxiv.org/abs/2502.00843)|null|
+|**2025-02-02**|**Lipschitz Lifelong Monte Carlo Tree Search for Mastering Non-Stationary Tasks**|Zuyuan Zhang et.al.|[2502.00633](http://arxiv.org/abs/2502.00633)|null|
+|**2025-02-02**|**DesCLIP: Robust Continual Adaptation via General Attribute Descriptions for Pretrained Vision-Language Models**|Chiyuan He et.al.|[2502.00618](http://arxiv.org/abs/2502.00618)|null|
 |**2025-01-28**|**Agential AI for Integrated Continual Learning, Deliberative Behavior, and Comprehensible Models**|Zeki Doruk Erden et.al.|[2501.16922](http://arxiv.org/abs/2501.16922)|null|
 |**2025-01-26**|**Random Walk Guided Hyperbolic Graph Distillation**|Yunbo Long et.al.|[2501.15696](http://arxiv.org/abs/2501.15696)|null|
 |**2025-01-28**|**An Empirical Study on Decision-Making Aspects in Responsible Software Engineering for AI**|Lekshmi Murali Rani et.al.|[2501.15691](http://arxiv.org/abs/2501.15691)|null|
@@ -75,12 +89,24 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Development and validation of a high-fidelity full-spectrum Monte Carlo model for the Swiss airborne gamma-ray spectrometry system**|David Breitenmoser et.al.|[2502.02102](http://arxiv.org/abs/2502.02102)|null|
+|**2025-02-02**|**Agent-Based Uncertainty Awareness Improves Automated Radiology Report Labeling with an Open-Source Large Language Model**|Hadas Ben-Atya et.al.|[2502.01691](http://arxiv.org/abs/2502.01691)|null|
+|**2025-02-01**|**Speculative Ensemble: Fast Large Language Model Ensemble via Speculation**|Jiale Fu et.al.|[2502.01662](http://arxiv.org/abs/2502.01662)|null|
+|**2025-02-03**|**Modeling of photonic integrated resonators using advanced scattering matrix methods**|David J. Moss et.al.|[2502.01552](http://arxiv.org/abs/2502.01552)|null|
+|**2025-02-03**|**Navigating pollution: A multimodal approach to traffic and exposure management**|Yueqi Liu et.al.|[2502.01324](http://arxiv.org/abs/2502.01324)|null|
+|**2025-02-03**|**A Single Model Ensemble Framework for Neural Machine Translation using Pivot Translation**|Seokjin Oh et.al.|[2502.01182](http://arxiv.org/abs/2502.01182)|null|
+|**2025-02-03**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|null|
+|**2025-02-02**|**Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization**|Yoontae Hwang et.al.|[2502.00828](http://arxiv.org/abs/2502.00828)|null|
+|**2025-02-01**|**Robust Knowledge Distillation in Federated Learning: Counteracting Backdoor Attacks**|Ebtisaam Alharbi et.al.|[2502.00587](http://arxiv.org/abs/2502.00587)|null|
+|**2025-02-01**|**How Do Model Export Formats Impact the Development of ML-Enabled Systems? A Case Study on Model Integration**|Shreyas Kumar Parida et.al.|[2502.00429](http://arxiv.org/abs/2502.00429)|null|
+|**2025-02-01**|**A Study on the Performance of U-Net Modifications in Retroperitoneal Tumor Segmentation**|Moein Heidari et.al.|[2502.00314](http://arxiv.org/abs/2502.00314)|null|
+|**2025-02-01**|**Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion**|Binchi Zhang et.al.|[2502.00264](http://arxiv.org/abs/2502.00264)|null|
 |**2025-01-30**|**Transfer Learning of Surrogate Models: Integrating Domain Warping and Affine Transformations**|Shuaiqun Pan et.al.|[2501.18344](http://arxiv.org/abs/2501.18344)|null|
 |**2025-01-14**|**Application of Machine Learning Models for Carbon Monoxide and Nitrogen Oxides Emission Prediction in Gas Turbines**|Kamyar Zeinalipour et.al.|[2501.17865](http://arxiv.org/abs/2501.17865)|null|
 |**2025-02-01**|**Lightweight Weighted Average Ensemble Model for Pneumonia Detection in Chest X-Ray Images**|Suresh Babu Nettur et.al.|[2501.16249](http://arxiv.org/abs/2501.16249)|null|
@@ -113,7 +139,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
