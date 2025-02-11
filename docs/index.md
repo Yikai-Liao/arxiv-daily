@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**No Task Left Behind: Isotropic Model Merging with Common and Task-Specific Subspaces**|Daniel Marczak et.al.|[2502.04959](http://arxiv.org/abs/2502.04959)|null|
+|**2025-02-06**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
 |**2025-02-06**|**Fine, I'll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging**|Guinan Su et.al.|[2502.04030](http://arxiv.org/abs/2502.04030)|null|
 |**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
 |**2025-02-03**|**Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach**|Siqi Zeng et.al.|[2502.01015](http://arxiv.org/abs/2502.01015)|null|
@@ -41,8 +43,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**No Images, No Problem: Retaining Knowledge in Continual VQA with Questions-Only Memory**|Imad Eddine Marouf et.al.|[2502.04469](http://arxiv.org/abs/2502.04469)|null|
+|**2025-02-05**|**Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications**|Bo Wen et.al.|[2502.04384](http://arxiv.org/abs/2502.04384)|null|
 |**2025-02-06**|**Cognitive AI framework: advances in the simulation of human thought**|Rommel Salas-Guerra et.al.|[2502.04259](http://arxiv.org/abs/2502.04259)|null|
-|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-05**|**Optimal Task Order for Continual Learning of Multiple Tasks**|Ziyan Li et.al.|[2502.03350](http://arxiv.org/abs/2502.03350)|null|
 |**2025-02-05**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs**|Dinithi Jayasuriya et.al.|[2502.02909](http://arxiv.org/abs/2502.02909)|null|
 |**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
@@ -89,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Reusing Embeddings: Reproducible Reward Model Research in Large Language Model Alignment without GPUs**|Hao Sun et.al.|[2502.04357](http://arxiv.org/abs/2502.04357)|null|
 |**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877](http://arxiv.org/abs/2502.03877)|null|
 |**2025-02-04**|**Development and validation of a high-fidelity full-spectrum Monte Carlo model for the Swiss airborne gamma-ray spectrometry system**|David Breitenmoser et.al.|[2502.02102](http://arxiv.org/abs/2502.02102)|null|
 |**2025-02-02**|**Agent-Based Uncertainty Awareness Improves Automated Radiology Report Labeling with an Open-Source Large Language Model**|Hadas Ben-Atya et.al.|[2502.01691](http://arxiv.org/abs/2502.01691)|null|
