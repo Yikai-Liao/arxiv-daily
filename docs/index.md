@@ -132,7 +132,7 @@ layout: default
 |**2025-02-01**|**Robust Knowledge Distillation in Federated Learning: Counteracting Backdoor Attacks**|Ebtisaam Alharbi et.al.|[2502.00587](http://arxiv.org/abs/2502.00587)|**[link](https://github.com/anonymesc/rkd)**|
 |**2025-02-01**|**How Do Model Export Formats Impact the Development of ML-Enabled Systems? A Case Study on Model Integration**|Shreyas Kumar Parida et.al.|[2502.00429](http://arxiv.org/abs/2502.00429)|null|
 |**2025-02-01**|**A Study on the Performance of U-Net Modifications in Retroperitoneal Tumor Segmentation**|Moein Heidari et.al.|[2502.00314](http://arxiv.org/abs/2502.00314)|**[link](https://github.com/moeinheidari7829/Retroperitoneal_Tumour_Segmentation_SPIE2025)**|
-|**2025-02-01**|**Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion**|Binchi Zhang et.al.|[2502.00264](http://arxiv.org/abs/2502.00264)|null|
+|**2025-02-01**|**Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion**|Binchi Zhang et.al.|[2502.00264](http://arxiv.org/abs/2502.00264)|**[link](https://github.com/zhengzaiyi/rotationsymmetry)**|
 |**2025-01-30**|**Transfer Learning of Surrogate Models: Integrating Domain Warping and Affine Transformations**|Shuaiqun Pan et.al.|[2501.18344](http://arxiv.org/abs/2501.18344)|null|
 |**2025-01-14**|**Application of Machine Learning Models for Carbon Monoxide and Nitrogen Oxides Emission Prediction in Gas Turbines**|Kamyar Zeinalipour et.al.|[2501.17865](http://arxiv.org/abs/2501.17865)|null|
 |**2025-02-01**|**Lightweight Weighted Average Ensemble Model for Pneumonia Detection in Chest X-Ray Images**|Suresh Babu Nettur et.al.|[2501.16249](http://arxiv.org/abs/2501.16249)|null|
