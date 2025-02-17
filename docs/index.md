@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.15
+## Updated on 2025.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -29,7 +29,7 @@ layout: default
 |**2024-12-26**|**Tint Your Models Task-wise for Improved Multi-task Model Merging**|Aecheon Jung et.al.|[2412.19098](http://arxiv.org/abs/2412.19098)|**[link](https://github.com/aim-skku/modeltinting)**|
 |**2024-12-22**|**Parameter-Efficient Interventions for Enhanced Model Merging**|Marcin Osial et.al.|[2412.17023](http://arxiv.org/abs/2412.17023)|null|
 |**2024-12-20**|**Non-Uniform Parameter-Wise Model Merging**|Albert Manuel Orozco Camacho et.al.|[2412.15467](http://arxiv.org/abs/2412.15467)|null|
-|**2024-12-19**|**Multi-concept Model Immunization through Differentiable Model Merging**|Amber Yijia Zheng et.al.|[2412.15320](http://arxiv.org/abs/2412.15320)|null|
+|**2024-12-19**|**Multi-concept Model Immunization through Differentiable Model Merging**|Amber Yijia Zheng et.al.|[2412.15320](http://arxiv.org/abs/2412.15320)|**[link](https://github.com/amberyzheng/MIMA)**|
 |**2024-12-18**|**Channel Merging: Preserving Specialization for Merged Experts**|Mingyang Zhang et.al.|[2412.15283](http://arxiv.org/abs/2412.15283)|null|
 |**2024-12-18**|**Rethink the Evaluation Protocol of Model Merging on Classification Task**|Fanshuang Kong et.al.|[2412.13526](http://arxiv.org/abs/2412.13526)|**[link](https://github.com/fskong/FT-Classifier-for-Model-Merging)**|
 |**2024-12-11**|**Revisiting Weight Averaging for Model Merging**|Jiho Choi et.al.|[2412.12153](http://arxiv.org/abs/2412.12153)|null|
@@ -58,7 +58,7 @@ layout: default
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 |**2025-02-09**|**Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**|Yixin Cui et.al.|[2502.05943](http://arxiv.org/abs/2502.05943)|null|
-|**2025-02-09**|**MADAR: Efficient Continual Learning for Malware Analysis with Diversity-Aware Replay**|Mohammad Saidur Rahman et.al.|[2502.05760](http://arxiv.org/abs/2502.05760)|null|
+|**2025-02-09**|**MADAR: Efficient Continual Learning for Malware Analysis with Diversity-Aware Replay**|Mohammad Saidur Rahman et.al.|[2502.05760](http://arxiv.org/abs/2502.05760)|**[link](https://github.com/IQSeC-Lab/MADAR)**|
 |**2025-02-06**|**No Images, No Problem: Retaining Knowledge in Continual VQA with Questions-Only Memory**|Imad Eddine Marouf et.al.|[2502.04469](http://arxiv.org/abs/2502.04469)|**[link](https://github.com/IemProg/QUAD)**|
 |**2025-02-05**|**Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications**|Bo Wen et.al.|[2502.04384](http://arxiv.org/abs/2502.04384)|**[link](https://github.com/wenboown/generative-ai-for-semiconductor-physical-design)**|
 |**2025-02-06**|**Cognitive AI framework: advances in the simulation of human thought**|Rommel Salas-Guerra et.al.|[2502.04259](http://arxiv.org/abs/2502.04259)|null|
@@ -112,7 +112,7 @@ layout: default
 |**2025-02-13**|**New Models of Jupiter's Magnetopause and Bow Shock through the $Juno$ Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation**|M. J. Rutala et.al.|[2502.09186](http://arxiv.org/abs/2502.09186)|null|
 |**2025-02-11**|**The establishment of static digital humans and the integration with spinal models**|Fujiao Ju et.al.|[2502.07844](http://arxiv.org/abs/2502.07844)|null|
 |**2025-02-11**|**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**|Sicheng Wang et.al.|[2502.07837](http://arxiv.org/abs/2502.07837)|null|
-|**2025-02-11**|**Integrating Physics and Data-Driven Approaches: An Explainable and Uncertainty-Aware Hybrid Model for Wind Turbine Power Prediction**|Alfonso Gijón et.al.|[2502.07344](http://arxiv.org/abs/2502.07344)|null|
+|**2025-02-11**|**Integrating Physics and Data-Driven Approaches: An Explainable and Uncertainty-Aware Hybrid Model for Wind Turbine Power Prediction**|Alfonso Gijón et.al.|[2502.07344](http://arxiv.org/abs/2502.07344)|**[link](https://github.com/alfonsogijon/WindTurbines_hybrid)**|
 |**2025-02-07**|**Model Fusion via Neuron Transplantation**|Muhammed Öz et.al.|[2502.06849](http://arxiv.org/abs/2502.06849)|**[link](https://github.com/masterbaer/neuron-transplantation)**|
 |**2025-02-09**|**Propagation of Chaos for Mean-Field Langevin Dynamics and its Application to Model Ensemble**|Atsushi Nitanda et.al.|[2502.05784](http://arxiv.org/abs/2502.05784)|null|
 |**2025-02-09**|**Target Speaker Lipreading by Audio-Visual Self-Distillation Pretraining and Speaker Adaptation**|Jing-Xuan Zhang et.al.|[2502.05758](http://arxiv.org/abs/2502.05758)|null|
