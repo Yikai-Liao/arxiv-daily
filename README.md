@@ -1,4 +1,4 @@
-## Updated on 2025.02.17
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,14 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-13**|**An Open Recipe: Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging**|Kunat Pipatanakul et.al.|[2502.09056](http://arxiv.org/abs/2502.09056)|null|
+|**2025-02-17**|**Merging Language and Domain Specific Models: The Impact on Technical Vocabulary Acquisition**|Thibault Rousset et.al.|[2502.12001](http://arxiv.org/abs/2502.12001)|null|
+|**2025-02-17**|**Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy**|Zhenyuan Guo et.al.|[2502.11533](http://arxiv.org/abs/2502.11533)|null|
+|**2025-02-16**|**Asymmetric Conflict and Synergy in Post-training for LLM-based Multilingual Machine Translation**|Tong Zheng et.al.|[2502.11223](http://arxiv.org/abs/2502.11223)|null|
+|**2025-02-15**|**Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation**|Guofu Xie et.al.|[2502.10762](http://arxiv.org/abs/2502.10762)|null|
+|**2025-02-15**|**LoRE-Merging: Exploring Low-Rank Estimation For Large Language Model Merging**|Zehua Liu et.al.|[2502.10749](http://arxiv.org/abs/2502.10749)|null|
+|**2025-02-15**|**1bit-Merging: Dynamic Quantized Merging for Large Language Models**|Shuqi Liu et.al.|[2502.10743](http://arxiv.org/abs/2502.10743)|null|
+|**2025-02-15**|**Superpose Singular Features for Model Merging**|Haiquan Qiu et.al.|[2502.10698](http://arxiv.org/abs/2502.10698)|null|
+|**2025-02-14**|**Towards Watermarking of Open-Source LLMs**|Thibaud Gloaguen et.al.|[2502.10525](http://arxiv.org/abs/2502.10525)|null|
+|**2025-02-09**|**MERGE $^3$ : Efficient Evolutionary Merging on Consumer-grade GPUs**|Tommaso Mencattini et.al.|[2502.10436](http://arxiv.org/abs/2502.10436)|null|
+|**2025-02-14**|**STAR: Spectral Truncation and Rescale for Model Merging**|Yu-Ang Lee et.al.|[2502.10339](http://arxiv.org/abs/2502.10339)|null|
+|**2025-02-17**|**Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging - An Open Recipe**|Kunat Pipatanakul et.al.|[2502.09056](http://arxiv.org/abs/2502.09056)|null|
 |**2025-02-13**|**Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and Harmlessness of Large Language Model via Model Merging**|Jinluan Yang et.al.|[2502.06876](http://arxiv.org/abs/2502.06876)|null|
 |**2025-02-07**|**No Task Left Behind: Isotropic Model Merging with Common and Task-Specific Subspaces**|Daniel Marczak et.al.|[2502.04959](http://arxiv.org/abs/2502.04959)|**[link](https://github.com/danielm1405/iso-merging)**|
 |**2025-02-11**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
 |**2025-02-06**|**Fine, I'll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging**|Guinan Su et.al.|[2502.04030](http://arxiv.org/abs/2502.04030)|null|
 |**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
 |**2025-02-03**|**Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach**|Siqi Zeng et.al.|[2502.01015](http://arxiv.org/abs/2502.01015)|null|
-|**2025-02-04**|**MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs**|Yuhang Zhou et.al.|[2502.00997](http://arxiv.org/abs/2502.00997)|null|
+|**2025-02-17**|**MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs**|Yuhang Zhou et.al.|[2502.00997](http://arxiv.org/abs/2502.00997)|null|
 |**2025-01-31**|**BTS: Harmonizing Specialized Experts into a Generalist LLM**|Qizhen Zhang et.al.|[2502.00075](http://arxiv.org/abs/2502.00075)|null|
 |**2025-01-31**|**Norm-Bounded Low-Rank Adaptation**|Ruigang Wang et.al.|[2501.19050](http://arxiv.org/abs/2501.19050)|null|
 |**2025-01-25**|**Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts**|Wenju Sun et.al.|[2501.15065](http://arxiv.org/abs/2501.15065)|null|
@@ -46,15 +56,26 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Continual Learning Should Move Beyond Incremental Classification**|Rupert Mitchell et.al.|[2502.11927](http://arxiv.org/abs/2502.11927)|null|
+|**2025-02-17**|**On the Computation of the Fisher Information in Continual Learning**|Gido M. van de Ven et.al.|[2502.11756](http://arxiv.org/abs/2502.11756)|null|
+|**2025-02-17**|**Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent**|Junda Wu et.al.|[2502.11740](http://arxiv.org/abs/2502.11740)|null|
+|**2025-02-17**|**Exploiting Task Relationships for Continual Learning Using Transferability-Aware Task Embeddings**|Yanru Wu et.al.|[2502.11609](http://arxiv.org/abs/2502.11609)|null|
+|**2025-02-17**|**DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning**|Huanxuan Liao et.al.|[2502.11482](http://arxiv.org/abs/2502.11482)|null|
+|**2025-02-16**|**Non-Uniform Memory Sampling in Experience Replay**|Andrii Krutsylo et.al.|[2502.11305](http://arxiv.org/abs/2502.11305)|null|
+|**2025-02-16**|**Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning**|Gangwei Jiang et.al.|[2502.11019](http://arxiv.org/abs/2502.11019)|null|
+|**2025-02-16**|**Neural Networks Remember More: The Power of Parameter Isolation and Combination**|Biqing Zeng et.al.|[2502.10966](http://arxiv.org/abs/2502.10966)|null|
+|**2025-02-15**|**ReReLRP - Remembering and Recognizing Tasks with LRP**|Karolina Bogacka et.al.|[2502.10789](http://arxiv.org/abs/2502.10789)|null|
+|**2025-02-14**|**Adaptive Neural Networks for Intelligent Data-Driven Development**|Youssef Shoeb et.al.|[2502.10603](http://arxiv.org/abs/2502.10603)|null|
+|**2025-02-11**|**Analysis of Overparameterization in Continual Learning under a Linear Model**|Daniel Goldfarb et.al.|[2502.10442](http://arxiv.org/abs/2502.10442)|null|
 |**2025-02-13**|**Vertical Federated Continual Learning via Evolving Prototype Knowledge**|Shuo Wang et.al.|[2502.09152](http://arxiv.org/abs/2502.09152)|null|
 |**2025-02-13**|**Feature-based Graph Attention Networks Improve Online Continual Learning**|Adjovi Sim et.al.|[2502.09143](http://arxiv.org/abs/2502.09143)|null|
-|**2025-02-13**|**Replay-free Online Continual Learning with Self-Supervised MultiPatches**|Giacomo Cignoni et.al.|[2502.09140](http://arxiv.org/abs/2502.09140)|null|
+|**2025-02-13**|**Replay-free Online Continual Learning with Self-Supervised MultiPatches**|Giacomo Cignoni et.al.|[2502.09140](http://arxiv.org/abs/2502.09140)|**[link](https://github.com/giacomo-cgn/cmp)**|
 |**2025-02-13**|**A Hybrid Transformer Model for Fake News Detection: Leveraging Bayesian Optimization and Bidirectional Recurrent Unit**|Tianyi Huang et.al.|[2502.09097](http://arxiv.org/abs/2502.09097)|null|
 |**2025-02-12**|**Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning**|M. Anwar Ma'sum et.al.|[2502.08181](http://arxiv.org/abs/2502.08181)|null|
 |**2025-02-11**|**SymbioSim: Human-in-the-loop Simulation Platform for Bidirectional Continuing Learning in Human-Robot Interaction**|Haoran Chen et.al.|[2502.07358](http://arxiv.org/abs/2502.07358)|null|
@@ -112,21 +133,27 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**A survey about perceptions of mobility to inform an agent-based simulator of subjective modal choice**|Carole Adam et.al.|[2502.12058](http://arxiv.org/abs/2502.12058)|null|
+|**2025-02-16**|**Leveraging Multimodal-LLMs Assisted by Instance Segmentation for Intelligent Traffic Monitoring**|Murat Arda Onsu et.al.|[2502.11304](http://arxiv.org/abs/2502.11304)|null|
+|**2025-02-15**|**MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models**|Vanya Cohen et.al.|[2502.10886](http://arxiv.org/abs/2502.10886)|null|
+|**2025-02-14**|**Efficient Hierarchical Contrastive Self-supervising Learning for Time Series Classification via Importance-aware Resolution Selection**|Kevin Garcia et.al.|[2502.10567](http://arxiv.org/abs/2502.10567)|null|
+|**2025-02-14**|**Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations**|Abdelrhman Shaheen et.al.|[2502.10303](http://arxiv.org/abs/2502.10303)|null|
+|**2025-02-14**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|null|
 |**2025-02-13**|**New Models of Jupiter's Magnetopause and Bow Shock through the $Juno$ Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation**|M. J. Rutala et.al.|[2502.09186](http://arxiv.org/abs/2502.09186)|null|
 |**2025-02-11**|**The establishment of static digital humans and the integration with spinal models**|Fujiao Ju et.al.|[2502.07844](http://arxiv.org/abs/2502.07844)|null|
-|**2025-02-11**|**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**|Sicheng Wang et.al.|[2502.07837](http://arxiv.org/abs/2502.07837)|null|
+|**2025-02-11**|**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**|Sicheng Wang et.al.|[2502.07837](http://arxiv.org/abs/2502.07837)|**[link](https://github.com/peterwangsicheng/robobert)**|
 |**2025-02-11**|**Integrating Physics and Data-Driven Approaches: An Explainable and Uncertainty-Aware Hybrid Model for Wind Turbine Power Prediction**|Alfonso Gijón et.al.|[2502.07344](http://arxiv.org/abs/2502.07344)|**[link](https://github.com/alfonsogijon/WindTurbines_hybrid)**|
 |**2025-02-07**|**Model Fusion via Neuron Transplantation**|Muhammed Öz et.al.|[2502.06849](http://arxiv.org/abs/2502.06849)|**[link](https://github.com/masterbaer/neuron-transplantation)**|
 |**2025-02-09**|**Propagation of Chaos for Mean-Field Langevin Dynamics and its Application to Model Ensemble**|Atsushi Nitanda et.al.|[2502.05784](http://arxiv.org/abs/2502.05784)|null|
 |**2025-02-09**|**Target Speaker Lipreading by Audio-Visual Self-Distillation Pretraining and Speaker Adaptation**|Jing-Xuan Zhang et.al.|[2502.05758](http://arxiv.org/abs/2502.05758)|null|
 |**2025-02-08**|**Constitutive Kolmogorov-Arnold Networks (CKANs): Combining Accuracy and Interpretability in Data-Driven Material Modeling**|Kian P. Abdolazizi et.al.|[2502.05682](http://arxiv.org/abs/2502.05682)|null|
-|**2025-02-08**|**Federated Learning with Reservoir State Analysis for Time Series Anomaly Detection**|Keigo Nogami et.al.|[2502.05679](http://arxiv.org/abs/2502.05679)|null|
+|**2025-02-14**|**Federated Learning with Reservoir State Analysis for Time Series Anomaly Detection**|Keigo Nogami et.al.|[2502.05679](http://arxiv.org/abs/2502.05679)|**[link](https://github.com/Key5n/IncFed-MDRS)**|
 |**2025-02-08**|**Analyzing public sentiment to gauge key stock events and determine volatility in conjunction with time and options premiums**|SriVarsha Mulakala et.al.|[2502.05403](http://arxiv.org/abs/2502.05403)|null|
 |**2025-02-04**|**Reusing Embeddings: Reproducible Reward Model Research in Large Language Model Alignment without GPUs**|Hao Sun et.al.|[2502.04357](http://arxiv.org/abs/2502.04357)|null|
 |**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877](http://arxiv.org/abs/2502.03877)|null|
@@ -174,7 +201,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
