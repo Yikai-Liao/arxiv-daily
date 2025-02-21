@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.02.19
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
+|**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|null|
+|**2025-02-18**|**Speech-FT: A Fine-tuning Strategy for Enhancing Speech Representation Models Without Compromising Generalization Ability**|Tzu-Quan Lin et.al.|[2502.12672](http://arxiv.org/abs/2502.12672)|null|
+|**2025-02-19**|**Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models**|Shuqi Liu et.al.|[2502.12420](http://arxiv.org/abs/2502.12420)|null|
+|**2025-02-17**|**Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging**|Zhixiang Wang et.al.|[2502.12217](http://arxiv.org/abs/2502.12217)|null|
 |**2025-02-17**|**Merging Language and Domain Specific Models: The Impact on Technical Vocabulary Acquisition**|Thibault Rousset et.al.|[2502.12001](http://arxiv.org/abs/2502.12001)|null|
 |**2025-02-17**|**Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy**|Zhenyuan Guo et.al.|[2502.11533](http://arxiv.org/abs/2502.11533)|null|
 |**2025-02-16**|**Asymmetric Conflict and Synergy in Post-training for LLM-based Multilingual Machine Translation**|Tong Zheng et.al.|[2502.11223](http://arxiv.org/abs/2502.11223)|null|
@@ -55,6 +60,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Continually Learning Structured Visual Representations via Network Refinement with Rerelation**|Zeki Doruk Erden et.al.|[2502.13935](http://arxiv.org/abs/2502.13935)|null|
+|**2025-02-18**|**A Survey of Text Classification Under Class Distribution Shift**|Adriana Valentina Costache et.al.|[2502.12965](http://arxiv.org/abs/2502.12965)|null|
+|**2025-02-18**|**Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning**|Nandakishor M et.al.|[2502.12876](http://arxiv.org/abs/2502.12876)|null|
+|**2025-02-18**|**Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks**|Jingzhi Hu et.al.|[2502.12736](http://arxiv.org/abs/2502.12736)|null|
+|**2025-02-18**|**Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion**|Mingyang Wang et.al.|[2502.12598](http://arxiv.org/abs/2502.12598)|null|
+|**2025-02-17**|**Achieving Upper Bound Accuracy of Joint Training in Continual Learning**|Saleh Momeni et.al.|[2502.12388](http://arxiv.org/abs/2502.12388)|null|
+|**2025-02-14**|**Ten Challenging Problems in Federated Foundation Models**|Tao Fan et.al.|[2502.12176](http://arxiv.org/abs/2502.12176)|null|
 |**2025-02-17**|**Continual Learning Should Move Beyond Incremental Classification**|Rupert Mitchell et.al.|[2502.11927](http://arxiv.org/abs/2502.11927)|null|
 |**2025-02-17**|**On the Computation of the Fisher Information in Continual Learning**|Gido M. van de Ven et.al.|[2502.11756](http://arxiv.org/abs/2502.11756)|null|
 |**2025-02-17**|**Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent**|Junda Wu et.al.|[2502.11740](http://arxiv.org/abs/2502.11740)|null|
@@ -130,12 +142,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Transferable Machine Learning Potential X-MACE for Excited States using Integrated DeepSets**|Rhyan Barrett et.al.|[2502.12870](http://arxiv.org/abs/2502.12870)|null|
+|**2025-02-18**|**IPSR Model: Misinformation Intervention through Prebunking in Social Networks**|Robert Rai et.al.|[2502.12740](http://arxiv.org/abs/2502.12740)|null|
+|**2025-02-17**|**DiffuRNN: Harnessing Diffusion Processes for Global Interactions**|Jacob Fein-Ashley et.al.|[2502.12381](http://arxiv.org/abs/2502.12381)|null|
 |**2025-02-17**|**A survey about perceptions of mobility to inform an agent-based simulator of subjective modal choice**|Carole Adam et.al.|[2502.12058](http://arxiv.org/abs/2502.12058)|null|
 |**2025-02-16**|**Leveraging Multimodal-LLMs Assisted by Instance Segmentation for Intelligent Traffic Monitoring**|Murat Arda Onsu et.al.|[2502.11304](http://arxiv.org/abs/2502.11304)|null|
 |**2025-02-15**|**MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models**|Vanya Cohen et.al.|[2502.10886](http://arxiv.org/abs/2502.10886)|null|
 |**2025-02-14**|**Efficient Hierarchical Contrastive Self-supervising Learning for Time Series Classification via Importance-aware Resolution Selection**|Kevin Garcia et.al.|[2502.10567](http://arxiv.org/abs/2502.10567)|null|
 |**2025-02-14**|**Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations**|Abdelrhman Shaheen et.al.|[2502.10303](http://arxiv.org/abs/2502.10303)|null|
-|**2025-02-14**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|null|
+|**2025-02-19**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|**[link](https://github.com/ctu-vras/monoforce)**|
 |**2025-02-13**|**New Models of Jupiter's Magnetopause and Bow Shock through the $Juno$ Prime Mission: Probabilistic Location, Shape, and Internally-driven Variation**|M. J. Rutala et.al.|[2502.09186](http://arxiv.org/abs/2502.09186)|null|
 |**2025-02-11**|**The establishment of static digital humans and the integration with spinal models**|Fujiao Ju et.al.|[2502.07844](http://arxiv.org/abs/2502.07844)|null|
 |**2025-02-11**|**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**|Sicheng Wang et.al.|[2502.07837](http://arxiv.org/abs/2502.07837)|**[link](https://github.com/peterwangsicheng/robobert)**|
