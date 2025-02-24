@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
-|**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|null|
+|**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|**[link](https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation)**|
 |**2025-02-18**|**Speech-FT: A Fine-tuning Strategy for Enhancing Speech Representation Models Without Compromising Generalization Ability**|Tzu-Quan Lin et.al.|[2502.12672](http://arxiv.org/abs/2502.12672)|null|
 |**2025-02-19**|**Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models**|Shuqi Liu et.al.|[2502.12420](http://arxiv.org/abs/2502.12420)|null|
 |**2025-02-17**|**Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging**|Zhixiang Wang et.al.|[2502.12217](http://arxiv.org/abs/2502.12217)|null|
@@ -62,7 +62,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning**|M. Caner Tol et.al.|[2502.14307](http://arxiv.org/abs/2502.14307)|null|
-|**2025-02-20**|**Accurate Forgetting for Heterogeneous Federated Continual Learning**|Abudukelimu Wuerkaixi et.al.|[2502.14205](http://arxiv.org/abs/2502.14205)|null|
+|**2025-02-20**|**Accurate Forgetting for Heterogeneous Federated Continual Learning**|Abudukelimu Wuerkaixi et.al.|[2502.14205](http://arxiv.org/abs/2502.14205)|**[link](https://github.com/zaocan666/af-fcl)**|
 |**2025-02-19**|**CND-IDS: Continual Novelty Detection for Intrusion Detection Systems**|Sean Fuhrman et.al.|[2502.14094](http://arxiv.org/abs/2502.14094)|null|
 |**2025-02-19**|**Continually Learning Structured Visual Representations via Network Refinement with Rerelation**|Zeki Doruk Erden et.al.|[2502.13935](http://arxiv.org/abs/2502.13935)|null|
 |**2025-02-18**|**A Survey of Text Classification Under Class Distribution Shift**|Adriana Valentina Costache et.al.|[2502.12965](http://arxiv.org/abs/2502.12965)|null|
@@ -151,7 +151,7 @@ layout: default
 |**2025-02-20**|**SleepGMUformer: A gated multimodal temporal neural network for sleep staging**|Chenjun Zhao et.al.|[2502.14227](http://arxiv.org/abs/2502.14227)|null|
 |**2025-02-20**|**QUAD-LLM-MLTC: Large Language Models Ensemble Learning for Healthcare Text Multi-Label Classification**|Hajar Sakai et.al.|[2502.14189](http://arxiv.org/abs/2502.14189)|null|
 |**2025-02-19**|**Explainable Distributed Constraint Optimization Problems**|Ben Rachmut et.al.|[2502.14102](http://arxiv.org/abs/2502.14102)|null|
-|**2025-02-18**|**Transferable Machine Learning Potential X-MACE for Excited States using Integrated DeepSets**|Rhyan Barrett et.al.|[2502.12870](http://arxiv.org/abs/2502.12870)|null|
+|**2025-02-18**|**Transferable Machine Learning Potential X-MACE for Excited States using Integrated DeepSets**|Rhyan Barrett et.al.|[2502.12870](http://arxiv.org/abs/2502.12870)|**[link](https://github.com/rhyan10/E-MACE)**|
 |**2025-02-18**|**IPSR Model: Misinformation Intervention through Prebunking in Social Networks**|Robert Rai et.al.|[2502.12740](http://arxiv.org/abs/2502.12740)|null|
 |**2025-02-19**|**Linear Diffusion Networks: Harnessing Diffusion Processes for Global Interactions**|Jacob Fein-Ashley et.al.|[2502.12381](http://arxiv.org/abs/2502.12381)|null|
 |**2025-02-17**|**A survey about perceptions of mobility to inform an agent-based simulator of subjective modal choice**|Carole Adam et.al.|[2502.12058](http://arxiv.org/abs/2502.12058)|null|
