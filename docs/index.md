@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|null|
 |**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
 |**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|**[link](https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation)**|
 |**2025-02-18**|**Speech-FT: A Fine-tuning Strategy for Enhancing Speech Representation Models Without Compromising Generalization Ability**|Tzu-Quan Lin et.al.|[2502.12672](http://arxiv.org/abs/2502.12672)|null|
@@ -60,6 +61,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
+|**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning**|M. Caner Tol et.al.|[2502.14307](http://arxiv.org/abs/2502.14307)|null|
 |**2025-02-20**|**Accurate Forgetting for Heterogeneous Federated Continual Learning**|Abudukelimu Wuerkaixi et.al.|[2502.14205](http://arxiv.org/abs/2502.14205)|**[link](https://github.com/zaocan666/af-fcl)**|
@@ -146,6 +149,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
+|**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
+|**2025-02-20**|**Towards Physics-Guided Foundation Models**|Majid Farhadloo et.al.|[2502.15013](http://arxiv.org/abs/2502.15013)|null|
 |**2025-02-20**|**A Collaborative Jade Recognition System for Mobile Devices Based on Lightweight and Large Models**|Zhenyu Wang et.al.|[2502.14332](http://arxiv.org/abs/2502.14332)|null|
 |**2025-02-20**|**Bayesian Parameter Inference and Uncertainty Quantification for a Computational Pulmonary Hemodynamics Model Using Gaussian Processes**|Amirreza Kachabi et.al.|[2502.14251](http://arxiv.org/abs/2502.14251)|null|
 |**2025-02-20**|**SleepGMUformer: A gated multimodal temporal neural network for sleep staging**|Chenjun Zhao et.al.|[2502.14227](http://arxiv.org/abs/2502.14227)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|null|
 |**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
 |**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|**[link](https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation)**|
 |**2025-02-18**|**Speech-FT: A Fine-tuning Strategy for Enhancing Speech Representation Models Without Compromising Generalization Ability**|Tzu-Quan Lin et.al.|[2502.12672](http://arxiv.org/abs/2502.12672)|null|
@@ -61,12 +62,14 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
+|**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning**|M. Caner Tol et.al.|[2502.14307](http://arxiv.org/abs/2502.14307)|null|
 |**2025-02-20**|**Accurate Forgetting for Heterogeneous Federated Continual Learning**|Abudukelimu Wuerkaixi et.al.|[2502.14205](http://arxiv.org/abs/2502.14205)|**[link](https://github.com/zaocan666/af-fcl)**|
@@ -149,12 +152,15 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
+|**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
+|**2025-02-20**|**Towards Physics-Guided Foundation Models**|Majid Farhadloo et.al.|[2502.15013](http://arxiv.org/abs/2502.15013)|null|
 |**2025-02-20**|**A Collaborative Jade Recognition System for Mobile Devices Based on Lightweight and Large Models**|Zhenyu Wang et.al.|[2502.14332](http://arxiv.org/abs/2502.14332)|null|
 |**2025-02-20**|**Bayesian Parameter Inference and Uncertainty Quantification for a Computational Pulmonary Hemodynamics Model Using Gaussian Processes**|Amirreza Kachabi et.al.|[2502.14251](http://arxiv.org/abs/2502.14251)|null|
 |**2025-02-20**|**SleepGMUformer: A gated multimodal temporal neural network for sleep staging**|Chenjun Zhao et.al.|[2502.14227](http://arxiv.org/abs/2502.14227)|null|
@@ -225,7 +231,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
