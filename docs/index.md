@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-22**|**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**|Yujie Feng et.al.|[2502.17510](http://arxiv.org/abs/2502.17510)|null|
+|**2025-02-24**|**Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation**|Qiuming Zhao et.al.|[2502.17380](http://arxiv.org/abs/2502.17380)|null|
+|**2025-02-24**|**Low-rank bias, weight decay, and model merging in neural networks**|Ilja Kuzborskij et.al.|[2502.17340](http://arxiv.org/abs/2502.17340)|null|
+|**2025-02-24**|**Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation**|Fanhu Zeng et.al.|[2502.17159](http://arxiv.org/abs/2502.17159)|null|
+|**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
+|**2025-02-22**|**Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging**|Lin Lu et.al.|[2502.16094](http://arxiv.org/abs/2502.16094)|null|
+|**2025-02-22**|**MedForge: Building Medical Foundation Models Like Open Source Software Development**|Zheling Tan et.al.|[2502.16055](http://arxiv.org/abs/2502.16055)|**[link](https://github.com/tanzheling/medforge)**|
 |**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|null|
 |**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
 |**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|**[link](https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation)**|
@@ -61,6 +68,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-25**|**C-LoRA: Continual Low-Rank Adaptation for Pre-trained Models**|Xin Zhang et.al.|[2502.17920](http://arxiv.org/abs/2502.17920)|null|
+|**2025-02-25**|**PVBF: A Framework for Mitigating Parameter Variation Imbalance in Online Continual Learning**|Zelin Tao et.al.|[2502.17794](http://arxiv.org/abs/2502.17794)|null|
+|**2025-02-25**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788](http://arxiv.org/abs/2502.17788)|null|
+|**2025-02-22**|**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**|Yujie Feng et.al.|[2502.17510](http://arxiv.org/abs/2502.17510)|null|
+|**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|**[link](https://github.com/vgthengane/climb3d)**|
+|**2025-02-24**|**A Novel Multiple Access Scheme for Heterogeneous Wireless Communications using Symmetry-aware Continual Deep Reinforcement Learning**|Hamidreza Mazandarani et.al.|[2502.17167](http://arxiv.org/abs/2502.17167)|null|
+|**2025-02-24**|**Thus Spake Long-Context Large Language Model**|Xiaoran Liu et.al.|[2502.17129](http://arxiv.org/abs/2502.17129)|null|
+|**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648](http://arxiv.org/abs/2502.16648)|null|
+|**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575](http://arxiv.org/abs/2502.16575)|null|
+|**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
+|**2025-02-21**|**On the Design of Safe Continual RL Methods for Control of Nonlinear Systems**|Austin Coursey et.al.|[2502.15922](http://arxiv.org/abs/2502.15922)|null|
+|**2025-02-19**|**Stock Price Prediction Using a Hybrid LSTM-GNN Model: Integrating Time-Series and Graph-Based Analysis**|Meet Satishbhai Sonani et.al.|[2502.15813](http://arxiv.org/abs/2502.15813)|null|
 |**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
 |**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
@@ -149,6 +169,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback**|Jane Pan et.al.|[2502.18413](http://arxiv.org/abs/2502.18413)|null|
+|**2025-02-25**|**Uncertainty Modeling in Multimodal Speech Analysis Across the Psychosis Spectrum**|Morteza Rohanian et.al.|[2502.18285](http://arxiv.org/abs/2502.18285)|null|
+|**2025-02-22**|**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**|Yujie Feng et.al.|[2502.17510](http://arxiv.org/abs/2502.17510)|null|
+|**2025-02-24**|**Multi-modal and Metadata Capture Model for Micro Video Popularity Prediction**|Jiacheng Lu et.al.|[2502.17038](http://arxiv.org/abs/2502.17038)|null|
+|**2025-02-24**|**FedBM: Stealing Knowledge from Pre-trained Language Models for Heterogeneous Federated Learning**|Meilu Zhu et.al.|[2502.16832](http://arxiv.org/abs/2502.16832)|**[link](https://github.com/cuhk-aim-group/fedbm)**|
+|**2025-02-23**|**A Survey of Graph Transformers: Architectures, Theories and Applications**|Chaohao Yuan et.al.|[2502.16533](http://arxiv.org/abs/2502.16533)|null|
+|**2025-02-22**|**DUPRE: Data Utility Prediction for Efficient Data Valuation**|Kieu Thao Nguyen Pham et.al.|[2502.16152](http://arxiv.org/abs/2502.16152)|null|
+|**2025-02-20**|**Explainable Artificial Intelligence Model for Evaluating Shear Strength Parameters of Municipal Solid Waste Across Diverse Compositional Profiles**|Parichat Suknark et.al.|[2502.15827](http://arxiv.org/abs/2502.15827)|null|
+|**2025-02-19**|**Stock Price Prediction Using a Hybrid LSTM-GNN Model: Integrating Time-Series and Graph-Based Analysis**|Meet Satishbhai Sonani et.al.|[2502.15813](http://arxiv.org/abs/2502.15813)|null|
 |**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
 |**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
 |**2025-02-20**|**Towards Physics-Guided Foundation Models**|Majid Farhadloo et.al.|[2502.15013](http://arxiv.org/abs/2502.15013)|null|
