@@ -1,4 +1,4 @@
-## Updated on 2025.02.27
+## Updated on 2025.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
+|**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
 |**2025-02-22**|**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**|Yujie Feng et.al.|[2502.17510](http://arxiv.org/abs/2502.17510)|null|
-|**2025-02-24**|**Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation**|Qiuming Zhao et.al.|[2502.17380](http://arxiv.org/abs/2502.17380)|null|
+|**2025-02-26**|**Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation**|Qiuming Zhao et.al.|[2502.17380](http://arxiv.org/abs/2502.17380)|null|
 |**2025-02-24**|**Low-rank bias, weight decay, and model merging in neural networks**|Ilja Kuzborskij et.al.|[2502.17340](http://arxiv.org/abs/2502.17340)|null|
 |**2025-02-24**|**Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation**|Fanhu Zeng et.al.|[2502.17159](http://arxiv.org/abs/2502.17159)|null|
 |**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
@@ -69,13 +71,18 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124](http://arxiv.org/abs/2502.20124)|null|
+|**2025-02-27**|**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**|Guannan Lai et.al.|[2502.20032](http://arxiv.org/abs/2502.20032)|null|
+|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848](http://arxiv.org/abs/2502.19848)|null|
+|**2025-02-26**|**PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems**|Mingdai Yang et.al.|[2502.19628](http://arxiv.org/abs/2502.19628)|null|
+|**2025-02-26**|**Online Prototypes and Class-Wise Hypergradients for Online Continual Learning with Pre-Trained Models**|Nicolas Michel et.al.|[2502.18762](http://arxiv.org/abs/2502.18762)|null|
+|**2025-02-27**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-25**|**C-LoRA: Continual Low-Rank Adaptation for Pre-trained Models**|Xin Zhang et.al.|[2502.17920](http://arxiv.org/abs/2502.17920)|null|
 |**2025-02-25**|**PVBF: A Framework for Mitigating Parameter Variation Imbalance in Online Continual Learning**|Zelin Tao et.al.|[2502.17794](http://arxiv.org/abs/2502.17794)|null|
 |**2025-02-25**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788](http://arxiv.org/abs/2502.17788)|null|
@@ -86,7 +93,7 @@
 |**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648](http://arxiv.org/abs/2502.16648)|null|
 |**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575](http://arxiv.org/abs/2502.16575)|null|
 |**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
-|**2025-02-21**|**On the Design of Safe Continual RL Methods for Control of Nonlinear Systems**|Austin Coursey et.al.|[2502.15922](http://arxiv.org/abs/2502.15922)|null|
+|**2025-02-21**|**On the Design of Safe Continual RL Methods for Control of Nonlinear Systems**|Austin Coursey et.al.|[2502.15922](http://arxiv.org/abs/2502.15922)|**[link](https://github.com/MACS-Research-Lab/safe-continual)**|
 |**2025-02-19**|**Stock Price Prediction Using a Hybrid LSTM-GNN Model: Integrating Time-Series and Graph-Based Analysis**|Meet Satishbhai Sonani et.al.|[2502.15813](http://arxiv.org/abs/2502.15813)|null|
 |**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
 |**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
@@ -172,20 +179,23 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback**|Jane Pan et.al.|[2502.18413](http://arxiv.org/abs/2502.18413)|null|
+|**2025-02-26**|**3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer**|Hongkun Yu et.al.|[2502.19623](http://arxiv.org/abs/2502.19623)|null|
+|**2025-02-26**|**Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**|Hao Peng et.al.|[2502.19328](http://arxiv.org/abs/2502.19328)|null|
+|**2025-02-26**|**Dynamic Classification: Leveraging Self-Supervised Classification to Enhance Prediction Performance**|Ziyuan Zhong et.al.|[2502.18891](http://arxiv.org/abs/2502.18891)|null|
+|**2025-02-25**|**When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback**|Jane Pan et.al.|[2502.18413](http://arxiv.org/abs/2502.18413)|**[link](https://github.com/janepan9917/whenbenchmarkstalk)**|
 |**2025-02-25**|**Uncertainty Modeling in Multimodal Speech Analysis Across the Psychosis Spectrum**|Morteza Rohanian et.al.|[2502.18285](http://arxiv.org/abs/2502.18285)|null|
 |**2025-02-22**|**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**|Yujie Feng et.al.|[2502.17510](http://arxiv.org/abs/2502.17510)|null|
 |**2025-02-24**|**Multi-modal and Metadata Capture Model for Micro Video Popularity Prediction**|Jiacheng Lu et.al.|[2502.17038](http://arxiv.org/abs/2502.17038)|null|
 |**2025-02-24**|**FedBM: Stealing Knowledge from Pre-trained Language Models for Heterogeneous Federated Learning**|Meilu Zhu et.al.|[2502.16832](http://arxiv.org/abs/2502.16832)|**[link](https://github.com/cuhk-aim-group/fedbm)**|
-|**2025-02-23**|**A Survey of Graph Transformers: Architectures, Theories and Applications**|Chaohao Yuan et.al.|[2502.16533](http://arxiv.org/abs/2502.16533)|null|
+|**2025-02-27**|**A Survey of Graph Transformers: Architectures, Theories and Applications**|Chaohao Yuan et.al.|[2502.16533](http://arxiv.org/abs/2502.16533)|null|
 |**2025-02-22**|**DUPRE: Data Utility Prediction for Efficient Data Valuation**|Kieu Thao Nguyen Pham et.al.|[2502.16152](http://arxiv.org/abs/2502.16152)|null|
-|**2025-02-20**|**Explainable Artificial Intelligence Model for Evaluating Shear Strength Parameters of Municipal Solid Waste Across Diverse Compositional Profiles**|Parichat Suknark et.al.|[2502.15827](http://arxiv.org/abs/2502.15827)|null|
+|**2025-02-26**|**Explainable Artificial Intelligence Model for Evaluating Shear Strength Parameters of Municipal Solid Waste Across Diverse Compositional Profiles**|Parichat Suknark et.al.|[2502.15827](http://arxiv.org/abs/2502.15827)|null|
 |**2025-02-19**|**Stock Price Prediction Using a Hybrid LSTM-GNN Model: Integrating Time-Series and Graph-Based Analysis**|Meet Satishbhai Sonani et.al.|[2502.15813](http://arxiv.org/abs/2502.15813)|null|
 |**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
 |**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
@@ -260,7 +270,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
