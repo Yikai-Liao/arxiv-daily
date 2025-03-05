@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.03
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models**|Hu Wang et.al.|[2502.20516](http://arxiv.org/abs/2502.20516)|null|
 |**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
 |**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
 |**2025-02-22**|**Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**|Yujie Feng et.al.|[2502.17510](http://arxiv.org/abs/2502.17510)|null|
@@ -18,7 +19,7 @@ layout: default
 |**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
 |**2025-02-22**|**Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging**|Lin Lu et.al.|[2502.16094](http://arxiv.org/abs/2502.16094)|null|
 |**2025-02-22**|**MedForge: Building Medical Foundation Models Like Open Source Software Development**|Zheling Tan et.al.|[2502.16055](http://arxiv.org/abs/2502.16055)|**[link](https://github.com/tanzheling/medforge)**|
-|**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|null|
+|**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|**[link](https://github.com/mlgroupjlu/mixupmodelmerge)**|
 |**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
 |**2025-02-18**|**Scalable Model Merging with Progressive Layer-wise Distillation**|Jing Xu et.al.|[2502.12706](http://arxiv.org/abs/2502.12706)|**[link](https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation)**|
 |**2025-02-18**|**Speech-FT: A Fine-tuning Strategy for Enhancing Speech Representation Models Without Compromising Generalization Ability**|Tzu-Quan Lin et.al.|[2502.12672](http://arxiv.org/abs/2502.12672)|null|
@@ -70,9 +71,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124](http://arxiv.org/abs/2502.20124)|null|
-|**2025-02-27**|**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**|Guannan Lai et.al.|[2502.20032](http://arxiv.org/abs/2502.20032)|null|
-|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848](http://arxiv.org/abs/2502.19848)|null|
+|**2025-02-28**|**Same accuracy, twice as fast: continuous training surpasses retraining from scratch**|Eli Verwimp et.al.|[2502.21147](http://arxiv.org/abs/2502.21147)|null|
+|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996](http://arxiv.org/abs/2502.20996)|null|
+|**2025-02-28**|**Improving Open-world Continual Learning under the Constraints of Scarce Labeled Data**|Yujie Li et.al.|[2502.20974](http://arxiv.org/abs/2502.20974)|null|
+|**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124](http://arxiv.org/abs/2502.20124)|**[link](https://github.com/aignlai/holitrans)**|
+|**2025-02-27**|**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**|Guannan Lai et.al.|[2502.20032](http://arxiv.org/abs/2502.20032)|**[link](https://github.com/aignlai/gddsg)**|
+|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848](http://arxiv.org/abs/2502.19848)|**[link](https://github.com/funz-0/one-for-more)**|
 |**2025-02-26**|**PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems**|Mingdai Yang et.al.|[2502.19628](http://arxiv.org/abs/2502.19628)|null|
 |**2025-02-26**|**Online Prototypes and Class-Wise Hypergradients for Online Continual Learning with Pre-Trained Models**|Nicolas Michel et.al.|[2502.18762](http://arxiv.org/abs/2502.18762)|null|
 |**2025-02-27**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
@@ -176,6 +180,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Token-level Ensembling of Models with Different Vocabularies**|Rachel Wicks et.al.|[2502.21265](http://arxiv.org/abs/2502.21265)|null|
+|**2025-02-28**|**Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**|Yuheng Jia et.al.|[2502.21163](http://arxiv.org/abs/2502.21163)|null|
+|**2025-02-28**|**A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning**|Amadou S. Sangare et.al.|[2502.20885](http://arxiv.org/abs/2502.20885)|null|
+|**2025-02-28**|**Collective Reasoning Among LLMs A Framework for Answer Validation Without Ground Truth**|Seyed Pouyan Mousavi Davoudi et.al.|[2502.20758](http://arxiv.org/abs/2502.20758)|null|
 |**2025-02-26**|**3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer**|Hongkun Yu et.al.|[2502.19623](http://arxiv.org/abs/2502.19623)|null|
 |**2025-02-26**|**Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**|Hao Peng et.al.|[2502.19328](http://arxiv.org/abs/2502.19328)|null|
 |**2025-02-26**|**Dynamic Classification: Leveraging Self-Supervised Classification to Enhance Prediction Performance**|Ziyuan Zhong et.al.|[2502.18891](http://arxiv.org/abs/2502.18891)|null|
