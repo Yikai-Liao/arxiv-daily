@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.03.05
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|null|
+|**2025-03-03**|**Superficial Self-Improved Reasoners Benefit from Model Merging**|Xiangchi Yuan et.al.|[2503.02103](http://arxiv.org/abs/2503.02103)|null|
+|**2025-02-26**|**CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging**|Zongzhen Yang et.al.|[2503.01874](http://arxiv.org/abs/2503.01874)|null|
+|**2025-03-03**|**Multi-Level Collaboration in Model Merging**|Qi Li et.al.|[2503.01268](http://arxiv.org/abs/2503.01268)|null|
+|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|null|
+|**2025-03-01**|**BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge**|Terry Tong et.al.|[2503.00596](http://arxiv.org/abs/2503.00596)|null|
 |**2025-02-27**|**In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models**|Hu Wang et.al.|[2502.20516](http://arxiv.org/abs/2502.20516)|null|
 |**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
 |**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
@@ -71,6 +77,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection**|Manuel Barusco et.al.|[2503.02691](http://arxiv.org/abs/2503.02691)|null|
+|**2025-03-04**|**A Theory of Initialisation's Impact on Specialisation**|Devon Jarvis et.al.|[2503.02526](http://arxiv.org/abs/2503.02526)|null|
+|**2025-03-04**|**Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**|Kenta Tsukahara et.al.|[2503.02256](http://arxiv.org/abs/2503.02256)|null|
+|**2025-03-03**|**Parabolic Continual Learning**|Haoming Yang et.al.|[2503.02117](http://arxiv.org/abs/2503.02117)|null|
+|**2025-02-28**|**Continual Learning-Aided Super-Resolution Scheme for Channel Reconstruction and Generalization in OFDM Systems**|Jianqiao Chen et.al.|[2503.01897](http://arxiv.org/abs/2503.01897)|null|
+|**2025-02-27**|**When Continue Learning Meets Multimodal Large Language Model: A Survey**|Yukang Huo et.al.|[2503.01887](http://arxiv.org/abs/2503.01887)|null|
+|**2025-03-03**|**An Efficient Continual Learning Framework for Multivariate Time Series Prediction Tasks with Application to Vehicle State Estimation**|Arvin Hosseinzadeh et.al.|[2503.01669](http://arxiv.org/abs/2503.01669)|null|
+|**2025-03-03**|**STAR: Stability-Inducing Weight Perturbation for Continual Learning**|Masih Eskandar et.al.|[2503.01595](http://arxiv.org/abs/2503.01595)|null|
+|**2025-03-03**|**A Selective Learning Method for Temporal Graph Continual Learning**|Hanmo Liu et.al.|[2503.01580](http://arxiv.org/abs/2503.01580)|null|
+|**2025-03-03**|**Alchemist: Towards the Design of Efficient Online Continual Learning System**|Yuyang Huang et.al.|[2503.01066](http://arxiv.org/abs/2503.01066)|null|
+|**2025-03-02**|**Advancing Prompt-Based Methods for Replay-Independent General Continual Learning**|Zhiqi Kang et.al.|[2503.00677](http://arxiv.org/abs/2503.00677)|**[link](https://github.com/kangzhiq/misa)**|
+|**2025-03-01**|**Efficient Prompting for Continual Adaptation to Missing Modalities**|Zirun Guo et.al.|[2503.00528](http://arxiv.org/abs/2503.00528)|null|
+|**2025-03-01**|**CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering**|Tianyu Huai et.al.|[2503.00413](http://arxiv.org/abs/2503.00413)|null|
+|**2025-03-01**|**Reservoir Network with Structural Plasticity for Human Activity Recognition**|Abdullah M. Zyarah et.al.|[2503.00393](http://arxiv.org/abs/2503.00393)|null|
 |**2025-02-28**|**Same accuracy, twice as fast: continuous training surpasses retraining from scratch**|Eli Verwimp et.al.|[2502.21147](http://arxiv.org/abs/2502.21147)|null|
 |**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996](http://arxiv.org/abs/2502.20996)|null|
 |**2025-02-28**|**Improving Open-world Continual Learning under the Constraints of Scarce Labeled Data**|Yujie Li et.al.|[2502.20974](http://arxiv.org/abs/2502.20974)|null|
@@ -180,12 +200,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**A Survey of Foundation Models for Environmental Science**|Runlong Yu et.al.|[2503.03142](http://arxiv.org/abs/2503.03142)|null|
+|**2025-03-01**|**Adaptive Entanglement Routing with Deep Q-Networks in Quantum Networks**|Lamarana Jallow et.al.|[2503.02895](http://arxiv.org/abs/2503.02895)|null|
+|**2025-03-04**|**Resonance-Driven Mechanisms of Ion Transport and Selectivity**|Ronald L. Westra et.al.|[2503.02617](http://arxiv.org/abs/2503.02617)|null|
+|**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Wenxuan Song et.al.|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
+|**2025-03-04**|**Hybrid Quantum Physics-informed Neural Network: Towards Efficient Learning of High-speed Flows**|Fong Yew Leong et.al.|[2503.02202](http://arxiv.org/abs/2503.02202)|null|
+|**2025-03-03**|**HI-Series Algorithms A Hybrid of Substance Diffusion Algorithm and Collaborative Filtering**|Yu Peng et.al.|[2503.01305](http://arxiv.org/abs/2503.01305)|null|
+|**2025-03-03**|**Multi-Level Collaboration in Model Merging**|Qi Li et.al.|[2503.01268](http://arxiv.org/abs/2503.01268)|null|
+|**2025-03-01**|**A Stimulus-Response Model for Explaining When Students Decide to Engage in a Physics Task: The TSMS-Model**|Eva Cauet et.al.|[2503.00490](http://arxiv.org/abs/2503.00490)|null|
+|**2025-03-01**|**LNUCB-TA: Linear-nonlinear Hybrid Bandit Learning with Temporal Attention**|Hamed Khosravi et.al.|[2503.00387](http://arxiv.org/abs/2503.00387)|null|
+|**2025-02-28**|**Goldilocks and the bootstrap**|David Berenstein et.al.|[2503.00104](http://arxiv.org/abs/2503.00104)|null|
 |**2025-02-28**|**Token-level Ensembling of Models with Different Vocabularies**|Rachel Wicks et.al.|[2502.21265](http://arxiv.org/abs/2502.21265)|null|
 |**2025-02-28**|**Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**|Yuheng Jia et.al.|[2502.21163](http://arxiv.org/abs/2502.21163)|null|
 |**2025-02-28**|**A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning**|Amadou S. Sangare et.al.|[2502.20885](http://arxiv.org/abs/2502.20885)|null|
 |**2025-02-28**|**Collective Reasoning Among LLMs A Framework for Answer Validation Without Ground Truth**|Seyed Pouyan Mousavi Davoudi et.al.|[2502.20758](http://arxiv.org/abs/2502.20758)|null|
 |**2025-02-26**|**3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer**|Hongkun Yu et.al.|[2502.19623](http://arxiv.org/abs/2502.19623)|null|
-|**2025-02-26**|**Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**|Hao Peng et.al.|[2502.19328](http://arxiv.org/abs/2502.19328)|null|
+|**2025-02-26**|**Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**|Hao Peng et.al.|[2502.19328](http://arxiv.org/abs/2502.19328)|**[link](https://github.com/thu-keg/agentic-reward-modeling)**|
 |**2025-02-26**|**Dynamic Classification: Leveraging Self-Supervised Classification to Enhance Prediction Performance**|Ziyuan Zhong et.al.|[2502.18891](http://arxiv.org/abs/2502.18891)|null|
 |**2025-02-25**|**When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback**|Jane Pan et.al.|[2502.18413](http://arxiv.org/abs/2502.18413)|**[link](https://github.com/janepan9917/whenbenchmarkstalk)**|
 |**2025-02-25**|**Uncertainty Modeling in Multimodal Speech Analysis Across the Psychosis Spectrum**|Morteza Rohanian et.al.|[2502.18285](http://arxiv.org/abs/2502.18285)|null|
