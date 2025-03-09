@@ -1,4 +1,4 @@
-## Updated on 2025.03.07
+## Updated on 2025.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
 |**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|null|
 |**2025-03-03**|**Superficial Self-Improved Reasoners Benefit from Model Merging**|Xiangchi Yuan et.al.|[2503.02103](http://arxiv.org/abs/2503.02103)|null|
 |**2025-02-26**|**CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging**|Zongzhen Yang et.al.|[2503.01874](http://arxiv.org/abs/2503.01874)|null|
@@ -78,12 +79,17 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
+|**2025-03-06**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655](http://arxiv.org/abs/2503.04655)|null|
+|**2025-03-06**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
+|**2025-03-06**|**Knowledge Retention for Continual Model-Based Reinforcement Learning**|Yixiang Sun et.al.|[2503.04256](http://arxiv.org/abs/2503.04256)|null|
+|**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
 |**2025-03-04**|**Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection**|Manuel Barusco et.al.|[2503.02691](http://arxiv.org/abs/2503.02691)|null|
 |**2025-03-04**|**A Theory of Initialisation's Impact on Specialisation**|Devon Jarvis et.al.|[2503.02526](http://arxiv.org/abs/2503.02526)|null|
 |**2025-03-04**|**Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**|Kenta Tsukahara et.al.|[2503.02256](http://arxiv.org/abs/2503.02256)|null|
@@ -203,12 +209,16 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Grid-Aware Islanding and Resynchronisation of AC/DC Microgrids**|Willem Lambrichts et.al.|[2503.04597](http://arxiv.org/abs/2503.04597)|null|
+|**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451](http://arxiv.org/abs/2503.04451)|null|
+|**2025-03-06**|**FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion**|Ziyi Yang et.al.|[2503.04222](http://arxiv.org/abs/2503.04222)|null|
+|**2025-03-06**|**The Impact Analysis of Delays in Asynchronous Federated Learning with Data Heterogeneity for Edge Intelligence**|Ziruo Hao et.al.|[2503.04052](http://arxiv.org/abs/2503.04052)|null|
 |**2025-03-05**|**A Survey of Foundation Models for Environmental Science**|Runlong Yu et.al.|[2503.03142](http://arxiv.org/abs/2503.03142)|null|
 |**2025-03-01**|**Adaptive Entanglement Routing with Deep Q-Networks in Quantum Networks**|Lamarana Jallow et.al.|[2503.02895](http://arxiv.org/abs/2503.02895)|null|
 |**2025-03-04**|**Resonance-Driven Mechanisms of Ion Transport and Selectivity**|Ronald L. Westra et.al.|[2503.02617](http://arxiv.org/abs/2503.02617)|null|
@@ -308,7 +318,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
