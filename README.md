@@ -1,4 +1,4 @@
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,12 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-05**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
-|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|null|
+|**2025-03-07**|**Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms**|Zitao Fang et.al.|[2503.05320](http://arxiv.org/abs/2503.05320)|null|
+|**2025-03-05**|**Extrapolation Merging: Keep Improving With Extrapolation and Merging**|Yiguan Lin et.al.|[2503.04834](http://arxiv.org/abs/2503.04834)|null|
+|**2025-03-07**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
+|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|**[link](https://github.com/idea-iitd/gnnmerge)**|
 |**2025-03-03**|**Superficial Self-Improved Reasoners Benefit from Model Merging**|Xiangchi Yuan et.al.|[2503.02103](http://arxiv.org/abs/2503.02103)|null|
 |**2025-02-26**|**CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging**|Zongzhen Yang et.al.|[2503.01874](http://arxiv.org/abs/2503.01874)|null|
 |**2025-03-03**|**Multi-Level Collaboration in Model Merging**|Qi Li et.al.|[2503.01268](http://arxiv.org/abs/2503.01268)|null|
-|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|null|
+|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|**[link](https://github.com/Chuge0335/EDG)**|
 |**2025-03-01**|**BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge**|Terry Tong et.al.|[2503.00596](http://arxiv.org/abs/2503.00596)|null|
 |**2025-02-27**|**In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models**|Hu Wang et.al.|[2502.20516](http://arxiv.org/abs/2502.20516)|null|
 |**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
@@ -79,7 +81,7 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -87,7 +89,7 @@
 |---|---|---|---|---|
 |**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
 |**2025-03-06**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655](http://arxiv.org/abs/2503.04655)|null|
-|**2025-03-06**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
+|**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-06**|**Knowledge Retention for Continual Model-Based Reinforcement Learning**|Yixiang Sun et.al.|[2503.04256](http://arxiv.org/abs/2503.04256)|null|
 |**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
 |**2025-03-04**|**Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection**|Manuel Barusco et.al.|[2503.02691](http://arxiv.org/abs/2503.02691)|null|
@@ -105,7 +107,7 @@
 |**2025-03-01**|**CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering**|Tianyu Huai et.al.|[2503.00413](http://arxiv.org/abs/2503.00413)|null|
 |**2025-03-01**|**Reservoir Network with Structural Plasticity for Human Activity Recognition**|Abdullah M. Zyarah et.al.|[2503.00393](http://arxiv.org/abs/2503.00393)|null|
 |**2025-02-28**|**Same accuracy, twice as fast: continuous training surpasses retraining from scratch**|Eli Verwimp et.al.|[2502.21147](http://arxiv.org/abs/2502.21147)|null|
-|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996](http://arxiv.org/abs/2502.20996)|null|
+|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996](http://arxiv.org/abs/2502.20996)|**[link](https://github.com/mldr-devs/mldr)**|
 |**2025-02-28**|**Improving Open-world Continual Learning under the Constraints of Scarce Labeled Data**|Yujie Li et.al.|[2502.20974](http://arxiv.org/abs/2502.20974)|null|
 |**2025-02-27**|**Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer**|Yujie Li et.al.|[2502.20124](http://arxiv.org/abs/2502.20124)|**[link](https://github.com/aignlai/holitrans)**|
 |**2025-02-27**|**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**|Guannan Lai et.al.|[2502.20032](http://arxiv.org/abs/2502.20032)|**[link](https://github.com/aignlai/gddsg)**|
@@ -209,12 +211,15 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms**|Zitao Fang et.al.|[2503.05320](http://arxiv.org/abs/2503.05320)|null|
+|**2025-03-06**|**Multiscale Analysis of Woven Composites Using Hierarchical Physically Recurrent Neural Networks**|Ehsan Ghane et.al.|[2503.04901](http://arxiv.org/abs/2503.04901)|null|
+|**2025-03-04**|**PanguIR Technical Report for NTCIR-18 AEOLLM Task**|Lang Mei et.al.|[2503.04809](http://arxiv.org/abs/2503.04809)|null|
 |**2025-03-06**|**Grid-Aware Islanding and Resynchronisation of AC/DC Microgrids**|Willem Lambrichts et.al.|[2503.04597](http://arxiv.org/abs/2503.04597)|null|
 |**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451](http://arxiv.org/abs/2503.04451)|null|
 |**2025-03-06**|**FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion**|Ziyi Yang et.al.|[2503.04222](http://arxiv.org/abs/2503.04222)|null|
@@ -318,7 +323,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
