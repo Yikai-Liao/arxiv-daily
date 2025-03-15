@@ -2,19 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.03.13
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment**|Luyang Fang et.al.|[2503.09774](http://arxiv.org/abs/2503.09774)|null|
+|**2025-03-12**|**From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches**|Wei Ruan et.al.|[2503.08998](http://arxiv.org/abs/2503.08998)|null|
 |**2025-03-11**|**Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation**|Mingkang Zhu et.al.|[2503.08575](http://arxiv.org/abs/2503.08575)|null|
 |**2025-03-11**|**Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors**|Runxi Cheng et.al.|[2503.08099](http://arxiv.org/abs/2503.08099)|null|
 |**2025-03-10**|**Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos**|Pramit Saha et.al.|[2503.07799](http://arxiv.org/abs/2503.07799)|null|
 |**2025-03-08**|**Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy**|Wei Junhao et.al.|[2503.07661](http://arxiv.org/abs/2503.07661)|null|
 |**2025-03-10**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al.|[2503.06921](http://arxiv.org/abs/2503.06921)|null|
-|**2025-03-08**|**Analyzing the Role of Permutation Invariance in Linear Mode Connectivity**|Keyao Zhan et.al.|[2503.06001](http://arxiv.org/abs/2503.06001)|null|
+|**2025-03-12**|**Analyzing the Role of Permutation Invariance in Linear Mode Connectivity**|Keyao Zhan et.al.|[2503.06001](http://arxiv.org/abs/2503.06001)|null|
 |**2025-03-07**|**Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms**|Zitao Fang et.al.|[2503.05320](http://arxiv.org/abs/2503.05320)|null|
 |**2025-03-05**|**Extrapolation Merging: Keep Improving With Extrapolation and Merging**|Yiguan Lin et.al.|[2503.04834](http://arxiv.org/abs/2503.04834)|null|
 |**2025-03-07**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
@@ -23,7 +25,7 @@ layout: default
 |**2025-02-26**|**CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging**|Zongzhen Yang et.al.|[2503.01874](http://arxiv.org/abs/2503.01874)|null|
 |**2025-03-03**|**Multi-Level Collaboration in Model Merging**|Qi Li et.al.|[2503.01268](http://arxiv.org/abs/2503.01268)|null|
 |**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|**[link](https://github.com/Chuge0335/EDG)**|
-|**2025-03-01**|**BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge**|Terry Tong et.al.|[2503.00596](http://arxiv.org/abs/2503.00596)|**[link](https://github.com/TerryTong-Git/badjudge)**|
+|**2025-03-01**|**BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge**|Terry Tong et.al.|[2503.00596](http://arxiv.org/abs/2503.00596)|null|
 |**2025-02-27**|**In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models**|Hu Wang et.al.|[2502.20516](http://arxiv.org/abs/2502.20516)|null|
 |**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
 |**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
@@ -86,13 +88,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632](http://arxiv.org/abs/2503.10632)|null|
+|**2025-03-13**|**Sample Compression for Continual Learning**|Jacob Comeau et.al.|[2503.10503](http://arxiv.org/abs/2503.10503)|null|
+|**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
+|**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|null|
+|**2025-03-13**|**Semantic Synergy: Unlocking Policy Insights and Learning Pathways Through Advanced Skill Mapping**|Phoebe Koundouri et.al.|[2503.10094](http://arxiv.org/abs/2503.10094)|null|
+|**2025-03-12**|**Freeze and Cluster: A Simple Baseline for Rehearsal-Free Continual Category Discovery**|Chuyu Zhang et.al.|[2503.09106](http://arxiv.org/abs/2503.09106)|null|
 |**2025-03-11**|**SoTCKGE:Continual Knowledge Graph Embedding Based on Spatial Offset Transformation**|Xinyan Wang et.al.|[2503.08189](http://arxiv.org/abs/2503.08189)|null|
 |**2025-03-11**|**Continual Learning for Multiple Modalities**|Hyundong Jin et.al.|[2503.08064](http://arxiv.org/abs/2503.08064)|null|
 |**2025-03-09**|**WECAR: An End-Edge Collaborative Inference and Training Framework for WiFi-Based Continuous Human Activity Recognition**|Rong Li et.al.|[2503.07669](http://arxiv.org/abs/2503.07669)|null|
 |**2025-03-08**|**Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs**|Dingkun Zhang et.al.|[2503.07663](http://arxiv.org/abs/2503.07663)|null|
 |**2025-03-10**|**PTMs-TSCIL Pre-Trained Models Based Class-Incremental Learning**|Yuanlong Wu et.al.|[2503.07153](http://arxiv.org/abs/2503.07153)|null|
-|**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|null|
-|**2025-03-10**|**Sequential Function-Space Variational Inference via Gaussian Mixture Approximation**|Menghao Waiyan William Zhu et.al.|[2503.07114](http://arxiv.org/abs/2503.07114)|null|
+|**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|**[link](https://github.com/deepseek-ai/DeepEP)**|
+|**2025-03-10**|**Sequential Function-Space Variational Inference via Gaussian Mixture Approximation**|Menghao Waiyan William Zhu et.al.|[2503.07114](http://arxiv.org/abs/2503.07114)|**[link](https://github.com/blackblitz/bcl)**|
 |**2025-03-10**|**Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks**|Yanis Basso-Bert et.al.|[2503.07107](http://arxiv.org/abs/2503.07107)|null|
 |**2025-03-09**|**Continuous Online Adaptation Driven by User Interaction for Medical Image Segmentation**|Wentian Xu et.al.|[2503.06717](http://arxiv.org/abs/2503.06717)|null|
 |**2025-03-09**|**A Good Start Matters: Enhancing Continual Learning with Data-Driven Weight Initialization**|Md Yousuf Harun et.al.|[2503.06385](http://arxiv.org/abs/2503.06385)|null|
@@ -231,6 +239,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068](http://arxiv.org/abs/2503.10068)|**[link](https://github.com/han-liu/PDAC_Detection)**|
+|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|null|
 |**2025-03-11**|**CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning**|Kaiqiang Xiong et.al.|[2503.08219](http://arxiv.org/abs/2503.08219)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
 |**2025-03-11**|**Counterfactual Explanations for Model Ensembles Using Entropic Risk Measures**|Erfaun Noorani et.al.|[2503.07934](http://arxiv.org/abs/2503.07934)|null|
