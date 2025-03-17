@@ -192,7 +192,7 @@
 |**2025-02-10**|**Federated Continual Learning: Concepts, Challenges, and Solutions**|Parisa Hamedi et.al.|[2502.07059](http://arxiv.org/abs/2502.07059)|null|
 |**2025-02-10**|**Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents**|Mathis Pink et.al.|[2502.06975](http://arxiv.org/abs/2502.06975)|null|
 |**2025-02-10**|**Sequence Transferability and Task Order Selection in Continual Learning**|Thinh Nguyen et.al.|[2502.06544](http://arxiv.org/abs/2502.06544)|null|
-|**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
+|**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|**[link](https://github.com/QiWang98/PromptCGL)**|
 |**2025-02-10**|**Position: Continual Learning Benefits from An Evolving Population over An Unified Model**|Aojun Lu et.al.|[2502.06210](http://arxiv.org/abs/2502.06210)|null|
 |**2025-02-09**|**Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**|Yixin Cui et.al.|[2502.05943](http://arxiv.org/abs/2502.05943)|null|
 |**2025-02-09**|**MADAR: Efficient Continual Learning for Malware Analysis with Diversity-Aware Replay**|Mohammad Saidur Rahman et.al.|[2502.05760](http://arxiv.org/abs/2502.05760)|**[link](https://github.com/IQSeC-Lab/MADAR)**|
