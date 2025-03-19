@@ -1,4 +1,4 @@
-## Updated on 2025.03.17
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|null|
 |**2025-03-12**|**Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment**|Luyang Fang et.al.|[2503.09774](http://arxiv.org/abs/2503.09774)|null|
 |**2025-03-12**|**From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches**|Wei Ruan et.al.|[2503.08998](http://arxiv.org/abs/2503.08998)|null|
 |**2025-03-11**|**Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation**|Mingkang Zhu et.al.|[2503.08575](http://arxiv.org/abs/2503.08575)|null|
@@ -89,12 +90,18 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
+|**2025-03-16**|**A Continual Learning-driven Model for Accurate and Generalizable Segmentation of Clinically Comprehensive and Fine-grained Whole-body Anatomies in CT**|Dazhou Guo et.al.|[2503.12698](http://arxiv.org/abs/2503.12698)|null|
+|**2025-03-16**|**Hybrid Learners Do Not Forget: A Brain-Inspired Neuro-Symbolic Approach to Continual Learning**|Amin Banayeeanzade et.al.|[2503.12635](http://arxiv.org/abs/2503.12635)|null|
+|**2025-03-15**|**Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints**|Yuhao Zhou et.al.|[2503.12053](http://arxiv.org/abs/2503.12053)|null|
+|**2025-03-13**|**Safe Continual Domain Adaptation after Sim2Real Transfer of Reinforcement Learning Policies in Robotics**|Josip Josifovski et.al.|[2503.10949](http://arxiv.org/abs/2503.10949)|null|
+|**2025-03-12**|**Enhanced Continual Learning of Vision-Language Models with Model Fusion**|Haoyuan Gao et.al.|[2503.10705](http://arxiv.org/abs/2503.10705)|null|
 |**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632](http://arxiv.org/abs/2503.10632)|null|
 |**2025-03-13**|**Sample Compression for Continual Learning**|Jacob Comeau et.al.|[2503.10503](http://arxiv.org/abs/2503.10503)|null|
 |**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
@@ -242,13 +249,19 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068](http://arxiv.org/abs/2503.10068)|**[link](https://github.com/han-liu/PDAC_Detection)**|
+|**2025-03-15**|**Adaptive Fault Tolerance Mechanisms of Large Language Models in Cloud Computing Environments**|Yihong Jin et.al.|[2503.12228](http://arxiv.org/abs/2503.12228)|null|
+|**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
+|**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[2503.12055](http://arxiv.org/abs/2503.12055)|null|
+|**2025-03-14**|**Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling**|Meng Yuan et.al.|[2503.11857](http://arxiv.org/abs/2503.11857)|null|
+|**2025-03-12**|**Enhanced Continual Learning of Vision-Language Models with Model Fusion**|Haoyuan Gao et.al.|[2503.10705](http://arxiv.org/abs/2503.10705)|null|
+|**2025-03-08**|**LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles limitations**|Ibrahim Al Azhar et.al.|[2503.10658](http://arxiv.org/abs/2503.10658)|**[link](https://github.com/IbrahimAlAzhar/LimTopic)**|
+|**2025-03-14**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068](http://arxiv.org/abs/2503.10068)|**[link](https://github.com/han-liu/PDAC_Detection)**|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|**[link](https://github.com/yigang-chen/scope-dti)**|
 |**2025-03-11**|**CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning**|Kaiqiang Xiong et.al.|[2503.08219](http://arxiv.org/abs/2503.08219)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
@@ -363,7 +376,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
