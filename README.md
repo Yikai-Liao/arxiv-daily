@@ -1,4 +1,4 @@
-## Updated on 2025.03.19
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -90,12 +90,20 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
+|**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
+|**2025-03-19**|**Continual Contrastive Learning on Tabular Data with Out of Distribution**|Achmad Ginanjar et.al.|[2503.15089](http://arxiv.org/abs/2503.15089)|null|
+|**2025-03-19**|**Continual Multimodal Contrastive Learning**|Xiaohao Liu et.al.|[2503.14963](http://arxiv.org/abs/2503.14963)|null|
+|**2025-03-19**|**H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection**|Yuhang Liu et.al.|[2503.14832](http://arxiv.org/abs/2503.14832)|null|
+|**2025-03-18**|**FeNeC: Enhancing Continual Learning via Feature Clustering with Neighbor- or Logit-Based Classification**|Kamil Książek et.al.|[2503.14301](http://arxiv.org/abs/2503.14301)|null|
+|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
+|**2025-03-17**|**Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model**|Kai Tong et.al.|[2503.13575](http://arxiv.org/abs/2503.13575)|null|
 |**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
 |**2025-03-16**|**A Continual Learning-driven Model for Accurate and Generalizable Segmentation of Clinically Comprehensive and Fine-grained Whole-body Anatomies in CT**|Dazhou Guo et.al.|[2503.12698](http://arxiv.org/abs/2503.12698)|null|
 |**2025-03-16**|**Hybrid Learners Do Not Forget: A Brain-Inspired Neuro-Symbolic Approach to Continual Learning**|Amin Banayeeanzade et.al.|[2503.12635](http://arxiv.org/abs/2503.12635)|null|
@@ -249,12 +257,17 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272](http://arxiv.org/abs/2503.15272)|null|
+|**2025-03-17**|**Redefining non-IID Data in Federated Learning for Computer Vision Tasks: Migrating from Labels to Embeddings for Task-Specific Data Distributions**|Kasra Borazjani et.al.|[2503.14553](http://arxiv.org/abs/2503.14553)|null|
+|**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
+|**2025-03-18**|**SNAKE: A Sustainable and Multi-functional Traffic Analysis System utilizing Specialized Large-Scale Models with a Mixture of Experts Architecture**|Tian Qin et.al.|[2503.13808](http://arxiv.org/abs/2503.13808)|null|
+|**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et.al.|[2503.13695](http://arxiv.org/abs/2503.13695)|null|
 |**2025-03-15**|**Adaptive Fault Tolerance Mechanisms of Large Language Models in Cloud Computing Environments**|Yihong Jin et.al.|[2503.12228](http://arxiv.org/abs/2503.12228)|null|
 |**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
 |**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[2503.12055](http://arxiv.org/abs/2503.12055)|null|
@@ -376,7 +389,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
