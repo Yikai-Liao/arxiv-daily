@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.21
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -89,6 +89,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning**|Peiyi Lin et.al.|[2503.15924](http://arxiv.org/abs/2503.15924)|null|
+|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
 |**2025-03-19**|**Continual Contrastive Learning on Tabular Data with Out of Distribution**|Achmad Ginanjar et.al.|[2503.15089](http://arxiv.org/abs/2503.15089)|null|
@@ -254,11 +256,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Video-VoT-R1: An efficient video inference model integrating image packing and AoE architecture**|Cheng Li et.al.|[2503.15807](http://arxiv.org/abs/2503.15807)|null|
+|**2025-03-20**|**Disentangling Uncertainties by Learning Compressed Data Representation**|Zhiyu An et.al.|[2503.15801](http://arxiv.org/abs/2503.15801)|null|
 |**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272](http://arxiv.org/abs/2503.15272)|null|
 |**2025-03-17**|**Redefining non-IID Data in Federated Learning for Computer Vision Tasks: Migrating from Labels to Embeddings for Task-Specific Data Distributions**|Kasra Borazjani et.al.|[2503.14553](http://arxiv.org/abs/2503.14553)|null|
 |**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
 |**2025-03-18**|**SNAKE: A Sustainable and Multi-functional Traffic Analysis System utilizing Specialized Large-Scale Models with a Mixture of Experts Architecture**|Tian Qin et.al.|[2503.13808](http://arxiv.org/abs/2503.13808)|null|
-|**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et.al.|[2503.13695](http://arxiv.org/abs/2503.13695)|null|
+|**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et.al.|[2503.13695](http://arxiv.org/abs/2503.13695)|**[link](https://github.com/SiaK4/HFS_ResUNet)**|
 |**2025-03-15**|**Adaptive Fault Tolerance Mechanisms of Large Language Models in Cloud Computing Environments**|Yihong Jin et.al.|[2503.12228](http://arxiv.org/abs/2503.12228)|null|
 |**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
 |**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[2503.12055](http://arxiv.org/abs/2503.12055)|null|
