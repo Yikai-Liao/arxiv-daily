@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
 |**2025-03-16**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|null|
 |**2025-03-12**|**Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment**|Luyang Fang et.al.|[2503.09774](http://arxiv.org/abs/2503.09774)|null|
 |**2025-03-12**|**From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches**|Wei Ruan et.al.|[2503.08998](http://arxiv.org/abs/2503.08998)|null|
@@ -89,8 +90,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
+|**2025-03-21**|**Restoring Forgotten Knowledge in Non-Exemplar Class Incremental Learning through Test-Time Semantic Evolution**|Haori Lu et.al.|[2503.16793](http://arxiv.org/abs/2503.16793)|null|
+|**2025-03-18**|**Adaptive Drift Compensation for Soft Sensorized Finger Using Continual Learning**|Nilay Kushawaha et.al.|[2503.16540](http://arxiv.org/abs/2503.16540)|null|
 |**2025-03-20**|**Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning**|Peiyi Lin et.al.|[2503.15924](http://arxiv.org/abs/2503.15924)|null|
-|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|null|
+|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|**[link](https://github.com/panagiotamoraiti/continual-learning-challenge-2024)**|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
 |**2025-03-19**|**Continual Contrastive Learning on Tabular Data with Out of Distribution**|Achmad Ginanjar et.al.|[2503.15089](http://arxiv.org/abs/2503.15089)|null|
@@ -256,10 +260,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**A New Statistical Model of Star Speckles for Learning to Detect and Characterize Exoplanets in Direct Imaging Observations**|Théo Bodrito et.al.|[2503.17117](http://arxiv.org/abs/2503.17117)|null|
+|**2025-03-20**|**Allocation Multiplicity: Evaluating the Promises of the Rashomon Set**|Shomik Jain et.al.|[2503.16621](http://arxiv.org/abs/2503.16621)|null|
 |**2025-03-20**|**Video-VoT-R1: An efficient video inference model integrating image packing and AoE architecture**|Cheng Li et.al.|[2503.15807](http://arxiv.org/abs/2503.15807)|null|
-|**2025-03-20**|**Disentangling Uncertainties by Learning Compressed Data Representation**|Zhiyu An et.al.|[2503.15801](http://arxiv.org/abs/2503.15801)|null|
+|**2025-03-20**|**Disentangling Uncertainties by Learning Compressed Data Representation**|Zhiyu An et.al.|[2503.15801](http://arxiv.org/abs/2503.15801)|**[link](https://github.com/ryeii/cdrm)**|
 |**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272](http://arxiv.org/abs/2503.15272)|null|
-|**2025-03-17**|**Redefining non-IID Data in Federated Learning for Computer Vision Tasks: Migrating from Labels to Embeddings for Task-Specific Data Distributions**|Kasra Borazjani et.al.|[2503.14553](http://arxiv.org/abs/2503.14553)|null|
+|**2025-03-17**|**Redefining non-IID Data in Federated Learning for Computer Vision Tasks: Migrating from Labels to Embeddings for Task-Specific Data Distributions**|Kasra Borazjani et.al.|[2503.14553](http://arxiv.org/abs/2503.14553)|**[link](https://github.com/kasraborazjani/task-perspective-het)**|
 |**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
 |**2025-03-18**|**SNAKE: A Sustainable and Multi-functional Traffic Analysis System utilizing Specialized Large-Scale Models with a Mixture of Experts Architecture**|Tian Qin et.al.|[2503.13808](http://arxiv.org/abs/2503.13808)|null|
 |**2025-03-17**|**Mitigating Spectral Bias in Neural Operators via High-Frequency Scaling for Physical Systems**|Siavash Khodakarami et.al.|[2503.13695](http://arxiv.org/abs/2503.13695)|**[link](https://github.com/SiaK4/HFS_ResUNet)**|
@@ -267,7 +273,7 @@ layout: default
 |**2025-03-15**|**A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI**|Paula Andrea Pérez-Toro et.al.|[2503.12102](http://arxiv.org/abs/2503.12102)|null|
 |**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[2503.12055](http://arxiv.org/abs/2503.12055)|null|
 |**2025-03-14**|**Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling**|Meng Yuan et.al.|[2503.11857](http://arxiv.org/abs/2503.11857)|null|
-|**2025-03-12**|**Enhanced Continual Learning of Vision-Language Models with Model Fusion**|Haoyuan Gao et.al.|[2503.10705](http://arxiv.org/abs/2503.10705)|null|
+|**2025-03-21**|**Enhanced Continual Learning of Vision-Language Models with Model Fusion**|Haoyuan Gao et.al.|[2503.10705](http://arxiv.org/abs/2503.10705)|null|
 |**2025-03-08**|**LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles limitations**|Ibrahim Al Azhar et.al.|[2503.10658](http://arxiv.org/abs/2503.10658)|**[link](https://github.com/IbrahimAlAzhar/LimTopic)**|
 |**2025-03-14**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068](http://arxiv.org/abs/2503.10068)|**[link](https://github.com/han-liu/PDAC_Detection)**|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|**[link](https://github.com/yigang-chen/scope-dti)**|
