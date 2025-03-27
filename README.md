@@ -1,4 +1,4 @@
-## Updated on 2025.03.25
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**Personalized Language Models via Privacy-Preserving Evolutionary Model Merging**|Kyuyoung Kim et.al.|[2503.18008](http://arxiv.org/abs/2503.18008)|null|
 |**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
-|**2025-03-16**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|null|
+|**2025-03-25**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|**[link](https://github.com/hmarkc/FW-Merging)**|
 |**2025-03-12**|**Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment**|Luyang Fang et.al.|[2503.09774](http://arxiv.org/abs/2503.09774)|null|
 |**2025-03-12**|**From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches**|Wei Ruan et.al.|[2503.08998](http://arxiv.org/abs/2503.08998)|null|
 |**2025-03-11**|**Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation**|Mingkang Zhu et.al.|[2503.08575](http://arxiv.org/abs/2503.08575)|null|
@@ -91,12 +92,25 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
+|**2025-03-24**|**Continual Reinforcement Learning for HVAC Systems Control: Integrating Hypernetworks and Transfer Learning**|Gautham Udayakumar Bekal et.al.|[2503.19212](http://arxiv.org/abs/2503.19212)|null|
+|**2025-03-23**|**LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning**|Xuan Liu et.al.|[2503.18985](http://arxiv.org/abs/2503.18985)|null|
+|**2025-03-24**|**Autonomous Generation of Sub-goals for Lifelong Learning in Robots**|Emanuel Fallas Hernández et.al.|[2503.18914](http://arxiv.org/abs/2503.18914)|null|
+|**2025-03-25**|**Feature Calibration enhanced Parameter Synthesis for CLIP-based Class-incremental Learning**|Juncen Guo et.al.|[2503.18672](http://arxiv.org/abs/2503.18672)|null|
+|**2025-03-24**|**Parental Guidance: Efficient Lifelong Learning through Evolutionary Distillation**|Octi Zhang et.al.|[2503.18531](http://arxiv.org/abs/2503.18531)|null|
+|**2025-03-24**|**Global Convergence of Continual Learning on Non-IID Data**|Fei Zhu et.al.|[2503.18511](http://arxiv.org/abs/2503.18511)|null|
+|**2025-03-24**|**Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning**|Xusheng Cao et.al.|[2503.18403](http://arxiv.org/abs/2503.18403)|null|
+|**2025-03-24**|**Do Your Best and Get Enough Rest for Continual Learning**|Hankyul Kang et.al.|[2503.18371](http://arxiv.org/abs/2503.18371)|null|
+|**2025-03-23**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for FCL**|Xiaoming Qi et.al.|[2503.18064](http://arxiv.org/abs/2503.18064)|null|
+|**2025-03-22**|**Lifelong Evolution of Swarms**|Lorenzo Leuzzi et.al.|[2503.17763](http://arxiv.org/abs/2503.17763)|null|
+|**2025-03-22**|**Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds**|Huitong Chen et.al.|[2503.17677](http://arxiv.org/abs/2503.17677)|null|
+|**2025-03-21**|**On-Device Federated Continual Learning on RISC-V-based Ultra-Low-Power SoC for Intelligent Nano-Drone Swarms**|Lars Kröger et.al.|[2503.17436](http://arxiv.org/abs/2503.17436)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**Restoring Forgotten Knowledge in Non-Exemplar Class Incremental Learning through Test-Time Semantic Evolution**|Haori Lu et.al.|[2503.16793](http://arxiv.org/abs/2503.16793)|null|
 |**2025-03-18**|**Adaptive Drift Compensation for Soft Sensorized Finger Using Continual Learning**|Nilay Kushawaha et.al.|[2503.16540](http://arxiv.org/abs/2503.16540)|null|
@@ -263,12 +277,18 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Distributionally Robust Federated Learning: An ADMM Algorithm**|Wen Bai et.al.|[2503.18436](http://arxiv.org/abs/2503.18436)|null|
+|**2025-03-23**|**Efficient Deep Learning Approaches for Processing Ultra-Widefield Retinal Imaging**|Siwon Kim et.al.|[2503.18151](http://arxiv.org/abs/2503.18151)|null|
+|**2025-03-22**|**Feather-SQL: A Lightweight NL2SQL Framework with Dual-Model Collaboration Paradigm for Small Language Models**|Wenqi Pei et.al.|[2503.17811](http://arxiv.org/abs/2503.17811)|null|
+|**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[2503.17697](http://arxiv.org/abs/2503.17697)|null|
+|**2025-03-21**|**A Two-Stage Stochastic Model for Road-Rail Intermodal Freight Transportation Under Demand and Capacity Uncertainty**|Jeremiah Gbadegoye et.al.|[2503.17510](http://arxiv.org/abs/2503.17510)|null|
+|**2025-03-16**|**State Fourier Diffusion Language Model (SFDLM): A Scalable, Novel Iterative Approach to Language Modeling**|Andrew Kiruluta et.al.|[2503.17382](http://arxiv.org/abs/2503.17382)|null|
 |**2025-03-21**|**A New Statistical Model of Star Speckles for Learning to Detect and Characterize Exoplanets in Direct Imaging Observations**|Théo Bodrito et.al.|[2503.17117](http://arxiv.org/abs/2503.17117)|null|
 |**2025-03-20**|**Allocation Multiplicity: Evaluating the Promises of the Rashomon Set**|Shomik Jain et.al.|[2503.16621](http://arxiv.org/abs/2503.16621)|null|
 |**2025-03-20**|**Video-VoT-R1: An efficient video inference model integrating image packing and AoE architecture**|Cheng Li et.al.|[2503.15807](http://arxiv.org/abs/2503.15807)|null|
@@ -399,7 +419,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
