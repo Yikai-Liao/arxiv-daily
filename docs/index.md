@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.29
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -10,8 +10,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-27**|**Model Assembly Learning with Heterogeneous Layer Weight Merging**|Yi-Kai Zhang et.al.|[2503.21657](http://arxiv.org/abs/2503.21657)|null|
-|**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272](http://arxiv.org/abs/2503.21272)|null|
-|**2025-03-27**|**ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging**|Haoming Xu et.al.|[2503.21088](http://arxiv.org/abs/2503.21088)|null|
+|**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272](http://arxiv.org/abs/2503.21272)|**[link](https://github.com/wudihjq/reinforced-model-merging)**|
+|**2025-03-27**|**ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging**|Haoming Xu et.al.|[2503.21088](http://arxiv.org/abs/2503.21088)|**[link](https://github.com/zjunlp/unlearn)**|
 |**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641](http://arxiv.org/abs/2503.20641)|**[link](https://github.com/hahahawu/long-to-short-via-model-merging)**|
 |**2025-03-23**|**Personalized Language Models via Privacy-Preserving Evolutionary Model Merging**|Kyuyoung Kim et.al.|[2503.18008](http://arxiv.org/abs/2503.18008)|null|
 |**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
@@ -98,7 +98,7 @@ layout: default
 |**2025-03-27**|**Stochastic Engrams for Efficient Continual Learning with Binarized Neural Networks**|Isabelle Aguilar et.al.|[2503.21436](http://arxiv.org/abs/2503.21436)|null|
 |**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
 |**2025-03-27**|**KAC: Kolmogorov-Arnold Classifier for Continual Learning**|Yusong Hu et.al.|[2503.21076](http://arxiv.org/abs/2503.21076)|null|
-|**2025-03-25**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for Federated Continual Learning**|Xiaoming Qi et.al.|[2503.20808](http://arxiv.org/abs/2503.20808)|null|
+|**2025-03-25**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for Federated Continual Learning**|Xiaoming Qi et.al.|[2503.20808](http://arxiv.org/abs/2503.20808)|**[link](https://github.com/jinlab-imvr/feddah)**|
 |**2025-03-26**|**Continual learning via probabilistic exchangeable sequence modelling**|Hanwen Xing et.al.|[2503.20725](http://arxiv.org/abs/2503.20725)|null|
 |**2025-03-26**|**IAP: Improving Continual Learning of Vision-Language Models via Instance-Aware Prompting**|Hao Fu et.al.|[2503.20612](http://arxiv.org/abs/2503.20612)|**[link](https://github.com/ferdinandzju/iap)**|
 |**2025-03-26**|**Modality-Independent Brain Lesion Segmentation with Privacy-aware Continual Learning**|Yousef Sadegheih et.al.|[2503.20326](http://arxiv.org/abs/2503.20326)|**[link](https://github.com/xmindflow/braincl)**|
