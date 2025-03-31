@@ -122,7 +122,7 @@
 |**2025-03-24**|**Do Your Best and Get Enough Rest for Continual Learning**|Hankyul Kang et.al.|[2503.18371](http://arxiv.org/abs/2503.18371)|**[link](https://github.com/hankyul2/viewbatchmodel)**|
 |**2025-03-23**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for FCL**|Xiaoming Qi et.al.|[2503.18064](http://arxiv.org/abs/2503.18064)|**[link](https://github.com/jinlab-imvr/feddah)**|
 |**2025-03-22**|**Lifelong Evolution of Swarms**|Lorenzo Leuzzi et.al.|[2503.17763](http://arxiv.org/abs/2503.17763)|null|
-|**2025-03-22**|**Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds**|Huitong Chen et.al.|[2503.17677](http://arxiv.org/abs/2503.17677)|null|
+|**2025-03-22**|**Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds**|Huitong Chen et.al.|[2503.17677](http://arxiv.org/abs/2503.17677)|**[link](https://github.com/lilyht/create)**|
 |**2025-03-21**|**On-Device Federated Continual Learning on RISC-V-based Ultra-Low-Power SoC for Intelligent Nano-Drone Swarms**|Lars Kröger et.al.|[2503.17436](http://arxiv.org/abs/2503.17436)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**Restoring Forgotten Knowledge in Non-Exemplar Class Incremental Learning through Test-Time Semantic Evolution**|Haori Lu et.al.|[2503.16793](http://arxiv.org/abs/2503.16793)|null|
