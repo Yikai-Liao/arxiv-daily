@@ -2,19 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577](http://arxiv.org/abs/2503.22577)|null|
+|**2025-03-28**|**AdaRank: Adaptive Rank Pruning for Enhanced Model Merging**|Chanhyuk Lee et.al.|[2503.22178](http://arxiv.org/abs/2503.22178)|**[link](https://github.com/david3684/adarank)**|
 |**2025-03-27**|**Model Assembly Learning with Heterogeneous Layer Weight Merging**|Yi-Kai Zhang et.al.|[2503.21657](http://arxiv.org/abs/2503.21657)|null|
 |**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272](http://arxiv.org/abs/2503.21272)|**[link](https://github.com/wudihjq/reinforced-model-merging)**|
 |**2025-03-27**|**ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging**|Haoming Xu et.al.|[2503.21088](http://arxiv.org/abs/2503.21088)|**[link](https://github.com/zjunlp/unlearn)**|
 |**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641](http://arxiv.org/abs/2503.20641)|**[link](https://github.com/hahahawu/long-to-short-via-model-merging)**|
 |**2025-03-23**|**Personalized Language Models via Privacy-Preserving Evolutionary Model Merging**|Kyuyoung Kim et.al.|[2503.18008](http://arxiv.org/abs/2503.18008)|null|
-|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
+|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|**[link](https://github.com/aladinD/SafeMERGE)**|
 |**2025-03-25**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|**[link](https://github.com/hmarkc/FW-Merging)**|
 |**2025-03-12**|**Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment**|Luyang Fang et.al.|[2503.09774](http://arxiv.org/abs/2503.09774)|null|
 |**2025-03-12**|**From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches**|Wei Ruan et.al.|[2503.08998](http://arxiv.org/abs/2503.08998)|null|
@@ -95,6 +97,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Efficient Continual Learning through Frequency Decomposition and Integration**|Ruiqi Liu et.al.|[2503.22175](http://arxiv.org/abs/2503.22175)|null|
+|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136](http://arxiv.org/abs/2503.22136)|null|
+|**2025-03-28**|**A Proposal for Networks Capable of Continual Learning**|Zeki Doruk Erden et.al.|[2503.22068](http://arxiv.org/abs/2503.22068)|null|
 |**2025-03-27**|**Stochastic Engrams for Efficient Continual Learning with Binarized Neural Networks**|Isabelle Aguilar et.al.|[2503.21436](http://arxiv.org/abs/2503.21436)|null|
 |**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
 |**2025-03-27**|**KAC: Kolmogorov-Arnold Classifier for Continual Learning**|Yusong Hu et.al.|[2503.21076](http://arxiv.org/abs/2503.21076)|null|
@@ -287,9 +292,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579](http://arxiv.org/abs/2503.21579)|null|
 |**2025-03-27**|**Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**|Wanli Ni et.al.|[2503.21412](http://arxiv.org/abs/2503.21412)|null|
-|**2025-03-26**|**Toward Sustainable Polymer Design: A Molecular Dynamics-Informed Machine Learning Approach for Vitrimers**|Yiwen Zheng et.al.|[2503.20956](http://arxiv.org/abs/2503.20956)|null|
+|**2025-03-26**|**Toward Sustainable Polymer Design: A Molecular Dynamics-Informed Machine Learning Approach for Vitrimers**|Yiwen Zheng et.al.|[2503.20956](http://arxiv.org/abs/2503.20956)|**[link](https://github.com/vashisth-lab/VitrimerScreening)**|
 |**2025-03-26**|**Robust Federated Learning Against Poisoning Attacks: A GAN-Based Defense Framework**|Usama Zafar et.al.|[2503.20884](http://arxiv.org/abs/2503.20884)|**[link](https://github.com/SciML-FL/gan-filter)**|
 |**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523](http://arxiv.org/abs/2503.20523)|null|
 |**2025-03-26**|**How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks**|Muhammed Shafi K. P. et.al.|[2503.20257](http://arxiv.org/abs/2503.20257)|null|
