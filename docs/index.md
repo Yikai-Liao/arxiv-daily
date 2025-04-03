@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization**|Yiyang Du et.al.|[2503.23733](http://arxiv.org/abs/2503.23733)|**[link](https://github.com/thunlp-mt/adamms)**|
+|**2025-03-29**|**Efficient Inference for Large Reasoning Models: A Survey**|Yue Liu et.al.|[2503.23077](http://arxiv.org/abs/2503.23077)|**[link](https://github.com/yueliu1999/awesome-efficient-inference-for-lrms)**|
 |**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577](http://arxiv.org/abs/2503.22577)|null|
 |**2025-03-28**|**AdaRank: Adaptive Rank Pruning for Enhanced Model Merging**|Chanhyuk Lee et.al.|[2503.22178](http://arxiv.org/abs/2503.22178)|**[link](https://github.com/david3684/adarank)**|
 |**2025-03-27**|**Model Assembly Learning with Heterogeneous Layer Weight Merging**|Yi-Kai Zhang et.al.|[2503.21657](http://arxiv.org/abs/2503.21657)|null|
@@ -97,8 +99,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
+|**2025-03-30**|**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**|Siqi Fan et.al.|[2503.23514](http://arxiv.org/abs/2503.23514)|null|
+|**2025-03-30**|**Pareto Continual Learning: Preference-Conditioned Learning and Adaption for Dynamic Stability-Plasticity Trade-off**|Song Lai et.al.|[2503.23390](http://arxiv.org/abs/2503.23390)|**[link](https://github.com/laisong-22004009/paretocl)**|
+|**2025-03-30**|**Language Guided Concept Bottleneck Models for Interpretable Continual Learning**|Lu Yu et.al.|[2503.23283](http://arxiv.org/abs/2503.23283)|null|
+|**2025-03-29**|**VLM-C4L: Continual Core Dataset Learning with Corner Case Optimization via Vision-Language Models for Autonomous Driving**|Haibo Hu et.al.|[2503.23046](http://arxiv.org/abs/2503.23046)|null|
+|**2025-03-28**|**MediTools -- Medical Education Powered by LLMs**|Amr Alshatnawi et.al.|[2503.22769](http://arxiv.org/abs/2503.22769)|**[link](https://github.com/NM-Streamlit-Team/meditools)**|
+|**2025-03-26**|**Ancestral Mamba: Enhancing Selective Discriminant Space Model with Online Visual Prototype Learning for Efficient and Robust Discriminant Approach**|Jiahao Qin et.al.|[2503.22729](http://arxiv.org/abs/2503.22729)|null|
 |**2025-03-28**|**Efficient Continual Learning through Frequency Decomposition and Integration**|Ruiqi Liu et.al.|[2503.22175](http://arxiv.org/abs/2503.22175)|null|
-|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136](http://arxiv.org/abs/2503.22136)|null|
+|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136](http://arxiv.org/abs/2503.22136)|**[link](https://github.com/yikeyin97/eir)**|
 |**2025-03-28**|**A Proposal for Networks Capable of Continual Learning**|Zeki Doruk Erden et.al.|[2503.22068](http://arxiv.org/abs/2503.22068)|null|
 |**2025-03-27**|**Stochastic Engrams for Efficient Continual Learning with Binarized Neural Networks**|Isabelle Aguilar et.al.|[2503.21436](http://arxiv.org/abs/2503.21436)|null|
 |**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
@@ -292,6 +301,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**|Rong Kang et.al.|[2503.23776](http://arxiv.org/abs/2503.23776)|null|
+|**2025-03-30**|**FedCAPrivacy: Privacy-Preserving Heterogeneous Federated Learning with Anonymous Adaptive Clustering**|Yunan Wei et.al.|[2503.23292](http://arxiv.org/abs/2503.23292)|null|
+|**2025-03-29**|**ShiftLIC: Lightweight Learned Image Compression with Spatial-Channel Shift Operations**|Youneng Bao et.al.|[2503.23052](http://arxiv.org/abs/2503.23052)|null|
 |**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579](http://arxiv.org/abs/2503.21579)|null|
 |**2025-03-27**|**Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**|Wanli Ni et.al.|[2503.21412](http://arxiv.org/abs/2503.21412)|null|
