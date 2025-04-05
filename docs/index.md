@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**BECAME: BayEsian Continual Learning with Adaptive Model MErging**|Mei Li et.al.|[2504.02666](http://arxiv.org/abs/2504.02666)|null|
+|**2025-04-02**|**OpenThaiGPT 1.6 and R1: Thai-Centric Open Source and Reasoning Large Language Models**|Sumeth Yuenyong et.al.|[2504.01789](http://arxiv.org/abs/2504.01789)|null|
+|**2025-04-01**|**Command A: An Enterprise-Ready Large Language Model**|Team Cohere et.al.|[2504.00698](http://arxiv.org/abs/2504.00698)|null|
 |**2025-03-31**|**AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization**|Yiyang Du et.al.|[2503.23733](http://arxiv.org/abs/2503.23733)|**[link](https://github.com/thunlp-mt/adamms)**|
 |**2025-03-29**|**Efficient Inference for Large Reasoning Models: A Survey**|Yue Liu et.al.|[2503.23077](http://arxiv.org/abs/2503.23077)|**[link](https://github.com/yueliu1999/awesome-efficient-inference-for-lrms)**|
 |**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577](http://arxiv.org/abs/2503.22577)|null|
@@ -99,10 +102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**BECAME: BayEsian Continual Learning with Adaptive Model MErging**|Mei Li et.al.|[2504.02666](http://arxiv.org/abs/2504.02666)|null|
+|**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
+|**2025-04-03**|**Distributed Log-driven Anomaly Detection System based on Evolving Decision Making**|Zhuoran Tan et.al.|[2504.02322](http://arxiv.org/abs/2504.02322)|null|
+|**2025-04-02**|**TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining**|Jeffrey Li et.al.|[2504.02107](http://arxiv.org/abs/2504.02107)|null|
+|**2025-03-31**|**Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems**|Bang Liu et.al.|[2504.01990](http://arxiv.org/abs/2504.01990)|null|
+|**2025-04-03**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730](http://arxiv.org/abs/2504.01730)|null|
+|**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241](http://arxiv.org/abs/2504.01241)|null|
+|**2025-04-01**|**Gradient-free Continual Learning**|Grzegorz Rypeść et.al.|[2504.01219](http://arxiv.org/abs/2504.01219)|null|
+|**2025-04-01**|**Energy Weighted Learning Progress Guided Interleaved Multi-Task Learning**|Hanne Say et.al.|[2504.00707](http://arxiv.org/abs/2504.00707)|null|
+|**2025-04-01**|**Continual Cross-Modal Generalization**|Yan Xia et.al.|[2504.00561](http://arxiv.org/abs/2504.00561)|null|
+|**2025-03-31**|**MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices**|Sijia Li et.al.|[2504.00174](http://arxiv.org/abs/2504.00174)|null|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
 |**2025-03-30**|**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**|Siqi Fan et.al.|[2503.23514](http://arxiv.org/abs/2503.23514)|null|
 |**2025-03-30**|**Pareto Continual Learning: Preference-Conditioned Learning and Adaption for Dynamic Stability-Plasticity Trade-off**|Song Lai et.al.|[2503.23390](http://arxiv.org/abs/2503.23390)|**[link](https://github.com/laisong-22004009/paretocl)**|
-|**2025-03-30**|**Language Guided Concept Bottleneck Models for Interpretable Continual Learning**|Lu Yu et.al.|[2503.23283](http://arxiv.org/abs/2503.23283)|null|
+|**2025-03-30**|**Language Guided Concept Bottleneck Models for Interpretable Continual Learning**|Lu Yu et.al.|[2503.23283](http://arxiv.org/abs/2503.23283)|**[link](https://github.com/fishercats/clg-cbm)**|
 |**2025-03-29**|**VLM-C4L: Continual Core Dataset Learning with Corner Case Optimization via Vision-Language Models for Autonomous Driving**|Haibo Hu et.al.|[2503.23046](http://arxiv.org/abs/2503.23046)|null|
 |**2025-03-28**|**MediTools -- Medical Education Powered by LLMs**|Amr Alshatnawi et.al.|[2503.22769](http://arxiv.org/abs/2503.22769)|**[link](https://github.com/NM-Streamlit-Team/meditools)**|
 |**2025-03-26**|**Ancestral Mamba: Enhancing Selective Discriminant Space Model with Online Visual Prototype Learning for Efficient and Robust Discriminant Approach**|Jiahao Qin et.al.|[2503.22729](http://arxiv.org/abs/2503.22729)|null|
@@ -301,9 +315,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**|Rong Kang et.al.|[2503.23776](http://arxiv.org/abs/2503.23776)|null|
+|**2025-04-03**|**Improving Counterfactual Truthfulness for Molecular Property Prediction through Uncertainty Quantification**|Jonas Teufel et.al.|[2504.02606](http://arxiv.org/abs/2504.02606)|null|
+|**2025-04-03**|**Impact of Global Warming on Extreme Rainfall in Taiwan**|Cheng-Ching Lin et.al.|[2504.02470](http://arxiv.org/abs/2504.02470)|null|
+|**2025-04-03**|**FT-Transformer: Resilient and Reliable Transformer with End-to-End Fault Tolerant Attention**|Huangliang Dai et.al.|[2504.02211](http://arxiv.org/abs/2504.02211)|null|
+|**2025-04-02**|**Hessian-aware Training for Enhancing DNNs Resilience to Parameter Corruptions**|Tahmid Hasan Prato et.al.|[2504.01933](http://arxiv.org/abs/2504.01933)|null|
+|**2025-04-02**|**A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control**|Jinhao Ouyang et.al.|[2504.01752](http://arxiv.org/abs/2504.01752)|null|
+|**2025-04-02**|**Design and Experimental Validation of an Urban Microclimate Tool Integrating Indoor-Outdoor Detailed Longwave Radiative Fluxes at District Scale**|Marie-Hélène Azam et.al.|[2504.01736](http://arxiv.org/abs/2504.01736)|null|
+|**2025-04-01**|**Cooper: A Library for Constrained Optimization in Deep Learning**|Jose Gallego-Posada et.al.|[2504.01212](http://arxiv.org/abs/2504.01212)|**[link](https://github.com/cooper-org/cooper)**|
+|**2025-04-01**|**The role of ethical consumption in promoting democratic sustainability: revisiting neoclassical economics through Kantian ethics**|Pascal Stiefenhofer et.al.|[2504.01138](http://arxiv.org/abs/2504.01138)|null|
+|**2025-04-01**|**SViQA: A Unified Speech-Vision Multimodal Model for Textless Visual Question Answering**|Bingxin Li et.al.|[2504.01049](http://arxiv.org/abs/2504.01049)|null|
+|**2025-04-01**|**Galaxy Morphology Classification via Deep Semi-Supervised Learning with Limited Labeled Data**|Zhijian Luo et.al.|[2504.00500](http://arxiv.org/abs/2504.00500)|null|
+|**2025-04-01**|**Hawkeye:Efficient Reasoning with Model Collaboration**|Jianshu She et.al.|[2504.00424](http://arxiv.org/abs/2504.00424)|null|
+|**2025-04-01**|**Collaborative LLM Numerical Reasoning with Local Data Protection**|Min Zhang et.al.|[2504.00299](http://arxiv.org/abs/2504.00299)|null|
+|**2025-03-31**|**VIDEX: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era**|Rong Kang et.al.|[2503.23776](http://arxiv.org/abs/2503.23776)|**[link](https://github.com/bytedance/videx)**|
 |**2025-03-30**|**FedCAPrivacy: Privacy-Preserving Heterogeneous Federated Learning with Anonymous Adaptive Clustering**|Yunan Wei et.al.|[2503.23292](http://arxiv.org/abs/2503.23292)|null|
-|**2025-03-29**|**ShiftLIC: Lightweight Learned Image Compression with Spatial-Channel Shift Operations**|Youneng Bao et.al.|[2503.23052](http://arxiv.org/abs/2503.23052)|null|
+|**2025-03-29**|**ShiftLIC: Lightweight Learned Image Compression with Spatial-Channel Shift Operations**|Youneng Bao et.al.|[2503.23052](http://arxiv.org/abs/2503.23052)|**[link](https://github.com/baoyu2020/shiftlic)**|
 |**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579](http://arxiv.org/abs/2503.21579)|null|
 |**2025-03-27**|**Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**|Wanli Ni et.al.|[2503.21412](http://arxiv.org/abs/2503.21412)|null|
