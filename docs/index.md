@@ -89,7 +89,7 @@ layout: default
 |**2024-12-19**|**Multi-concept Model Immunization through Differentiable Model Merging**|Amber Yijia Zheng et.al.|[2412.15320](http://arxiv.org/abs/2412.15320)|**[link](https://github.com/amberyzheng/MIMA)**|
 |**2024-12-18**|**Channel Merging: Preserving Specialization for Merged Experts**|Mingyang Zhang et.al.|[2412.15283](http://arxiv.org/abs/2412.15283)|null|
 |**2024-12-18**|**Rethink the Evaluation Protocol of Model Merging on Classification Task**|Fanshuang Kong et.al.|[2412.13526](http://arxiv.org/abs/2412.13526)|**[link](https://github.com/fskong/FT-Classifier-for-Model-Merging)**|
-|**2024-12-11**|**Revisiting Weight Averaging for Model Merging**|Jiho Choi et.al.|[2412.12153](http://arxiv.org/abs/2412.12153)|null|
+|**2024-12-11**|**Revisiting Weight Averaging for Model Merging**|Jiho Choi et.al.|[2412.12153](http://arxiv.org/abs/2412.12153)|**[link](https://github.com/JH-GEECS/CART_public)**|
 |**2024-12-09**|**SUPERMERGE: An Approach For Gradient-Based Model Merging**|Haoyu Yang et.al.|[2412.10416](http://arxiv.org/abs/2412.10416)|null|
 |**2024-12-11**|**How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging**|Hugo Monzón Maldonado et.al.|[2412.08147](http://arxiv.org/abs/2412.08147)|null|
 |**2024-12-09**|**How to Merge Your Multimodal Models Over Time?**|Sebastian Dziadzio et.al.|[2412.06712](http://arxiv.org/abs/2412.06712)|**[link](https://github.com/explainableml/fomo_in_flux)**|
@@ -134,7 +134,7 @@ layout: default
 |**2025-03-25**|**Continual Learning With Quasi-Newton Methods**|Steven Vander Eeckt et.al.|[2503.19939](http://arxiv.org/abs/2503.19939)|null|
 |**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
 |**2025-03-24**|**Continual Reinforcement Learning for HVAC Systems Control: Integrating Hypernetworks and Transfer Learning**|Gautham Udayakumar Bekal et.al.|[2503.19212](http://arxiv.org/abs/2503.19212)|null|
-|**2025-03-23**|**LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning**|Xuan Liu et.al.|[2503.18985](http://arxiv.org/abs/2503.18985)|null|
+|**2025-03-23**|**LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning**|Xuan Liu et.al.|[2503.18985](http://arxiv.org/abs/2503.18985)|**[link](https://github.com/scarlet0703/LoRA-Sub-DRS)**|
 |**2025-03-24**|**Autonomous Generation of Sub-goals for Lifelong Learning in Robots**|Emanuel Fallas Hernández et.al.|[2503.18914](http://arxiv.org/abs/2503.18914)|null|
 |**2025-03-25**|**Feature Calibration enhanced Parameter Synthesis for CLIP-based Class-incremental Learning**|Juncen Guo et.al.|[2503.18672](http://arxiv.org/abs/2503.18672)|null|
 |**2025-03-24**|**Parental Guidance: Efficient Lifelong Learning through Evolutionary Distillation**|Octi Zhang et.al.|[2503.18531](http://arxiv.org/abs/2503.18531)|null|
