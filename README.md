@@ -1,4 +1,4 @@
-## Updated on 2025.04.09
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
+|**2025-04-08**|**SEA-LION: Southeast Asian Languages in One Network**|Raymond Ng et.al.|[2504.05747](http://arxiv.org/abs/2504.05747)|null|
+|**2025-04-06**|**MASS: MoErging through Adaptive Subspace Selection**|Donato Crisostomi et.al.|[2504.05342](http://arxiv.org/abs/2504.05342)|null|
 |**2025-04-06**|**Exact Unlearning of Finetuning Data via Model Merging at Scale**|Kevin Kuo et.al.|[2504.04626](http://arxiv.org/abs/2504.04626)|null|
 |**2025-03-28**|**Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models**|Runpeng Dai et.al.|[2504.03714](http://arxiv.org/abs/2504.03714)|null|
 |**2025-04-03**|**BECAME: BayEsian Continual Learning with Adaptive Model MErging**|Mei Li et.al.|[2504.02666](http://arxiv.org/abs/2504.02666)|null|
@@ -105,12 +108,17 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
+|**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
+|**2025-04-09**|**DUKAE: DUal-level Knowledge Accumulation and Ensemble for Pre-Trained Model-Based Continual Learning**|Songze Li et.al.|[2504.06521](http://arxiv.org/abs/2504.06521)|null|
+|**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
+|**2025-04-08**|**Continual Learning of Multiple Cognitive Functions with Brain-inspired Temporal Development Mechanism**|Bing Han et.al.|[2504.05621](http://arxiv.org/abs/2504.05621)|null|
 |**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
 |**2025-04-06**|**Better Rates for Random Task Orderings in Continual Linear Models**|Itay Evron et.al.|[2504.04579](http://arxiv.org/abs/2504.04579)|null|
 |**2025-04-05**|**Memory-Statistics Tradeoff in Continual Learning with Structural Regularization**|Haoran Li et.al.|[2504.04039](http://arxiv.org/abs/2504.04039)|null|
@@ -324,17 +332,22 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**|Jujia Zhao et.al.|[2504.06714](http://arxiv.org/abs/2504.06714)|null|
+|**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
+|**2025-04-09**|**FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion**|Longguang Zhong et.al.|[2504.06562](http://arxiv.org/abs/2504.06562)|null|
+|**2025-04-07**|**Going beyond explainability in multi-modal stroke outcome prediction models**|Jonas Brändli et.al.|[2504.06299](http://arxiv.org/abs/2504.06299)|null|
+|**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
 |**2025-04-07**|**Enhancing Trust in AI Marketplaces: Evaluating On-Chain Verification of Personalized AI models using zk-SNARKs**|Nishant Jagannath et.al.|[2504.04794](http://arxiv.org/abs/2504.04794)|null|
 |**2025-04-07**|**Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs**|Will Cai et.al.|[2504.04715](http://arxiv.org/abs/2504.04715)|null|
 |**2025-04-05**|**Foundation Models for Environmental Science: A Survey of Emerging Frontiers**|Runlong Yu et.al.|[2504.04280](http://arxiv.org/abs/2504.04280)|null|
-|**2025-04-05**|**Scalable Robust Bayesian Co-Clustering with Compositional ELBOs**|Ashwin Vinod et.al.|[2504.04079](http://arxiv.org/abs/2504.04079)|null|
+|**2025-04-08**|**Scalable Robust Bayesian Co-Clustering with Compositional ELBOs**|Ashwin Vinod et.al.|[2504.04079](http://arxiv.org/abs/2504.04079)|null|
 |**2025-04-04**|**NucleiML: A machine learning framework of ground-state properties of finite nuclei for accelerated Bayesian exploration**|Anagh Venneti et.al.|[2504.03333](http://arxiv.org/abs/2504.03333)|null|
 |**2025-04-03**|**From Questions to Insights: Exploring XAI Challenges Reported on Stack Overflow Questions**|Saumendu Roy et.al.|[2504.03085](http://arxiv.org/abs/2504.03085)|null|
 |**2025-04-03**|**Improving Counterfactual Truthfulness for Molecular Property Prediction through Uncertainty Quantification**|Jonas Teufel et.al.|[2504.02606](http://arxiv.org/abs/2504.02606)|null|
@@ -495,7 +508,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
