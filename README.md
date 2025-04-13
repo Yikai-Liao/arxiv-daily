@@ -1,4 +1,4 @@
-## Updated on 2025.04.11
+## Updated on 2025.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -108,12 +108,14 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
+|**2025-04-09**|**Prototype-Based Continual Learning with Label-free Replay Buffer and Cluster Preservation Loss**|Agil Aghasanli et.al.|[2504.07240](http://arxiv.org/abs/2504.07240)|null|
 |**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
 |**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
 |**2025-04-09**|**DUKAE: DUal-level Knowledge Accumulation and Ensemble for Pre-Trained Model-Based Continual Learning**|Songze Li et.al.|[2504.06521](http://arxiv.org/abs/2504.06521)|null|
@@ -126,7 +128,7 @@
 |**2025-04-03**|**BECAME: BayEsian Continual Learning with Adaptive Model MErging**|Mei Li et.al.|[2504.02666](http://arxiv.org/abs/2504.02666)|null|
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Distributed Log-driven Anomaly Detection System based on Evolving Decision Making**|Zhuoran Tan et.al.|[2504.02322](http://arxiv.org/abs/2504.02322)|null|
-|**2025-04-02**|**TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining**|Jeffrey Li et.al.|[2504.02107](http://arxiv.org/abs/2504.02107)|null|
+|**2025-04-02**|**TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining**|Jeffrey Li et.al.|[2504.02107](http://arxiv.org/abs/2504.02107)|**[link](https://github.com/apple/ml-tic-lm)**|
 |**2025-03-31**|**Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems**|Bang Liu et.al.|[2504.01990](http://arxiv.org/abs/2504.01990)|null|
 |**2025-04-03**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730](http://arxiv.org/abs/2504.01730)|null|
 |**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241](http://arxiv.org/abs/2504.01241)|null|
@@ -332,12 +334,14 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
+|**2025-04-09**|**A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation**|Fatemeh Amrollahi et.al.|[2504.07278](http://arxiv.org/abs/2504.07278)|null|
 |**2025-04-09**|**Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**|Jujia Zhao et.al.|[2504.06714](http://arxiv.org/abs/2504.06714)|null|
 |**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
 |**2025-04-09**|**FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion**|Longguang Zhong et.al.|[2504.06562](http://arxiv.org/abs/2504.06562)|null|
@@ -508,7 +512,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
