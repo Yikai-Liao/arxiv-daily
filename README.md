@@ -1,4 +1,4 @@
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -108,7 +108,7 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -129,7 +129,7 @@
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Distributed Log-driven Anomaly Detection System based on Evolving Decision Making**|Zhuoran Tan et.al.|[2504.02322](http://arxiv.org/abs/2504.02322)|null|
 |**2025-04-02**|**TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining**|Jeffrey Li et.al.|[2504.02107](http://arxiv.org/abs/2504.02107)|**[link](https://github.com/apple/ml-tic-lm)**|
-|**2025-03-31**|**Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems**|Bang Liu et.al.|[2504.01990](http://arxiv.org/abs/2504.01990)|null|
+|**2025-03-31**|**Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems**|Bang Liu et.al.|[2504.01990](http://arxiv.org/abs/2504.01990)|**[link](https://github.com/foundationagents/awesome-foundation-agents)**|
 |**2025-04-03**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730](http://arxiv.org/abs/2504.01730)|null|
 |**2025-04-01**|**Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks**|Naimul Haque et.al.|[2504.01241](http://arxiv.org/abs/2504.01241)|null|
 |**2025-04-01**|**Gradient-free Continual Learning**|Grzegorz Rypeść et.al.|[2504.01219](http://arxiv.org/abs/2504.01219)|null|
@@ -334,7 +334,7 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Model Cooperation
 
@@ -349,7 +349,7 @@
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
 |**2025-04-07**|**Enhancing Trust in AI Marketplaces: Evaluating On-Chain Verification of Personalized AI models using zk-SNARKs**|Nishant Jagannath et.al.|[2504.04794](http://arxiv.org/abs/2504.04794)|null|
-|**2025-04-07**|**Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs**|Will Cai et.al.|[2504.04715](http://arxiv.org/abs/2504.04715)|null|
+|**2025-04-07**|**Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs**|Will Cai et.al.|[2504.04715](http://arxiv.org/abs/2504.04715)|**[link](https://github.com/sunblaze-ucb/llm-api-audit)**|
 |**2025-04-05**|**Foundation Models for Environmental Science: A Survey of Emerging Frontiers**|Runlong Yu et.al.|[2504.04280](http://arxiv.org/abs/2504.04280)|null|
 |**2025-04-08**|**Scalable Robust Bayesian Co-Clustering with Compositional ELBOs**|Ashwin Vinod et.al.|[2504.04079](http://arxiv.org/abs/2504.04079)|null|
 |**2025-04-04**|**NucleiML: A machine learning framework of ground-state properties of finite nuclei for accelerated Bayesian exploration**|Anagh Venneti et.al.|[2504.03333](http://arxiv.org/abs/2504.03333)|null|
@@ -512,7 +512,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
