@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.17
+## Updated on 2025.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
+|**2025-04-16**|**DMM: Building a Versatile Image Generation Model via Distillation-Based Model Merging**|Tianhui Song et.al.|[2504.12364](http://arxiv.org/abs/2504.12364)|null|
 |**2025-04-15**|**Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning**|Juan Garcia Giraldo et.al.|[2504.11268](http://arxiv.org/abs/2504.11268)|null|
 |**2025-04-15**|**Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs**|Rui Dai et.al.|[2504.10902](http://arxiv.org/abs/2504.10902)|null|
 |**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
@@ -109,23 +111,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**Adaptive Decision Boundary for Few-Shot Class-Incremental Learning**|Linhao Li et.al.|[2504.10976](http://arxiv.org/abs/2504.10976)|null|
+|**2025-04-17**|**Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification**|Hyunji Jung et.al.|[2504.12712](http://arxiv.org/abs/2504.12712)|null|
+|**2025-04-16**|**Continual Learning Strategies for 3D Engineering Regression Problems: A Benchmarking Study**|Kaira M. Samuel et.al.|[2504.12503](http://arxiv.org/abs/2504.12503)|null|
+|**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
+|**2025-04-15**|**MULTI-LF: A Unified Continuous Learning Framework for Real-Time DDoS Detection in Multi-Environment Networks**|Furqan Rustam et.al.|[2504.11575](http://arxiv.org/abs/2504.11575)|null|
+|**2025-04-17**|**Adaptive Decision Boundary for Few-Shot Class-Incremental Learning**|Linhao Li et.al.|[2504.10976](http://arxiv.org/abs/2504.10976)|null|
 |**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-16**|**Self-Controlled Dynamic Expansion Model for Continual Learning**|Runqing Wu et.al.|[2504.10561](http://arxiv.org/abs/2504.10561)|null|
 |**2025-04-14**|**Continual learning for rotating machinery fault diagnosis with cross-domain environmental and operational variations**|Diogo Risca et.al.|[2504.10151](http://arxiv.org/abs/2504.10151)|null|
 |**2025-04-16**|**BoTTA: Benchmarking on-device Test Time Adaptation**|Michal Danilowski et.al.|[2504.10149](http://arxiv.org/abs/2504.10149)|null|
 |**2025-04-13**|**How new data permeates LLM knowledge and how to dilute it**|Chen Sun et.al.|[2504.09522](http://arxiv.org/abs/2504.09522)|null|
 |**2025-04-13**|**Tin-Tin: Towards Tiny Learning on Tiny Devices with Integer-based Neural Network Training**|Yi Hu et.al.|[2504.09405](http://arxiv.org/abs/2504.09405)|null|
-|**2025-04-12**|**CAShift: Benchmarking Log-Based Cloud Attack Detection under Normality Shift**|Jiongchi Yu et.al.|[2504.09115](http://arxiv.org/abs/2504.09115)|null|
+|**2025-04-17**|**CAShift: Benchmarking Log-Based Cloud Attack Detection under Normality Shift**|Jiongchi Yu et.al.|[2504.09115](http://arxiv.org/abs/2504.09115)|**[link](https://github.com/fish98/CAShift)**|
 |**2025-04-11**|**Adaptive Additive Parameter Updates of Vision Transformers for Few-Shot Continual Learning**|Kyle Stein et.al.|[2504.08982](http://arxiv.org/abs/2504.08982)|null|
 |**2025-04-11**|**Diachronic and synchronic variation in the performance of adaptive machine learning systems: The ethical challenges**|Joshua Hatherley et.al.|[2504.08861](http://arxiv.org/abs/2504.08861)|null|
 |**2025-04-09**|**FM-LoRA: Factorized Low-Rank Meta-Prompting for Continual Learning**|Xiaobing Yu et.al.|[2504.08823](http://arxiv.org/abs/2504.08823)|null|
 |**2025-04-14**|**Task-conditioned Ensemble of Expert Models for Continuous Learning**|Renu Sharma et.al.|[2504.08626](http://arxiv.org/abs/2504.08626)|**[link](https://github.com/iprobe-lab/continuous_learning_fe_dm)**|
 |**2025-04-11**|**Enhancing knowledge retention for continual learning with domain-specific adapters and features gating**|Mohamed Abbas Hedjazi et.al.|[2504.08613](http://arxiv.org/abs/2504.08613)|null|
 |**2025-04-11**|**Boosting-inspired online learning with transfer for railway maintenance**|Diogo Risca et.al.|[2504.08554](http://arxiv.org/abs/2504.08554)|null|
-|**2025-04-11**|**Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery**|Alireza Fathalizadeh et.al.|[2504.08550](http://arxiv.org/abs/2504.08550)|null|
+|**2025-04-11**|**Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery**|Alireza Fathalizadeh et.al.|[2504.08550](http://arxiv.org/abs/2504.08550)|**[link](https://github.com/numone01/categorizer)**|
 |**2025-04-11**|**Explainability and Continual Learning meet Federated Learning at the Network Edge**|Thomas Tsouparopoulos et.al.|[2504.08536](http://arxiv.org/abs/2504.08536)|null|
-|**2025-04-11**|**CMIP-CIL: A Cross-Modal Benchmark for Image-Point Class Incremental Learning**|Chao Qi et.al.|[2504.08422](http://arxiv.org/abs/2504.08422)|null|
+|**2025-04-11**|**CMIP-CIL: A Cross-Modal Benchmark for Image-Point Class Incremental Learning**|Chao Qi et.al.|[2504.08422](http://arxiv.org/abs/2504.08422)|**[link](https://github.com/chaoqi7/cmip-cil)**|
 |**2025-04-10**|**Rethinking the Foundations for Continual Reinforcement Learning**|Michael Bowling et.al.|[2504.08161](http://arxiv.org/abs/2504.08161)|null|
 |**2025-04-10**|**LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution**|Danielle Sullivan-Pao et.al.|[2504.08149](http://arxiv.org/abs/2504.08149)|**[link](https://github.com/mit-ll/lorax_cil)**|
 |**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
@@ -352,6 +358,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Bayesian model-data comparison incorporating theoretical uncertainties**|Sunil Jaiswal et.al.|[2504.13144](http://arxiv.org/abs/2504.13144)|null|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|null|
+|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
+|**2025-04-16**|**Decision-based AI Visual Navigation for Cardiac Ultrasounds**|Andy Dimnaku et.al.|[2504.12535](http://arxiv.org/abs/2504.12535)|null|
 |**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|null|
 |**2025-04-15**|**3D Wavelet Convolutions with Extended Receptive Fields for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.10795](http://arxiv.org/abs/2504.10795)|null|
 |**2025-04-15**|**Collaborative Bayesian Optimization via Wasserstein Barycenters**|Donglin Zhan et.al.|[2504.10770](http://arxiv.org/abs/2504.10770)|null|
@@ -366,7 +376,7 @@ layout: default
 |**2025-04-09**|**A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation**|Fatemeh Amrollahi et.al.|[2504.07278](http://arxiv.org/abs/2504.07278)|null|
 |**2025-04-09**|**Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**|Jujia Zhao et.al.|[2504.06714](http://arxiv.org/abs/2504.06714)|null|
 |**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
-|**2025-04-09**|**FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion**|Longguang Zhong et.al.|[2504.06562](http://arxiv.org/abs/2504.06562)|null|
+|**2025-04-17**|**FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion**|Longguang Zhong et.al.|[2504.06562](http://arxiv.org/abs/2504.06562)|null|
 |**2025-04-07**|**Going beyond explainability in multi-modal stroke outcome prediction models**|Jonas Brändli et.al.|[2504.06299](http://arxiv.org/abs/2504.06299)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|**[link](https://github.com/aitical/dswinir)**|
