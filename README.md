@@ -1,4 +1,4 @@
-## Updated on 2025.04.19
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
 |**2025-04-16**|**DMM: Building a Versatile Image Generation Model via Distillation-Based Model Merging**|Tianhui Song et.al.|[2504.12364](http://arxiv.org/abs/2504.12364)|null|
 |**2025-04-15**|**Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning**|Juan Garcia Giraldo et.al.|[2504.11268](http://arxiv.org/abs/2504.11268)|null|
-|**2025-04-15**|**Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs**|Rui Dai et.al.|[2504.10902](http://arxiv.org/abs/2504.10902)|null|
+|**2025-04-15**|**Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs**|Rui Dai et.al.|[2504.10902](http://arxiv.org/abs/2504.10902)|**[link](https://github.com/deep-analysis-research/slta)**|
 |**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
 |**2025-04-15**|**SEA-LION: Southeast Asian Languages in One Network**|Raymond Ng et.al.|[2504.05747](http://arxiv.org/abs/2504.05747)|null|
 |**2025-04-06**|**MASS: MoErging through Adaptive Subspace Selection**|Donato Crisostomi et.al.|[2504.05342](http://arxiv.org/abs/2504.05342)|null|
@@ -112,7 +112,7 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -122,7 +122,7 @@
 |**2025-04-16**|**Continual Learning Strategies for 3D Engineering Regression Problems: A Benchmarking Study**|Kaira M. Samuel et.al.|[2504.12503](http://arxiv.org/abs/2504.12503)|null|
 |**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
 |**2025-04-15**|**MULTI-LF: A Unified Continuous Learning Framework for Real-Time DDoS Detection in Multi-Environment Networks**|Furqan Rustam et.al.|[2504.11575](http://arxiv.org/abs/2504.11575)|null|
-|**2025-04-17**|**Adaptive Decision Boundary for Few-Shot Class-Incremental Learning**|Linhao Li et.al.|[2504.10976](http://arxiv.org/abs/2504.10976)|null|
+|**2025-04-17**|**Adaptive Decision Boundary for Few-Shot Class-Incremental Learning**|Linhao Li et.al.|[2504.10976](http://arxiv.org/abs/2504.10976)|**[link](https://github.com/yongzhang-tan/adbs)**|
 |**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-16**|**Self-Controlled Dynamic Expansion Model for Continual Learning**|Runqing Wu et.al.|[2504.10561](http://arxiv.org/abs/2504.10561)|null|
 |**2025-04-14**|**Continual learning for rotating machinery fault diagnosis with cross-domain environmental and operational variations**|Diogo Risca et.al.|[2504.10151](http://arxiv.org/abs/2504.10151)|null|
@@ -361,17 +361,17 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-17**|**Bayesian model-data comparison incorporating theoretical uncertainties**|Sunil Jaiswal et.al.|[2504.13144](http://arxiv.org/abs/2504.13144)|null|
-|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|null|
-|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
+|**2025-04-18**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
 |**2025-04-16**|**Decision-based AI Visual Navigation for Cardiac Ultrasounds**|Andy Dimnaku et.al.|[2504.12535](http://arxiv.org/abs/2504.12535)|null|
-|**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|null|
+|**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|**[link](https://github.com/lewisclifton/mamba-wbc-classification)**|
 |**2025-04-15**|**3D Wavelet Convolutions with Extended Receptive Fields for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.10795](http://arxiv.org/abs/2504.10795)|null|
 |**2025-04-15**|**Collaborative Bayesian Optimization via Wasserstein Barycenters**|Donglin Zhan et.al.|[2504.10770](http://arxiv.org/abs/2504.10770)|null|
 |**2025-04-14**|**Keyword Extraction, and Aspect Classification in Sinhala, English, and Code-Mixed Content**|F. A. Rizvi et.al.|[2504.10679](http://arxiv.org/abs/2504.10679)|null|
@@ -553,7 +553,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
