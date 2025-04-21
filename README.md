@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
-|**2025-04-16**|**DMM: Building a Versatile Image Generation Model via Distillation-Based Model Merging**|Tianhui Song et.al.|[2504.12364](http://arxiv.org/abs/2504.12364)|null|
+|**2025-04-16**|**DMM: Building a Versatile Image Generation Model via Distillation-Based Model Merging**|Tianhui Song et.al.|[2504.12364](http://arxiv.org/abs/2504.12364)|**[link](https://github.com/mcg-nju/dmm)**|
 |**2025-04-15**|**Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning**|Juan Garcia Giraldo et.al.|[2504.11268](http://arxiv.org/abs/2504.11268)|null|
 |**2025-04-15**|**Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs**|Rui Dai et.al.|[2504.10902](http://arxiv.org/abs/2504.10902)|**[link](https://github.com/deep-analysis-research/slta)**|
 |**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
@@ -452,7 +452,7 @@
 |**2025-03-10**|**PanguIR Technical Report for NTCIR-18 AEOLLM Task**|Lang Mei et.al.|[2503.04809](http://arxiv.org/abs/2503.04809)|null|
 |**2025-03-06**|**Grid-Aware Islanding and Resynchronisation of AC/DC Microgrids**|Willem Lambrichts et.al.|[2503.04597](http://arxiv.org/abs/2503.04597)|null|
 |**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451](http://arxiv.org/abs/2503.04451)|null|
-|**2025-03-06**|**FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion**|Ziyi Yang et.al.|[2503.04222](http://arxiv.org/abs/2503.04222)|null|
+|**2025-03-06**|**FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion**|Ziyi Yang et.al.|[2503.04222](http://arxiv.org/abs/2503.04222)|**[link](https://github.com/slit-ai/fusechat-3.0)**|
 |**2025-03-06**|**The Impact Analysis of Delays in Asynchronous Federated Learning with Data Heterogeneity for Edge Intelligence**|Ziruo Hao et.al.|[2503.04052](http://arxiv.org/abs/2503.04052)|null|
 |**2025-03-05**|**A Survey of Foundation Models for Environmental Science**|Runlong Yu et.al.|[2503.03142](http://arxiv.org/abs/2503.03142)|null|
 |**2025-03-01**|**Adaptive Entanglement Routing with Deep Q-Networks in Quantum Networks**|Lamarana Jallow et.al.|[2503.02895](http://arxiv.org/abs/2503.02895)|null|
