@@ -1,4 +1,4 @@
-## Updated on 2025.04.21
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-20**|**Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning**|Yeoreum Lee et.al.|[2504.14662](http://arxiv.org/abs/2504.14662)|**[link](https://github.com/baiklab/saft-merge)**|
+|**2025-04-17**|**ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**|Yan Yang et.al.|[2504.13237](http://arxiv.org/abs/2504.13237)|null|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
 |**2025-04-16**|**DMM: Building a Versatile Image Generation Model via Distillation-Based Model Merging**|Tianhui Song et.al.|[2504.12364](http://arxiv.org/abs/2504.12364)|**[link](https://github.com/mcg-nju/dmm)**|
 |**2025-04-15**|**Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning**|Juan Garcia Giraldo et.al.|[2504.11268](http://arxiv.org/abs/2504.11268)|null|
@@ -112,12 +114,23 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Single-loop Algorithms for Stochastic Non-convex Optimization with Weakly-Convex Constraints**|Ming Yang et.al.|[2504.15243](http://arxiv.org/abs/2504.15243)|null|
+|**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211](http://arxiv.org/abs/2504.15211)|null|
+|**2025-04-20**|**Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning**|Geng Liu et.al.|[2504.14727](http://arxiv.org/abs/2504.14727)|null|
+|**2025-04-20**|**Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning**|Jia Liu et.al.|[2504.14677](http://arxiv.org/abs/2504.14677)|null|
+|**2025-04-20**|**Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction**|Wenke Xia et.al.|[2504.14588](http://arxiv.org/abs/2504.14588)|null|
+|**2025-04-20**|**Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey**|Ahsan Bilal et.al.|[2504.14520](http://arxiv.org/abs/2504.14520)|null|
+|**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822](http://arxiv.org/abs/2504.13822)|null|
+|**2025-04-18**|**MEGA: Second-Order Gradient Alignment for Catastrophic Forgetting Mitigation in GFSCIL**|Jinhui Pang et.al.|[2504.13691](http://arxiv.org/abs/2504.13691)|null|
+|**2025-04-18**|**Bayesian continual learning and forgetting in neural networks**|Djohan Bonnet et.al.|[2504.13569](http://arxiv.org/abs/2504.13569)|null|
+|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|**[link](https://github.com/learninginvision/lorac-ipc)**|
+|**2025-04-18**|**A mean teacher algorithm for unlearning of language models**|Yegor Klochkov et.al.|[2504.13388](http://arxiv.org/abs/2504.13388)|null|
 |**2025-04-17**|**Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification**|Hyunji Jung et.al.|[2504.12712](http://arxiv.org/abs/2504.12712)|null|
 |**2025-04-16**|**Continual Learning Strategies for 3D Engineering Regression Problems: A Benchmarking Study**|Kaira M. Samuel et.al.|[2504.12503](http://arxiv.org/abs/2504.12503)|null|
 |**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
@@ -361,12 +374,21 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models**|Chengyu Wang et.al.|[2504.15027](http://arxiv.org/abs/2504.15027)|null|
+|**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021](http://arxiv.org/abs/2504.15021)|null|
+|**2025-04-21**|**Multimodal Non-Semantic Feature Fusion for Predicting Segment Access Frequency in Lecture Archives**|Ruozhu Sheng et.al.|[2504.14927](http://arxiv.org/abs/2504.14927)|null|
+|**2025-04-19**|**Quantum-Enhanced Reinforcement Learning for Power Grid Security Assessment**|Benjamin M. Peter et.al.|[2504.14412](http://arxiv.org/abs/2504.14412)|null|
+|**2025-04-19**|**Mathematical Programming Models for Exact and Interpretable Formulation of Neural Networks**|Masoud Ataei et.al.|[2504.14356](http://arxiv.org/abs/2504.14356)|null|
+|**2025-04-19**|**Dusty stellar sources classification by implementing machine learning methods based on spectroscopic observations in the Magellanic Clouds**|Sepideh Ghaziasgar et.al.|[2504.14332](http://arxiv.org/abs/2504.14332)|null|
+|**2025-04-19**|**End-Edge Model Collaboration: Bandwidth Allocation for Data Upload and Model Transmission**|Dailin Yang et.al.|[2504.14310](http://arxiv.org/abs/2504.14310)|null|
+|**2025-04-18**|**SatelliteCalculator: A Multi-Task Vision Foundation Model for Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2504.13442](http://arxiv.org/abs/2504.13442)|null|
+|**2025-04-14**|**Investigating cybersecurity incidents using large language models in latest-generation wireless networks**|Leonid Legashev et.al.|[2504.13196](http://arxiv.org/abs/2504.13196)|null|
 |**2025-04-17**|**Bayesian model-data comparison incorporating theoretical uncertainties**|Sunil Jaiswal et.al.|[2504.13144](http://arxiv.org/abs/2504.13144)|null|
 |**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
 |**2025-04-18**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
@@ -553,7 +575,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
