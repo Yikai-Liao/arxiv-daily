@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.25
+## Updated on 2025.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare**|Jose G. Moreno et.al.|[2504.17360](http://arxiv.org/abs/2504.17360)|null|
 |**2025-04-20**|**Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning**|Yeoreum Lee et.al.|[2504.14662](http://arxiv.org/abs/2504.14662)|**[link](https://github.com/baiklab/saft-merge)**|
 |**2025-04-17**|**ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**|Yan Yang et.al.|[2504.13237](http://arxiv.org/abs/2504.13237)|null|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
@@ -113,6 +114,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Plasticine: Accelerating Research in Plasticity-Motivated Deep Reinforcement Learning**|Mingqi Yuan et.al.|[2504.17490](http://arxiv.org/abs/2504.17490)|null|
+|**2025-04-24**|**Perturbed Gradient Descent via Convex Quadratic Approximation for Nonconvex Bilevel Optimization**|Nazanin Abolfazli et.al.|[2504.17215](http://arxiv.org/abs/2504.17215)|null|
+|**2025-04-23**|**Social sustainability through engagement in a training context with tools such as the Native Podcast and Facebook social network**|Danielle Mbambe Bebey et.al.|[2504.16964](http://arxiv.org/abs/2504.16964)|null|
 |**2025-04-23**|**Noise-Tolerant Coreset-Based Class Incremental Continual Learning**|Edison Mucllari et.al.|[2504.16763](http://arxiv.org/abs/2504.16763)|null|
 |**2025-04-23**|**Dynamic Time-aware Continual User Representation Learning**|Seungyoon Choi et.al.|[2504.16501](http://arxiv.org/abs/2504.16501)|null|
 |**2025-04-22**|**ZeroSlide: Is Zero-Shot Classification Adequate for Lifelong Learning in Whole-Slide Image Analysis in the Era of Pathology Vision-Language Foundation Models?**|Doanh C. Bui et.al.|[2504.15627](http://arxiv.org/abs/2504.15627)|null|
@@ -376,6 +381,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
+|**2025-04-24**|**Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks**|Yang Liu et.al.|[2504.17421](http://arxiv.org/abs/2504.17421)|null|
 |**2025-04-23**|**CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning**|Fengchun Liu et.al.|[2504.16364](http://arxiv.org/abs/2504.16364)|null|
 |**2025-04-22**|**Few-shot Hate Speech Detection Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.15987](http://arxiv.org/abs/2504.15987)|null|
 |**2025-04-24**|**Synergizing RAG and Reasoning: A Systematic Review**|Yunfan Gao et.al.|[2504.15909](http://arxiv.org/abs/2504.15909)|null|
