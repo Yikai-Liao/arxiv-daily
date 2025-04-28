@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -84,7 +84,7 @@ layout: default
 |**2025-02-11**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
 |**2025-02-06**|**Fine, I'll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging**|Guinan Su et.al.|[2502.04030](http://arxiv.org/abs/2502.04030)|null|
 |**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
-|**2025-02-03**|**Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach**|Siqi Zeng et.al.|[2502.01015](http://arxiv.org/abs/2502.01015)|null|
+|**2025-02-03**|**Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach**|Siqi Zeng et.al.|[2502.01015](http://arxiv.org/abs/2502.01015)|**[link](https://github.com/uiuctml/TaskVectorBasis)**|
 |**2025-02-17**|**MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs**|Yuhang Zhou et.al.|[2502.00997](http://arxiv.org/abs/2502.00997)|null|
 |**2025-01-31**|**BTS: Harmonizing Specialized Experts into a Generalist LLM**|Qizhen Zhang et.al.|[2502.00075](http://arxiv.org/abs/2502.00075)|null|
 |**2025-01-31**|**Norm-Bounded Low-Rank Adaptation**|Ruigang Wang et.al.|[2501.19050](http://arxiv.org/abs/2501.19050)|null|
