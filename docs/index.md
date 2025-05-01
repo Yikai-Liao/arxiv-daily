@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.29
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333](http://arxiv.org/abs/2504.19333)|null|
+|**2025-04-26**|**Dynamic Fisher-weighted Model Merging via Bayesian Optimization**|Sanwoo Lee et.al.|[2504.18992](http://arxiv.org/abs/2504.18992)|null|
 |**2025-04-24**|**PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare**|Jose G. Moreno et.al.|[2504.17360](http://arxiv.org/abs/2504.17360)|null|
 |**2025-04-20**|**Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning**|Yeoreum Lee et.al.|[2504.14662](http://arxiv.org/abs/2504.14662)|**[link](https://github.com/baiklab/saft-merge)**|
 |**2025-04-17**|**ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**|Yan Yang et.al.|[2504.13237](http://arxiv.org/abs/2504.13237)|null|
@@ -114,6 +116,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
+|**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
+|**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282](http://arxiv.org/abs/2504.20282)|null|
+|**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
+|**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
+|**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
+|**2025-04-24**|**QuantBench: Benchmarking AI Methods for Quantitative Investment**|Saizhuo Wang et.al.|[2504.18600](http://arxiv.org/abs/2504.18600)|null|
 |**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471](http://arxiv.org/abs/2504.18471)|null|
 |**2025-04-25**|**Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse**|Kun He et.al.|[2504.18437](http://arxiv.org/abs/2504.18437)|null|
 |**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|null|
@@ -387,6 +396,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Hybrid Approach Combining Ultrasound and Blood Test Analysis with a Voting Classifier for Accurate Liver Fibrosis and Cirrhosis Assessment**|Kapil Kashyap et.al.|[2504.19755](http://arxiv.org/abs/2504.19755)|null|
+|**2025-04-28**|**SynergyAmodal: Deocclude Anything with Text Control**|Xinyang Li et.al.|[2504.19506](http://arxiv.org/abs/2504.19506)|null|
+|**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333](http://arxiv.org/abs/2504.19333)|null|
+|**2025-04-27**|**Anyprefer: An Agentic Framework for Preference Data Synthesis**|Yiyang Zhou et.al.|[2504.19276](http://arxiv.org/abs/2504.19276)|null|
+|**2025-04-27**|**Vessel Length Estimation from Magnetic Wake Signature: A Physics-Informed Residual Neural Network Approach**|Mohammad Amir Fallah et.al.|[2504.19112](http://arxiv.org/abs/2504.19112)|null|
+|**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|null|
+|**2025-04-25**|**Proof-of-TBI -- Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction**|Ross Gore et.al.|[2504.18671](http://arxiv.org/abs/2504.18671)|null|
 |**2025-04-25**|**Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests**|Giuseppe Loffredo et.al.|[2504.18498](http://arxiv.org/abs/2504.18498)|null|
 |**2025-04-25**|**ThreMoLIA: Threat Modeling of Large Language Model-Integrated Applications**|Felix Viktor Jedrzejewski et.al.|[2504.18369](http://arxiv.org/abs/2504.18369)|null|
 |**2025-04-25**|**Auto-Regressive Standard Precipitation Index: A Bayesian Approach for Drought Characterization**|Soham Ghosh et.al.|[2504.18197](http://arxiv.org/abs/2504.18197)|null|
