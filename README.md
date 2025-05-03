@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -117,12 +117,16 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices**|Zhengyi Zhong et.al.|[2505.00365](http://arxiv.org/abs/2505.00365)|null|
+|**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
+|**2025-04-30**|**Memorization and Knowledge Injection in Gated LLMs**|Xu Pan et.al.|[2504.21239](http://arxiv.org/abs/2504.21239)|null|
+|**2025-04-29**|**Legilimens: Performant Video Analytics on the System-on-Chip Edge**|Murali Ramanujam et.al.|[2504.21136](http://arxiv.org/abs/2504.21136)|null|
 |**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
 |**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
 |**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282](http://arxiv.org/abs/2504.20282)|null|
@@ -399,12 +403,17 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**KnowEEG: Explainable Knowledge Driven EEG Classification**|Amarpal Sahota et.al.|[2505.00541](http://arxiv.org/abs/2505.00541)|null|
+|**2025-04-29**|**Improving Phishing Email Detection Performance of Small Large Language Models**|Zijie Lin et.al.|[2505.00034](http://arxiv.org/abs/2505.00034)|null|
+|**2025-04-30**|**Polka-dotted Stars: a Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884**|Sabina Sagynbayeva et.al.|[2504.21852](http://arxiv.org/abs/2504.21852)|null|
+|**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
+|**2025-04-30**|**LSTM+Geo with xgBoost Filtering: A Novel Approach for Race and Ethnicity Imputation with Reduced Bias**|S. Chalavadi et.al.|[2504.21259](http://arxiv.org/abs/2504.21259)|null|
 |**2025-04-28**|**Hybrid Approach Combining Ultrasound and Blood Test Analysis with a Voting Classifier for Accurate Liver Fibrosis and Cirrhosis Assessment**|Kapil Kashyap et.al.|[2504.19755](http://arxiv.org/abs/2504.19755)|null|
 |**2025-04-28**|**SynergyAmodal: Deocclude Anything with Text Control**|Xinyang Li et.al.|[2504.19506](http://arxiv.org/abs/2504.19506)|null|
 |**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333](http://arxiv.org/abs/2504.19333)|null|
@@ -617,7 +626,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

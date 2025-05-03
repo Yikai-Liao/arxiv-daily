@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -116,6 +116,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices**|Zhengyi Zhong et.al.|[2505.00365](http://arxiv.org/abs/2505.00365)|null|
+|**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
+|**2025-04-30**|**Memorization and Knowledge Injection in Gated LLMs**|Xu Pan et.al.|[2504.21239](http://arxiv.org/abs/2504.21239)|null|
+|**2025-04-29**|**Legilimens: Performant Video Analytics on the System-on-Chip Edge**|Murali Ramanujam et.al.|[2504.21136](http://arxiv.org/abs/2504.21136)|null|
 |**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
 |**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
 |**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282](http://arxiv.org/abs/2504.20282)|null|
@@ -396,6 +400,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**KnowEEG: Explainable Knowledge Driven EEG Classification**|Amarpal Sahota et.al.|[2505.00541](http://arxiv.org/abs/2505.00541)|null|
+|**2025-04-29**|**Improving Phishing Email Detection Performance of Small Large Language Models**|Zijie Lin et.al.|[2505.00034](http://arxiv.org/abs/2505.00034)|null|
+|**2025-04-30**|**Polka-dotted Stars: a Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884**|Sabina Sagynbayeva et.al.|[2504.21852](http://arxiv.org/abs/2504.21852)|null|
+|**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
+|**2025-04-30**|**LSTM+Geo with xgBoost Filtering: A Novel Approach for Race and Ethnicity Imputation with Reduced Bias**|S. Chalavadi et.al.|[2504.21259](http://arxiv.org/abs/2504.21259)|null|
 |**2025-04-28**|**Hybrid Approach Combining Ultrasound and Blood Test Analysis with a Voting Classifier for Accurate Liver Fibrosis and Cirrhosis Assessment**|Kapil Kashyap et.al.|[2504.19755](http://arxiv.org/abs/2504.19755)|null|
 |**2025-04-28**|**SynergyAmodal: Deocclude Anything with Text Control**|Xinyang Li et.al.|[2504.19506](http://arxiv.org/abs/2504.19506)|null|
 |**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333](http://arxiv.org/abs/2504.19333)|null|
