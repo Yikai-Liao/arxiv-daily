@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -118,7 +118,7 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -161,13 +161,13 @@
 |**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211](http://arxiv.org/abs/2504.15211)|null|
 |**2025-04-20**|**Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning**|Geng Liu et.al.|[2504.14727](http://arxiv.org/abs/2504.14727)|null|
 |**2025-04-20**|**Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning**|Jia Liu et.al.|[2504.14677](http://arxiv.org/abs/2504.14677)|null|
-|**2025-04-20**|**Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction**|Wenke Xia et.al.|[2504.14588](http://arxiv.org/abs/2504.14588)|null|
+|**2025-04-20**|**Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction**|Wenke Xia et.al.|[2504.14588](http://arxiv.org/abs/2504.14588)|**[link](https://github.com/gewu-lab/motion-based-self-reflection-framework)**|
 |**2025-04-20**|**Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey**|Ahsan Bilal et.al.|[2504.14520](http://arxiv.org/abs/2504.14520)|null|
 |**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822](http://arxiv.org/abs/2504.13822)|null|
 |**2025-04-18**|**MEGA: Second-Order Gradient Alignment for Catastrophic Forgetting Mitigation in GFSCIL**|Jinhui Pang et.al.|[2504.13691](http://arxiv.org/abs/2504.13691)|null|
-|**2025-04-18**|**Bayesian continual learning and forgetting in neural networks**|Djohan Bonnet et.al.|[2504.13569](http://arxiv.org/abs/2504.13569)|null|
+|**2025-04-18**|**Bayesian continual learning and forgetting in neural networks**|Djohan Bonnet et.al.|[2504.13569](http://arxiv.org/abs/2504.13569)|**[link](https://github.com/djo1996/Bayesian_Continual_Learning_And_Forgetting)**|
 |**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|**[link](https://github.com/learninginvision/lorac-ipc)**|
-|**2025-04-18**|**A mean teacher algorithm for unlearning of language models**|Yegor Klochkov et.al.|[2504.13388](http://arxiv.org/abs/2504.13388)|null|
+|**2025-04-18**|**A mean teacher algorithm for unlearning of language models**|Yegor Klochkov et.al.|[2504.13388](http://arxiv.org/abs/2504.13388)|**[link](https://github.com/yklochkov-bytedance/mt-unlearn)**|
 |**2025-04-17**|**Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification**|Hyunji Jung et.al.|[2504.12712](http://arxiv.org/abs/2504.12712)|null|
 |**2025-04-16**|**Continual Learning Strategies for 3D Engineering Regression Problems: A Benchmarking Study**|Kaira M. Samuel et.al.|[2504.12503](http://arxiv.org/abs/2504.12503)|null|
 |**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
@@ -193,8 +193,8 @@
 |**2025-04-10**|**LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution**|Danielle Sullivan-Pao et.al.|[2504.08149](http://arxiv.org/abs/2504.08149)|**[link](https://github.com/mit-ll/lorax_cil)**|
 |**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
 |**2025-04-09**|**Prototype-Based Continual Learning with Label-free Replay Buffer and Cluster Preservation Loss**|Agil Aghasanli et.al.|[2504.07240](http://arxiv.org/abs/2504.07240)|null|
-|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
-|**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|**[link](https://github.com/Red-Hat-AI-Innovation-Team/orthogonal-subspace-learning)**|
+|**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|**[link](https://github.com/linzwcs/see)**|
 |**2025-04-09**|**DUKAE: DUal-level Knowledge Accumulation and Ensemble for Pre-Trained Model-Based Continual Learning**|Songze Li et.al.|[2504.06521](http://arxiv.org/abs/2504.06521)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
 |**2025-04-08**|**Continual Learning of Multiple Cognitive Functions with Brain-inspired Temporal Development Mechanism**|Bing Han et.al.|[2504.05621](http://arxiv.org/abs/2504.05621)|null|
@@ -288,7 +288,7 @@
 |**2025-03-08**|**Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification**|Weixi Zheng et.al.|[2503.06056](http://arxiv.org/abs/2503.06056)|null|
 |**2025-03-07**|**Enhancing Reasoning with Collaboration and Memory**|Julie Michelman et.al.|[2503.05944](http://arxiv.org/abs/2503.05944)|null|
 |**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
-|**2025-03-06**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655](http://arxiv.org/abs/2503.04655)|null|
+|**2025-03-06**|**CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models**|Shengzhuang Chen et.al.|[2503.04655](http://arxiv.org/abs/2503.04655)|**[link](https://github.com/szc12153/cldyb)**|
 |**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-06**|**Knowledge Retention for Continual Model-Based Reinforcement Learning**|Yixiang Sun et.al.|[2503.04256](http://arxiv.org/abs/2503.04256)|null|
 |**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
@@ -411,7 +411,7 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Model Cooperation
 
@@ -443,7 +443,7 @@
 |**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333](http://arxiv.org/abs/2504.19333)|null|
 |**2025-04-27**|**Anyprefer: An Agentic Framework for Preference Data Synthesis**|Yiyang Zhou et.al.|[2504.19276](http://arxiv.org/abs/2504.19276)|null|
 |**2025-04-27**|**Vessel Length Estimation from Magnetic Wake Signature: A Physics-Informed Residual Neural Network Approach**|Mohammad Amir Fallah et.al.|[2504.19112](http://arxiv.org/abs/2504.19112)|null|
-|**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|null|
+|**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|**[link](https://github.com/jikai0wang/speculative_cot)**|
 |**2025-04-25**|**Proof-of-TBI -- Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction**|Ross Gore et.al.|[2504.18671](http://arxiv.org/abs/2504.18671)|null|
 |**2025-04-25**|**Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests**|Giuseppe Loffredo et.al.|[2504.18498](http://arxiv.org/abs/2504.18498)|null|
 |**2025-04-25**|**ThreMoLIA: Threat Modeling of Large Language Model-Integrated Applications**|Felix Viktor Jedrzejewski et.al.|[2504.18369](http://arxiv.org/abs/2504.18369)|null|
@@ -451,10 +451,10 @@
 |**2025-04-25**|**Modular integration of neural connectomics, dynamics and biomechanics for identification of behavioral sensorimotor pathways in Caenorhabditis elegans**|Jimin Kim et.al.|[2504.18073](http://arxiv.org/abs/2504.18073)|null|
 |**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
 |**2025-04-24**|**Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks**|Yang Liu et.al.|[2504.17421](http://arxiv.org/abs/2504.17421)|null|
-|**2025-04-23**|**CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning**|Fengchun Liu et.al.|[2504.16364](http://arxiv.org/abs/2504.16364)|null|
+|**2025-04-23**|**CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning**|Fengchun Liu et.al.|[2504.16364](http://arxiv.org/abs/2504.16364)|**[link](https://github.com/chaos-boops/clpstnet)**|
 |**2025-04-22**|**Few-shot Hate Speech Detection Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.15987](http://arxiv.org/abs/2504.15987)|null|
 |**2025-04-24**|**Synergizing RAG and Reasoning: A Systematic Review**|Yunfan Gao et.al.|[2504.15909](http://arxiv.org/abs/2504.15909)|null|
-|**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875](http://arxiv.org/abs/2504.15875)|null|
+|**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875](http://arxiv.org/abs/2504.15875)|**[link](https://github.com/wangleon/calnet)**|
 |**2025-04-21**|**DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models**|Chengyu Wang et.al.|[2504.15027](http://arxiv.org/abs/2504.15027)|null|
 |**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021](http://arxiv.org/abs/2504.15021)|null|
 |**2025-04-21**|**Multimodal Non-Semantic Feature Fusion for Predicting Segment Access Frequency in Lecture Archives**|Ruozhu Sheng et.al.|[2504.14927](http://arxiv.org/abs/2504.14927)|null|
@@ -481,7 +481,7 @@
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
 |**2025-04-09**|**A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation**|Fatemeh Amrollahi et.al.|[2504.07278](http://arxiv.org/abs/2504.07278)|null|
 |**2025-04-09**|**Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**|Jujia Zhao et.al.|[2504.06714](http://arxiv.org/abs/2504.06714)|null|
-|**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|null|
+|**2025-04-09**|**SEE: Continual Fine-tuning with Sequential Ensemble of Experts**|Zhilin Wang et.al.|[2504.06664](http://arxiv.org/abs/2504.06664)|**[link](https://github.com/linzwcs/see)**|
 |**2025-04-17**|**FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion**|Longguang Zhong et.al.|[2504.06562](http://arxiv.org/abs/2504.06562)|null|
 |**2025-04-07**|**Going beyond explainability in multi-modal stroke outcome prediction models**|Jonas Brändli et.al.|[2504.06299](http://arxiv.org/abs/2504.06299)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
@@ -650,7 +650,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
