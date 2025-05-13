@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -118,14 +118,17 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191](http://arxiv.org/abs/2505.06191)|null|
+|**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992](http://arxiv.org/abs/2505.05992)|null|
+|**2025-05-09**|**Elastic Weight Consolidation for Full-Parameter Continual Pre-Training of Gemma2**|Vytenis Šliogeris et.al.|[2505.05946](http://arxiv.org/abs/2505.05946)|null|
 |**2025-05-08**|**MARK: Memory Augmented Refinement of Knowledge**|Anish Ganguli et.al.|[2505.05177](http://arxiv.org/abs/2505.05177)|null|
-|**2025-05-07**|**Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay**|Sriram Mandalika et.al.|[2505.04787](http://arxiv.org/abs/2505.04787)|null|
+|**2025-05-09**|**Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay**|Sriram Mandalika et.al.|[2505.04787](http://arxiv.org/abs/2505.04787)|null|
 |**2025-05-01**|**AI-Driven IRM: Transforming insider risk management with adaptive scoring and LLM-based threat detection**|Lokesh Koli et.al.|[2505.03796](http://arxiv.org/abs/2505.03796)|null|
 |**2025-05-05**|**Efficient Continual Learning in Keyword Spotting using Binary Neural Networks**|Quynh Nguyen-Phuong Vu et.al.|[2505.02469](http://arxiv.org/abs/2505.02469)|null|
 |**2025-05-04**|**Lifelong Whole Slide Image Analysis: Online Vision-Language Adaptation and Past-to-Present Gradient Distillation**|Doanh C. Bui et.al.|[2505.01984](http://arxiv.org/abs/2505.01984)|null|
@@ -411,12 +414,13 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-08**|**Optimal Microgrid Sizing of Offshore Renewable Energy Sources for Offshore Platforms and Coastal Communities**|Ann Mary Toms et.al.|[2505.05305](http://arxiv.org/abs/2505.05305)|null|
 |**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|null|
@@ -650,7 +654,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
