@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
+|**2025-05-14**|**CAT Merging: A Training-Free Approach for Resolving Conflicts in Model Merging**|Wenju Sun et.al.|[2505.06977](http://arxiv.org/abs/2505.06977)|null|
+|**2025-05-10**|**QoS-Efficient Serving of Multiple Mixture-of-Expert LLMs Using Partial Runtime Reconfiguration**|HamidReza Imani et.al.|[2505.06481](http://arxiv.org/abs/2505.06481)|null|
 |**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
 |**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333](http://arxiv.org/abs/2504.19333)|null|
 |**2025-04-26**|**Dynamic Fisher-weighted Model Merging via Bayesian Optimization**|Sanwoo Lee et.al.|[2504.18992](http://arxiv.org/abs/2504.18992)|null|
@@ -117,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
+|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|null|
+|**2025-05-13**|**GradMix: Gradient-based Selective Mixup for Robust Data Augmentation in Class-Incremental Learning**|Minsu Kim et.al.|[2505.08528](http://arxiv.org/abs/2505.08528)|null|
+|**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524](http://arxiv.org/abs/2505.08524)|null|
+|**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
+|**2025-05-12**|**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**|Songlin Dong et.al.|[2505.07690](http://arxiv.org/abs/2505.07690)|null|
+|**2025-05-13**|**Prototype Augmented Hypernetworks for Continual Learning**|Neil De La Fuente et.al.|[2505.07450](http://arxiv.org/abs/2505.07450)|null|
+|**2025-05-12**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267](http://arxiv.org/abs/2505.07267)|null|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
+|**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
 |**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191](http://arxiv.org/abs/2505.06191)|null|
 |**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992](http://arxiv.org/abs/2505.05992)|null|
 |**2025-05-09**|**Elastic Weight Consolidation for Full-Parameter Continual Pre-Training of Gemma2**|Vytenis Šliogeris et.al.|[2505.05946](http://arxiv.org/abs/2505.05946)|null|
@@ -411,11 +424,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**LM-Scout: Analyzing the Security of Language Model Integration in Android Apps**|Muhammad Ibrahim et.al.|[2505.08204](http://arxiv.org/abs/2505.08204)|null|
+|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734](http://arxiv.org/abs/2505.07734)|null|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715](http://arxiv.org/abs/2505.07715)|null|
+|**2025-05-12**|**A Survey on Collaborative Mechanisms Between Large and Small Language Models**|Yi Chen et.al.|[2505.07460](http://arxiv.org/abs/2505.07460)|null|
+|**2025-05-12**|**REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for Imbalanced Prediction**|Fei Liu et.al.|[2505.07245](http://arxiv.org/abs/2505.07245)|null|
+|**2025-05-11**|**NeuRN: Neuro-inspired Domain Generalization for Image Classification**|Hamd Jalil et.al.|[2505.06881](http://arxiv.org/abs/2505.06881)|null|
+|**2025-05-10**|**Improving Generalization of Medical Image Registration Foundation Model**|Jing Hu et.al.|[2505.06527](http://arxiv.org/abs/2505.06527)|**[link](https://github.com/promise13/fm_sam)**|
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-08**|**Optimal Microgrid Sizing of Offshore Renewable Energy Sources for Offshore Platforms and Coastal Communities**|Ann Mary Toms et.al.|[2505.05305](http://arxiv.org/abs/2505.05305)|null|
 |**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
-|**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|null|
-|**2025-05-08**|**Particle Gibbs without the Gibbs bit**|Adrien Corenflos et.al.|[2505.04611](http://arxiv.org/abs/2505.04611)|null|
+|**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|**[link](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)**|
+|**2025-05-12**|**Particle Gibbs without the Gibbs bit**|Adrien Corenflos et.al.|[2505.04611](http://arxiv.org/abs/2505.04611)|null|
 |**2025-05-06**|**LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration**|Zirong Chen et.al.|[2505.03985](http://arxiv.org/abs/2505.03985)|null|
 |**2025-05-06**|**Edge Large AI Models: Collaborative Deployment and IoT Applications**|Zixin Wang et.al.|[2505.03139](http://arxiv.org/abs/2505.03139)|null|
 |**2025-05-05**|**Logits-Constrained Framework with RoBERTa for Ancient Chinese NER**|Wenjie Hua et.al.|[2505.02983](http://arxiv.org/abs/2505.02983)|null|
