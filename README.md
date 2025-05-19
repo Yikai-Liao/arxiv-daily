@@ -1,4 +1,4 @@
-## Updated on 2025.05.17
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -123,7 +123,7 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -136,12 +136,12 @@
 |**2025-05-14**|**Preserving Plasticity in Continual Learning with Adaptive Linearity Injection**|Seyed Roozbeh Razavi Rohani et.al.|[2505.09486](http://arxiv.org/abs/2505.09486)|null|
 |**2025-05-13**|**Continual Reinforcement Learning via Autoencoder-Driven Task and New Environment Recognition**|Zeki Doruk Erden et.al.|[2505.09003](http://arxiv.org/abs/2505.09003)|null|
 |**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
-|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|null|
+|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|**[link](https://github.com/libo-huang/PrePrompt)**|
 |**2025-05-13**|**GradMix: Gradient-based Selective Mixup for Robust Data Augmentation in Class-Incremental Learning**|Minsu Kim et.al.|[2505.08528](http://arxiv.org/abs/2505.08528)|null|
 |**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524](http://arxiv.org/abs/2505.08524)|null|
 |**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
 |**2025-05-12**|**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**|Songlin Dong et.al.|[2505.07690](http://arxiv.org/abs/2505.07690)|null|
-|**2025-05-13**|**Prototype Augmented Hypernetworks for Continual Learning**|Neil De La Fuente et.al.|[2505.07450](http://arxiv.org/abs/2505.07450)|null|
+|**2025-05-16**|**Prototype Augmented Hypernetworks for Continual Learning**|Neil De La Fuente et.al.|[2505.07450](http://arxiv.org/abs/2505.07450)|null|
 |**2025-05-12**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267](http://arxiv.org/abs/2505.07267)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
 |**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
@@ -435,7 +435,7 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 ## Model Cooperation
 
@@ -684,7 +684,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.17
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -129,12 +129,12 @@ layout: default
 |**2025-05-14**|**Preserving Plasticity in Continual Learning with Adaptive Linearity Injection**|Seyed Roozbeh Razavi Rohani et.al.|[2505.09486](http://arxiv.org/abs/2505.09486)|null|
 |**2025-05-13**|**Continual Reinforcement Learning via Autoencoder-Driven Task and New Environment Recognition**|Zeki Doruk Erden et.al.|[2505.09003](http://arxiv.org/abs/2505.09003)|null|
 |**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648](http://arxiv.org/abs/2505.08648)|null|
-|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|null|
+|**2025-05-13**|**PrePrompt: Predictive prompting for class incremental learning**|Libo Huang et.al.|[2505.08586](http://arxiv.org/abs/2505.08586)|**[link](https://github.com/libo-huang/PrePrompt)**|
 |**2025-05-13**|**GradMix: Gradient-based Selective Mixup for Robust Data Augmentation in Class-Incremental Learning**|Minsu Kim et.al.|[2505.08528](http://arxiv.org/abs/2505.08528)|null|
 |**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524](http://arxiv.org/abs/2505.08524)|null|
 |**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
 |**2025-05-12**|**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**|Songlin Dong et.al.|[2505.07690](http://arxiv.org/abs/2505.07690)|null|
-|**2025-05-13**|**Prototype Augmented Hypernetworks for Continual Learning**|Neil De La Fuente et.al.|[2505.07450](http://arxiv.org/abs/2505.07450)|null|
+|**2025-05-16**|**Prototype Augmented Hypernetworks for Continual Learning**|Neil De La Fuente et.al.|[2505.07450](http://arxiv.org/abs/2505.07450)|null|
 |**2025-05-12**|**Adaptive, Robust and Scalable Bayesian Filtering for Online Learning**|Gerardo Duran-Martin et.al.|[2505.07267](http://arxiv.org/abs/2505.07267)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
 |**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
