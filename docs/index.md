@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**Scalable Strategies for Continual Learning with Replay**|Truman Hickok et.al.|[2505.12512](http://arxiv.org/abs/2505.12512)|null|
+|**2025-05-20**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
+|**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
+|**2025-05-16**|**Mergenetic: a Simple Evolutionary Model Merging Library**|Adrian Robert Minut et.al.|[2505.11427](http://arxiv.org/abs/2505.11427)|null|
+|**2025-05-16**|**RanDeS: Randomized Delta Superposition for Multi-Model Compression**|Hangyu Zhou et.al.|[2505.11204](http://arxiv.org/abs/2505.11204)|null|
+|**2025-05-16**|**Hybrid Monetary Ecosystems: Integrating Stablecoins and Fiat in the Future of Currency Systems**|Hongzhe Wen et.al.|[2505.10997](http://arxiv.org/abs/2505.10997)|null|
+|**2025-05-16**|**MergeBench: A Benchmark for Merging Domain-Specialized LLMs**|Yifei He et.al.|[2505.10833](http://arxiv.org/abs/2505.10833)|null|
+|**2025-05-15**|**A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment**|Jean-Philippe Corbeil et.al.|[2505.10717](http://arxiv.org/abs/2505.10717)|null|
 |**2025-05-14**|**Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence**|Harikrishna Kuttivelil et.al.|[2505.09854](http://arxiv.org/abs/2505.09854)|null|
 |**2025-05-12**|**MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges**|Shixi Qin et.al.|[2505.08809](http://arxiv.org/abs/2505.08809)|**[link](https://github.com/qsx830/mixbridge)**|
 |**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
@@ -122,6 +130,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**LiBOG: Lifelong Learning for Black-Box Optimizer Generation**|Jiyuan Pei et.al.|[2505.13025](http://arxiv.org/abs/2505.13025)|**[link](https://github.com/peijy/libog)**|
+|**2025-05-18**|**Scalable Strategies for Continual Learning with Replay**|Truman Hickok et.al.|[2505.12512](http://arxiv.org/abs/2505.12512)|null|
+|**2025-05-18**|**AFCL: Analytic Federated Continual Learning for Spatio-Temporal Invariance of Non-IID Data**|Jianheng Tang et.al.|[2505.12245](http://arxiv.org/abs/2505.12245)|null|
+|**2025-05-18**|**ACU: Analytic Continual Unlearning for Efficient and Exact Forgetting with Privacy Preservation**|Jianheng Tang et.al.|[2505.12239](http://arxiv.org/abs/2505.12239)|null|
+|**2025-05-17**|**Growable and Interpretable Neural Control with Online Continual Learning for Autonomous Lifelong Locomotion Learning Machines**|Arthicha Srisuchinnawong et.al.|[2505.12029](http://arxiv.org/abs/2505.12029)|null|
+|**2025-05-17**|**Parameter Efficient Continual Learning with Dynamic Low-Rank Adaptation**|Prashant Shivaram Bhat et.al.|[2505.11998](http://arxiv.org/abs/2505.11998)|null|
+|**2025-05-17**|**LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners**|Junhao Zheng et.al.|[2505.11942](http://arxiv.org/abs/2505.11942)|null|
+|**2025-05-17**|**How can Diffusion Models Evolve into Continual Generators?**|Jingren Liu et.al.|[2505.11936](http://arxiv.org/abs/2505.11936)|null|
+|**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
+|**2025-05-17**|**AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting**|Yang Xiao et.al.|[2505.11817](http://arxiv.org/abs/2505.11817)|null|
+|**2025-05-17**|**Continuous Subspace Optimization for Continual Learning**|Quan Cheng et.al.|[2505.11816](http://arxiv.org/abs/2505.11816)|null|
+|**2025-05-17**|**CL-BioGAN: Biologically-Inspired Cross-Domain Continual Learning for Hyperspectral Anomaly Detection**|Jianing Wang et.al.|[2505.11796](http://arxiv.org/abs/2505.11796)|null|
+|**2025-05-17**|**CL-CaGAN: Capsule differential adversarial continuous learning for cross-domain hyperspectral anomaly detection**|Jianing Wang et.al.|[2505.11793](http://arxiv.org/abs/2505.11793)|null|
+|**2025-05-16**|**Questioning Representational Optimism in Deep Learning: The Fractured Entangled Representation Hypothesis**|Akarsh Kumar et.al.|[2505.11581](http://arxiv.org/abs/2505.11581)|null|
+|**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191](http://arxiv.org/abs/2505.11191)|null|
+|**2025-05-16**|**Privacy-Aware Lifelong Learning**|Ozan Özdenizci et.al.|[2505.10941](http://arxiv.org/abs/2505.10941)|null|
+|**2025-05-15**|**A Conformal Predictive Measure for Assessing Catastrophic Forgetting**|Ioannis Pitsiorlas et.al.|[2505.10677](http://arxiv.org/abs/2505.10677)|null|
+|**2025-05-15**|**Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging**|Xianrui Li et.al.|[2505.10649](http://arxiv.org/abs/2505.10649)|null|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
 |**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2505.10010](http://arxiv.org/abs/2505.10010)|**[link](https://github.com/lamda-rl/imaginebench)**|
 |**2025-05-15**|**Task-Core Memory Management and Consolidation for Long-term Continual Learning**|Tianyu Huai et.al.|[2505.09952](http://arxiv.org/abs/2505.09952)|null|
@@ -432,6 +458,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Feedback-Driven Dynamical Model for Axonal Extension on Parallel Micropatterns**|Kyle Cheng et.al.|[2505.13361](http://arxiv.org/abs/2505.13361)|null|
+|**2025-05-19**|**HydraInfer: Hybrid Disaggregated Scheduling for Multimodal Large Language Model Serving**|Xianzhe Dong et.al.|[2505.12658](http://arxiv.org/abs/2505.12658)|null|
+|**2025-05-18**|**Introspective Growth: Automatically Advancing LLM Expertise in Technology Judgment**|Siyang Wu et.al.|[2505.12452](http://arxiv.org/abs/2505.12452)|null|
+|**2025-05-17**|**MedVKAN: Efficient Feature Extraction with Mamba and KAN for Medical Image Segmentation**|Hancan Zhu et.al.|[2505.11797](http://arxiv.org/abs/2505.11797)|**[link](https://github.com/beginner-cjh/medvkan)**|
+|**2025-05-15**|**GSPRec: Temporal-Aware Graph Spectral Filtering for Recommendation**|Ahmad Bin Rabiah et.al.|[2505.11552](http://arxiv.org/abs/2505.11552)|null|
+|**2025-05-16**|**Driving Mechanisms and Forecasting of China's Pet Population-An ARIMA-RF-HW Hybrid Approach**|Shengjia Chang et.al.|[2505.11269](http://arxiv.org/abs/2505.11269)|null|
+|**2025-05-16**|**A High-Performance Thermal Infrared Object Detection Framework with Centralized Regulation**|Jinke Li et.al.|[2505.10825](http://arxiv.org/abs/2505.10825)|null|
 |**2025-05-14**|**WhatsAI: Transforming Meta Ray-Bans into an Extensible Generative AI Platform for Accessibility**|Nasif Zaman et.al.|[2505.09823](http://arxiv.org/abs/2505.09823)|null|
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[2505.08999](http://arxiv.org/abs/2505.08999)|**[link](https://github.com/pgao-lab/amga)**|
 |**2025-05-13**|**LM-Scout: Analyzing the Security of Language Model Integration in Android Apps**|Muhammad Ibrahim et.al.|[2505.08204](http://arxiv.org/abs/2505.08204)|null|
@@ -441,7 +474,7 @@ layout: default
 |**2025-05-12**|**REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for Imbalanced Prediction**|Fei Liu et.al.|[2505.07245](http://arxiv.org/abs/2505.07245)|null|
 |**2025-05-11**|**NeuRN: Neuro-inspired Domain Generalization for Image Classification**|Hamd Jalil et.al.|[2505.06881](http://arxiv.org/abs/2505.06881)|null|
 |**2025-05-10**|**Improving Generalization of Medical Image Registration Foundation Model**|Jing Hu et.al.|[2505.06527](http://arxiv.org/abs/2505.06527)|**[link](https://github.com/promise13/fm_sam)**|
-|**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
+|**2025-05-17**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-08**|**Optimal Microgrid Sizing of Offshore Renewable Energy Sources for Offshore Platforms and Coastal Communities**|Ann Mary Toms et.al.|[2505.05305](http://arxiv.org/abs/2505.05305)|null|
 |**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|**[link](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)**|
