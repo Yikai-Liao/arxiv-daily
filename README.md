@@ -1,4 +1,4 @@
-## Updated on 2025.05.23
+## Updated on 2025.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs**|Zeping Yu et.al.|[2505.16703](http://arxiv.org/abs/2505.16703)|null|
+|**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
+|**2025-05-22**|**NAN: A Training-Free Solution to Coefficient Estimation in Model Merging**|Chongjie Si et.al.|[2505.16148](http://arxiv.org/abs/2505.16148)|null|
+|**2025-05-21**|**Merge to Mix: Mixing Datasets via Model Merging**|Zhixu Silvia Tao et.al.|[2505.16066](http://arxiv.org/abs/2505.16066)|null|
+|**2025-05-21**|**Decouple and Orthogonalize: A Data-Free Framework for LoRA Merging**|Shenghe Zheng et.al.|[2505.15875](http://arxiv.org/abs/2505.15875)|null|
 |**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
 |**2025-05-20**|**Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging**|Ryo Bertolissi et.al.|[2505.14136](http://arxiv.org/abs/2505.14136)|null|
 |**2025-05-20**|**Activation-Guided Consensus Merging for Large Language Models**|Yuxuan Yao et.al.|[2505.14009](http://arxiv.org/abs/2505.14009)|null|
@@ -134,15 +139,16 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-21**|**Bayesian Ensembling: Insights from Online Optimization and Empirical Bayes**|Daniel Waxman et.al.|[2505.15638](http://arxiv.org/abs/2505.15638)|null|
+|**2025-05-22**|**Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning**|Jiaru Zou et.al.|[2505.16270](http://arxiv.org/abs/2505.16270)|null|
+|**2025-05-21**|**Bayesian Ensembling: Insights from Online Optimization and Empirical Bayes**|Daniel Waxman et.al.|[2505.15638](http://arxiv.org/abs/2505.15638)|**[link](https://github.com/DanWaxman/OnlineBayesianStacking)**|
 |**2025-05-21**|**Exploring LLM-Generated Feedback for Economics Essays: How Teaching Assistants Evaluate and Envision Its Use**|Xinyi Lu et.al.|[2505.15596](http://arxiv.org/abs/2505.15596)|**[link](https://github.com/um-lifelong-learning-lab/aied2025-exploring-llm-generated-feedback-for-economics-essay)**|
-|**2025-05-21**|**Gated Integration of Low-Rank Adaptation for Continual Learning of Language Models**|Yan-Shuo Liang et.al.|[2505.15424](http://arxiv.org/abs/2505.15424)|null|
+|**2025-05-21**|**Gated Integration of Low-Rank Adaptation for Continual Learning of Language Models**|Yan-Shuo Liang et.al.|[2505.15424](http://arxiv.org/abs/2505.15424)|**[link](https://github.com/liangyanshuo/gainlora)**|
 |**2025-05-21**|**A Unified Gradient-based Framework for Task-agnostic Continual Learning-Unlearning**|Zhehao Huang et.al.|[2505.15178](http://arxiv.org/abs/2505.15178)|null|
 |**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|**[link](https://github.com/xiaojiegu/ultraedit)**|
 |**2025-05-20**|**Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**|Yang Xiao et.al.|[2505.14601](http://arxiv.org/abs/2505.14601)|null|
@@ -474,12 +480,14 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Four Eyes Are Better Than Two: Harnessing the Collaborative Potential of Large Models via Differentiated Thinking and Complementary Ensembles**|Jun Xie et.al.|[2505.16784](http://arxiv.org/abs/2505.16784)|null|
+|**2025-05-21**|**Domain Adaptive Skin Lesion Classification via Conformal Ensemble of Vision Transformers**|Mehran Zoravar et.al.|[2505.15997](http://arxiv.org/abs/2505.15997)|null|
 |**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376](http://arxiv.org/abs/2505.15376)|null|
@@ -741,7 +749,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
