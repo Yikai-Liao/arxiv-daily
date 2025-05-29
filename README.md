@@ -1,4 +1,4 @@
-## Updated on 2025.05.27
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Why Do More Experts Fail? A Theoretical Analysis of Model Merging**|Zijing Wang et.al.|[2505.21226](http://arxiv.org/abs/2505.21226)|null|
+|**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
+|**2025-05-26**|**SeMe: Training-Free Language Model Merging via Semantic Alignment**|Jian Gu et.al.|[2505.20144](http://arxiv.org/abs/2505.20144)|null|
+|**2025-05-26**|**Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging**|Yongxian Wei et.al.|[2505.19892](http://arxiv.org/abs/2505.19892)|**[link](https://github.com/walkerworldpeace/mllmerging)**|
+|**2025-05-24**|**Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer**|Guodong Du et.al.|[2505.18713](http://arxiv.org/abs/2505.18713)|null|
+|**2025-05-23**|**The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs**|Lucas Bandarkar et.al.|[2505.18356](http://arxiv.org/abs/2505.18356)|null|
 |**2025-05-23**|**AstroMLab 4: Benchmark-Topping Performance in Astronomy Q&A with a 70B-Parameter Domain-Specialized Reasoning Model**|Tijmen de Haan et.al.|[2505.17592](http://arxiv.org/abs/2505.17592)|null|
 |**2025-05-23**|**Analyzing Mitigation Strategies for Catastrophic Forgetting in End-to-End Training of Spoken Language Models**|Chi-Yuan Hsiao et.al.|[2505.17496](http://arxiv.org/abs/2505.17496)|null|
 |**2025-05-22**|**Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs**|Zeping Yu et.al.|[2505.16703](http://arxiv.org/abs/2505.16703)|null|
@@ -141,12 +147,28 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
+|**2025-05-28**|**Understanding the behavior of representation forgetting in continual learning**|Joonkyu Kim et.al.|[2505.20970](http://arxiv.org/abs/2505.20970)|null|
+|**2025-05-27**|**Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors**|Haodong Lu et.al.|[2505.20680](http://arxiv.org/abs/2505.20680)|null|
+|**2025-05-26**|**Hierarchical Bayesian estimation for continual learning during model-informed precision dosing**|Franziska Thoma et.al.|[2505.20240](http://arxiv.org/abs/2505.20240)|null|
+|**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
+|**2025-05-26**|**Data-Distill-Net: A Data Distillation Approach Tailored for Reply-based Continual Learning**|Wenyang Liao et.al.|[2505.20135](http://arxiv.org/abs/2505.20135)|null|
+|**2025-05-26**|**Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models**|Huan Zhang et.al.|[2505.19943](http://arxiv.org/abs/2505.19943)|**[link](https://github.com/zhwhu/mist)**|
+|**2025-05-26**|**Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning**|Xinrui Wang et.al.|[2505.19680](http://arxiv.org/abs/2505.19680)|**[link](https://github.com/wxr99/cut-replay)**|
+|**2025-05-27**|**STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization**|Haoyu Zhang et.al.|[2505.19547](http://arxiv.org/abs/2505.19547)|null|
+|**2025-05-26**|**MM-Prompt: Cross-Modal Prompt Tuning for Continual Visual Question Answering**|Xu Li et.al.|[2505.19455](http://arxiv.org/abs/2505.19455)|**[link](https://github.com/xli04/cvqa)**|
+|**2025-05-25**|**A General Theory of Growth, Employment, and Technological Change: Experiential Matrix Theory and the Transition from GDP to Humanist Experiential Growth in the Age of Artificial Intelligence**|Christian Callaghan et.al.|[2505.19045](http://arxiv.org/abs/2505.19045)|null|
+|**2025-05-24**|**Can LLMs Alleviate Catastrophic Forgetting in Graph Continual Learning? A Systematic Study**|Ziyang Cheng et.al.|[2505.18697](http://arxiv.org/abs/2505.18697)|**[link](https://github.com/zhixunlee/llm4gcl)**|
+|**2025-05-24**|**Exemplar-Free Continual Learning for State Space Models**|Isaac Ning Lee et.al.|[2505.18604](http://arxiv.org/abs/2505.18604)|null|
+|**2025-05-24**|**Learning without Isolation: Pathway Protection for Continual Learning**|Zhikang Chen et.al.|[2505.18568](http://arxiv.org/abs/2505.18568)|null|
+|**2025-05-24**|**Knowledge Grafting of Large Language Models**|Guodong Du et.al.|[2505.18502](http://arxiv.org/abs/2505.18502)|null|
+|**2025-05-23**|**CarbonFlex: Enabling Carbon-aware Provisioning and Scheduling for Cloud Clusters**|Walid A. Hanafy et.al.|[2505.18357](http://arxiv.org/abs/2505.18357)|null|
 |**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
 |**2025-05-23**|**Evolving Machine Learning: A Survey**|Ignacio Cabrera Martin et.al.|[2505.17902](http://arxiv.org/abs/2505.17902)|null|
 |**2025-05-23**|**What is the role of memorization in Continual Learning?**|Jędrzej Kozal et.al.|[2505.17664](http://arxiv.org/abs/2505.17664)|null|
@@ -488,15 +510,25 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models**|Yue Zhang et.al.|[2505.21281](http://arxiv.org/abs/2505.21281)|null|
+|**2025-05-28**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904](http://arxiv.org/abs/2505.20904)|null|
+|**2025-05-26**|**Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data**|Abhijit Chunduru et.al.|[2505.20485](http://arxiv.org/abs/2505.20485)|null|
+|**2025-05-26**|**An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation**|Shubham Gandhi et.al.|[2505.20182](http://arxiv.org/abs/2505.20182)|**[link](https://github.com/shubhamrgandhi/codegen-strong-weak-collab)**|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|**[link](https://github.com/maggiemh/bafdp)**|
+|**2025-05-25**|**Deformable Attentive Visual Enhancement for Referring Segmentation Using Vision-Language Model**|Alaa Dalaq et.al.|[2505.19242](http://arxiv.org/abs/2505.19242)|null|
+|**2025-05-24**|**Learning without Isolation: Pathway Protection for Continual Learning**|Zhikang Chen et.al.|[2505.18568](http://arxiv.org/abs/2505.18568)|null|
+|**2025-05-24**|**Knowledge Grafting of Large Language Models**|Guodong Du et.al.|[2505.18502](http://arxiv.org/abs/2505.18502)|null|
+|**2025-05-24**|**Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting**|Zhining Liu et.al.|[2505.18442](http://arxiv.org/abs/2505.18442)|**[link](https://github.com/zhiningliu1998/timefuse)**|
+|**2025-05-23**|**A Robust PPO-optimized Tabular Transformer Framework for Intrusion Detection in Industrial IoT Systems**|Yuanya She et.al.|[2505.18234](http://arxiv.org/abs/2505.18234)|**[link](https://github.com/RussellTNY/PPO-optimized-Tab-Transformer-for-NIDS-on-TON_IoT)**|
 |**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909](http://arxiv.org/abs/2505.17909)|null|
 |**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716](http://arxiv.org/abs/2505.17716)|null|
-|**2025-05-23**|**JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models**|Zifan Peng et.al.|[2505.17568](http://arxiv.org/abs/2505.17568)|null|
+|**2025-05-23**|**JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models**|Zifan Peng et.al.|[2505.17568](http://arxiv.org/abs/2505.17568)|**[link](https://github.com/sfofgalaxy/jalmbench)**|
 |**2025-05-23**|**AI-Augmented LLMs Achieve Therapist-Level Responses in Motivational Interviewing**|Yinghui Huang et.al.|[2505.17380](http://arxiv.org/abs/2505.17380)|null|
 |**2025-05-22**|**Bayesian Optimization for Enhanced Language Models: Optimizing Acquisition Functions**|Zishuo Bao et.al.|[2505.17151](http://arxiv.org/abs/2505.17151)|null|
 |**2025-05-18**|**Improving LLM Outputs Against Jailbreak Attacks with Expert Model Integration**|Tatia Tsmindashvili et.al.|[2505.17066](http://arxiv.org/abs/2505.17066)|null|
@@ -763,7 +795,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
