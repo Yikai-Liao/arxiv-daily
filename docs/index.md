@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Understanding Mode Connectivity via Parameter Space Symmetry**|Bo Zhao et.al.|[2505.23681](http://arxiv.org/abs/2505.23681)|null|
+|**2025-05-29**|**Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation**|Juncheol Shin et.al.|[2505.23651](http://arxiv.org/abs/2505.23651)|null|
+|**2025-05-29**|**Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models**|Zenghui Yuan et.al.|[2505.23561](http://arxiv.org/abs/2505.23561)|null|
+|**2025-05-29**|**Navigating the Accuracy-Size Trade-Off with Flexible Model Merging**|Akash Dhasade et.al.|[2505.23209](http://arxiv.org/abs/2505.23209)|null|
+|**2025-05-29**|**Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking**|Yuatyong Chaichana et.al.|[2505.23117](http://arxiv.org/abs/2505.23117)|null|
+|**2025-05-28**|**Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging**|Haobo Zhang et.al.|[2505.22934](http://arxiv.org/abs/2505.22934)|null|
+|**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
+|**2025-05-29**|**Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning**|Haomiao Qiu et.al.|[2505.22389](http://arxiv.org/abs/2505.22389)|null|
+|**2025-05-29**|**Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition**|Hanting Chen et.al.|[2505.22375](http://arxiv.org/abs/2505.22375)|null|
+|**2025-05-28**|**LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents**|Taro Yano et.al.|[2505.21963](http://arxiv.org/abs/2505.21963)|null|
 |**2025-05-27**|**Why Do More Experts Fail? A Theoretical Analysis of Model Merging**|Zijing Wang et.al.|[2505.21226](http://arxiv.org/abs/2505.21226)|null|
 |**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
 |**2025-05-26**|**SeMe: Training-Free Language Model Merging via Semantic Alignment**|Jian Gu et.al.|[2505.20144](http://arxiv.org/abs/2505.20144)|null|
@@ -146,12 +156,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|null|
+|**2025-05-28**|**IRS: Incremental Relationship-guided Segmentation for Digital Pathology**|Ruining Deng et.al.|[2505.22855](http://arxiv.org/abs/2505.22855)|null|
+|**2025-05-28**|**MAC-Gaze: Motion-Aware Continual Calibration for Mobile Gaze Tracking**|Yaxiong Lei et.al.|[2505.22769](http://arxiv.org/abs/2505.22769)|null|
+|**2025-05-28**|**Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts**|Xue Zhang et.al.|[2505.22582](http://arxiv.org/abs/2505.22582)|null|
+|**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Stef Cuyckens et.al.|[2505.22404](http://arxiv.org/abs/2505.22404)|null|
+|**2025-05-29**|**Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning**|Haomiao Qiu et.al.|[2505.22389](http://arxiv.org/abs/2505.22389)|null|
+|**2025-05-29**|**SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting**|Haomiao Qiu et.al.|[2505.22370](http://arxiv.org/abs/2505.22370)|null|
+|**2025-05-28**|**Budget-Adaptive Adapter Tuning in Orthogonal Subspaces for Continual Learning in LLMs**|Zhiyi Wan et.al.|[2505.22358](http://arxiv.org/abs/2505.22358)|null|
+|**2025-05-28**|**Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer**|Zehua Chen et.al.|[2505.22306](http://arxiv.org/abs/2505.22306)|null|
+|**2025-05-28**|**Apax: A Flexible and Performant Framework For The Development of Machine-Learned Interatomic Potentials**|Moritz René Schäfer et.al.|[2505.22168](http://arxiv.org/abs/2505.22168)|null|
+|**2025-05-28**|**Efficiently Enhancing General Agents With Hierarchical-categorical Memory**|Changze Qiao et.al.|[2505.22006](http://arxiv.org/abs/2505.22006)|null|
+|**2025-05-28**|**Continual Learning Beyond Experience Rehearsal and Full Model Surrogates**|Prashant Bhat et.al.|[2505.21942](http://arxiv.org/abs/2505.21942)|null|
 |**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
 |**2025-05-28**|**Understanding the behavior of representation forgetting in continual learning**|Joonkyu Kim et.al.|[2505.20970](http://arxiv.org/abs/2505.20970)|null|
 |**2025-05-27**|**Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors**|Haodong Lu et.al.|[2505.20680](http://arxiv.org/abs/2505.20680)|null|
 |**2025-05-26**|**Hierarchical Bayesian estimation for continual learning during model-informed precision dosing**|Franziska Thoma et.al.|[2505.20240](http://arxiv.org/abs/2505.20240)|null|
 |**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
-|**2025-05-26**|**Data-Distill-Net: A Data Distillation Approach Tailored for Reply-based Continual Learning**|Wenyang Liao et.al.|[2505.20135](http://arxiv.org/abs/2505.20135)|null|
+|**2025-05-28**|**Data-Distill-Net: A Data Distillation Approach Tailored for Reply-based Continual Learning**|Wenyang Liao et.al.|[2505.20135](http://arxiv.org/abs/2505.20135)|null|
 |**2025-05-26**|**Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models**|Huan Zhang et.al.|[2505.19943](http://arxiv.org/abs/2505.19943)|**[link](https://github.com/zhwhu/mist)**|
 |**2025-05-26**|**Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning**|Xinrui Wang et.al.|[2505.19680](http://arxiv.org/abs/2505.19680)|**[link](https://github.com/wxr99/cut-replay)**|
 |**2025-05-27**|**STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization**|Haoyu Zhang et.al.|[2505.19547](http://arxiv.org/abs/2505.19547)|null|
@@ -507,6 +529,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Position Paper: Metadata Enrichment Model: Integrating Neural Networks and Semantic Knowledge Graphs for Cultural Heritage Applications**|Jan Ignatowicz et.al.|[2505.23543](http://arxiv.org/abs/2505.23543)|null|
+|**2025-05-29**|**Dimension-Reduction Attack! Video Generative Models are Experts on Controllable Image Synthesis**|Hengyuan Cao et.al.|[2505.23325](http://arxiv.org/abs/2505.23325)|null|
+|**2025-05-29**|**Second Opinion Matters: Towards Adaptive Clinical AI via the Consensus of Expert Model Ensemble**|Amit Kumthekar et.al.|[2505.23075](http://arxiv.org/abs/2505.23075)|null|
+|**2025-05-28**|**Structured Memory Mechanisms for Stable Context Representation in Large Language Models**|Yue Xing et.al.|[2505.22921](http://arxiv.org/abs/2505.22921)|null|
+|**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
+|**2025-05-28**|**EnsemW2S: Enhancing Weak-to-Strong Generalization with Large Language Model Ensembles**|Aakriti Agrawal et.al.|[2505.21959](http://arxiv.org/abs/2505.21959)|null|
+|**2025-05-28**|**Revisiting Bayesian Model Averaging in the Era of Foundation Models**|Mijung Park et.al.|[2505.21857](http://arxiv.org/abs/2505.21857)|null|
 |**2025-05-27**|**RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models**|Yue Zhang et.al.|[2505.21281](http://arxiv.org/abs/2505.21281)|null|
 |**2025-05-28**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904](http://arxiv.org/abs/2505.20904)|null|
 |**2025-05-26**|**Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data**|Abhijit Chunduru et.al.|[2505.20485](http://arxiv.org/abs/2505.20485)|null|
