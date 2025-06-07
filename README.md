@@ -1,4 +1,4 @@
-## Updated on 2025.06.05
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models**|Yanzhao Zhang et.al.|[2506.05176](http://arxiv.org/abs/2506.05176)|null|
+|**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|null|
+|**2025-06-05**|**HALoS: Hierarchical Asynchronous Local SGD over Slow Networks for Geo-Distributed Large Language Model Training**|Geon-Woo Kim et.al.|[2506.04531](http://arxiv.org/abs/2506.04531)|null|
+|**2025-06-04**|**Out-of-Distribution Graph Models Merging**|Yidi Wang et.al.|[2506.03674](http://arxiv.org/abs/2506.03674)|null|
+|**2025-05-30**|**Continual Learning in Vision-Language Models via Aligned Model Merging**|Ghada Sokar et.al.|[2506.03189](http://arxiv.org/abs/2506.03189)|null|
 |**2025-06-03**|**FroM: Frobenius Norm-Based Data-Free Adaptive Model Merging**|Zijian Li et.al.|[2506.02478](http://arxiv.org/abs/2506.02478)|null|
 |**2025-06-02**|**Is Extending Modality The Right Path Towards Omni-Modality?**|Tinghui Zhu et.al.|[2506.01872](http://arxiv.org/abs/2506.01872)|null|
 |**2025-06-01**|**FedRPCA: Enhancing Federated LoRA Aggregation Using Robust PCA**|Divyansh Jhunjhunwala et.al.|[2506.01194](http://arxiv.org/abs/2506.01194)|null|
@@ -162,12 +167,22 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
+|**2025-06-05**|**Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection**|Ziyi Zhou et.al.|[2506.04739](http://arxiv.org/abs/2506.04739)|null|
+|**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595](http://arxiv.org/abs/2506.04595)|null|
+|**2025-06-04**|**The Latent Space Hypothesis: Toward Universal Medical Representation Learning**|Salil Patel et.al.|[2506.04515](http://arxiv.org/abs/2506.04515)|null|
+|**2025-06-04**|**Replay Can Provably Increase Forgetting**|Yasaman Mahdaviyeh et.al.|[2506.04377](http://arxiv.org/abs/2506.04377)|null|
+|**2025-06-04**|**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**|Zhiyu Zhang et.al.|[2506.04083](http://arxiv.org/abs/2506.04083)|null|
+|**2025-06-05**|**Adapt before Continual Learning**|Aojun Lu et.al.|[2506.03956](http://arxiv.org/abs/2506.03956)|**[link](https://github.com/byyx666/ACL_code)**|
+|**2025-06-05**|**Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective**|Aojun Lu et.al.|[2506.03951](http://arxiv.org/abs/2506.03951)|**[link](https://github.com/byyx666/Dual-Arch)**|
+|**2025-06-03**|**The Future of Continual Learning in the Era of Foundation Models: Three Key Directions**|Jack Bell et.al.|[2506.03320](http://arxiv.org/abs/2506.03320)|null|
+|**2025-05-30**|**Continual Learning in Vision-Language Models via Aligned Model Merging**|Ghada Sokar et.al.|[2506.03189](http://arxiv.org/abs/2506.03189)|null|
 |**2025-06-03**|**Learned Controllers for Agile Quadrotors in Pursuit-Evasion Games**|Alejandro Sanchez Roncero et.al.|[2506.02849](http://arxiv.org/abs/2506.02849)|null|
 |**2025-06-01**|**EWGN: Elastic Weight Generation and Context Switching in Deep Learning**|Shriraj P. Sawant et.al.|[2506.02065](http://arxiv.org/abs/2506.02065)|null|
 |**2025-06-02**|**Class Incremental Learning for Algorithm Selection**|Mate Botond Nemeth et.al.|[2506.01545](http://arxiv.org/abs/2506.01545)|null|
@@ -552,12 +567,17 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077](http://arxiv.org/abs/2506.04077)|null|
+|**2025-06-04**|**Advancements in Artificial Intelligence Applications for Cardiovascular Disease Research**|Yuanlin Mo et.al.|[2506.03698](http://arxiv.org/abs/2506.03698)|null|
+|**2025-06-04**|**A Threat Intelligence Event Extraction Conceptual Model for Cyber Threat Intelligence Feeds**|Jamal H. Al-Yasiri et.al.|[2506.03551](http://arxiv.org/abs/2506.03551)|null|
+|**2025-06-03**|**Low-EFFourth: A computational framework for generating and studying multilevel model ensembles in low-dimensional systems**|Francisco de Melo Viríssimo et.al.|[2506.03313](http://arxiv.org/abs/2506.03313)|null|
+|**2025-06-03**|**BadReward: Clean-Label Poisoning of Reward Models in Text-to-Image RLHF**|Kaiwen Duan et.al.|[2506.03234](http://arxiv.org/abs/2506.03234)|null|
 |**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Sifan Li et.al.|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
 |**2025-06-03**|**PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis**|Mijeong Kim et.al.|[2506.02794](http://arxiv.org/abs/2506.02794)|null|
 |**2025-06-02**|**Understanding Overadaptation in Supervised Fine-Tuning: The Role of Ensemble Methods**|Yifan Hao et.al.|[2506.01901](http://arxiv.org/abs/2506.01901)|null|
@@ -861,7 +881,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
