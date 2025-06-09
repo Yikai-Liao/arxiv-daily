@@ -186,13 +186,13 @@ layout: default
 |**2025-05-31**|**iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection**|Huahui Yi et.al.|[2506.00406](http://arxiv.org/abs/2506.00406)|null|
 |**2025-05-30**|**Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective**|Junze Deng et.al.|[2506.00205](http://arxiv.org/abs/2506.00205)|null|
 |**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|**[link](https://github.com/cogsys-tudelft/chameleon)**|
-|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
+|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|**[link](https://github.com/jiangpenghe/cl-lora)**|
 |**2025-05-30**|**Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection**|Falih Gozi Febrinanto et.al.|[2505.24486](http://arxiv.org/abs/2505.24486)|null|
 |**2025-05-30**|**When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways**|Kailin Jiang et.al.|[2505.24449](http://arxiv.org/abs/2505.24449)|null|
 |**2025-05-30**|**Rethinking Continual Learning with Progressive Neural Collapse**|Zheng Wang et.al.|[2505.24254](http://arxiv.org/abs/2505.24254)|null|
 |**2025-05-29**|**BIRD: Behavior Induction via Representation-structure Distillation**|Galen Pogoncheff et.al.|[2505.23933](http://arxiv.org/abs/2505.23933)|null|
 |**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|**[link](https://github.com/maolinluo/lada)**|
-|**2025-05-28**|**IRS: Incremental Relationship-guided Segmentation for Digital Pathology**|Ruining Deng et.al.|[2505.22855](http://arxiv.org/abs/2505.22855)|null|
+|**2025-05-28**|**IRS: Incremental Relationship-guided Segmentation for Digital Pathology**|Ruining Deng et.al.|[2505.22855](http://arxiv.org/abs/2505.22855)|**[link](https://github.com/hrlblab/IRS)**|
 |**2025-06-04**|**MAC-Gaze: Motion-Aware Continual Calibration for Mobile Gaze Tracking**|Yaxiong Lei et.al.|[2505.22769](http://arxiv.org/abs/2505.22769)|null|
 |**2025-05-28**|**Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts**|Xue Zhang et.al.|[2505.22582](http://arxiv.org/abs/2505.22582)|null|
 |**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Stef Cuyckens et.al.|[2505.22404](http://arxiv.org/abs/2505.22404)|null|
@@ -362,7 +362,7 @@ layout: default
 |**2025-04-01**|**Energy Weighted Learning Progress Guided Interleaved Multi-Task Learning**|Hanne Say et.al.|[2504.00707](http://arxiv.org/abs/2504.00707)|null|
 |**2025-04-01**|**Continual Cross-Modal Generalization**|Yan Xia et.al.|[2504.00561](http://arxiv.org/abs/2504.00561)|null|
 |**2025-03-31**|**MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices**|Sijia Li et.al.|[2504.00174](http://arxiv.org/abs/2504.00174)|null|
-|**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
+|**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|**[link](https://github.com/B-Deprez/BeGin)**|
 |**2025-03-30**|**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**|Siqi Fan et.al.|[2503.23514](http://arxiv.org/abs/2503.23514)|null|
 |**2025-03-30**|**Pareto Continual Learning: Preference-Conditioned Learning and Adaption for Dynamic Stability-Plasticity Trade-off**|Song Lai et.al.|[2503.23390](http://arxiv.org/abs/2503.23390)|**[link](https://github.com/laisong-22004009/paretocl)**|
 |**2025-03-30**|**Language Guided Concept Bottleneck Models for Interpretable Continual Learning**|Lu Yu et.al.|[2503.23283](http://arxiv.org/abs/2503.23283)|**[link](https://github.com/fishercats/clg-cbm)**|
@@ -584,7 +584,7 @@ layout: default
 |**2025-05-30**|**Towards Unified Modeling in Federated Multi-Task Learning via Subspace Decoupling**|Yipan Wei et.al.|[2505.24185](http://arxiv.org/abs/2505.24185)|null|
 |**2025-05-30**|**Autoregressive regularized score-based diffusion models for multi-scenarios fluid flow prediction**|Wilfried Genuist et.al.|[2505.24145](http://arxiv.org/abs/2505.24145)|null|
 |**2025-05-28**|**CADRE: Customizable Assurance of Data Readiness in Privacy-Preserving Federated Learning**|Kaveen Hiniduma et.al.|[2505.23849](http://arxiv.org/abs/2505.23849)|null|
-|**2025-05-27**|**DP-RTFL: Differentially Private Resilient Temporal Federated Learning for Trustworthy AI in Regulated Industries**|Abhijit Talluri et.al.|[2505.23813](http://arxiv.org/abs/2505.23813)|null|
+|**2025-05-27**|**DP-RTFL: Differentially Private Resilient Temporal Federated Learning for Trustworthy AI in Regulated Industries**|Abhijit Talluri et.al.|[2505.23813](http://arxiv.org/abs/2505.23813)|**[link](https://github.com/abhitall/federated-credit-risk-rtfl)**|
 |**2025-05-26**|**Detection of Suicidal Risk on Social Media: A Hybrid Model**|Zaihan Yang et.al.|[2505.23797](http://arxiv.org/abs/2505.23797)|null|
 |**2025-05-29**|**Position Paper: Metadata Enrichment Model: Integrating Neural Networks and Semantic Knowledge Graphs for Cultural Heritage Applications**|Jan Ignatowicz et.al.|[2505.23543](http://arxiv.org/abs/2505.23543)|null|
 |**2025-05-29**|**Dimension-Reduction Attack! Video Generative Models are Experts on Controllable Image Synthesis**|Hengyuan Cao et.al.|[2505.23325](http://arxiv.org/abs/2505.23325)|null|
