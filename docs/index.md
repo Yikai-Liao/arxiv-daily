@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-05**|**Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models**|Yanzhao Zhang et.al.|[2506.05176](http://arxiv.org/abs/2506.05176)|null|
+|**2025-06-10**|**Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models**|Yanzhao Zhang et.al.|[2506.05176](http://arxiv.org/abs/2506.05176)|null|
 |**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|null|
 |**2025-06-05**|**HALoS: Hierarchical Asynchronous Local SGD over Slow Networks for Geo-Distributed Large Language Model Training**|Geon-Woo Kim et.al.|[2506.04531](http://arxiv.org/abs/2506.04531)|null|
 |**2025-06-04**|**Out-of-Distribution Graph Models Merging**|Yidi Wang et.al.|[2506.03674](http://arxiv.org/abs/2506.03674)|null|
@@ -166,6 +166,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**DPFormer: Dynamic Prompt Transformer for Continual Learning**|Sheng-Kai Huang et.al.|[2506.07414](http://arxiv.org/abs/2506.07414)|null|
+|**2025-06-07**|**Contextual Experience Replay for Self-Improvement of Language Agents**|Yitao Liu et.al.|[2506.06698](http://arxiv.org/abs/2506.06698)|null|
+|**2025-06-07**|**Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning**|Yuan Yuan et.al.|[2506.06694](http://arxiv.org/abs/2506.06694)|null|
+|**2025-06-07**|**Non-Intrusive Load Monitoring Based on Image Load Signatures and Continual Learning**|Olimjon Toirov et.al.|[2506.06637](http://arxiv.org/abs/2506.06637)|null|
+|**2025-06-06**|**Optimal Rates in Continual Linear Regression via Increasing Regularization**|Ran Levinstein et.al.|[2506.06501](http://arxiv.org/abs/2506.06501)|null|
+|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|null|
+|**2025-06-06**|**Action-Adaptive Continual Learning: Enabling Policy Generalization under Dynamic Action Spaces**|Chaofan Pan et.al.|[2506.05702](http://arxiv.org/abs/2506.05702)|null|
+|**2025-06-05**|**MLLM-CL: Continual Learning for Multimodal Large Language Models**|Hongbo Zhao et.al.|[2506.05453](http://arxiv.org/abs/2506.05453)|null|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
 |**2025-06-05**|**Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection**|Ziyi Zhou et.al.|[2506.04739](http://arxiv.org/abs/2506.04739)|null|
 |**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595](http://arxiv.org/abs/2506.04595)|null|
@@ -564,13 +572,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923](http://arxiv.org/abs/2506.07923)|null|
+|**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
+|**2025-06-09**|**FuXi-Air: Urban Air Quality Forecasting Based on Emission-Meteorology-Pollutant multimodal Machine Learning**|Zhixin Geng et.al.|[2506.07616](http://arxiv.org/abs/2506.07616)|null|
+|**2025-06-09**|**CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms**|Satvik Praveen et.al.|[2506.07357](http://arxiv.org/abs/2506.07357)|null|
+|**2025-06-08**|**SDE-SQL: Enhancing Text-to-SQL Generation in Large Language Models via Self-Driven Exploration with SQL Probes**|Wenxuan Xie et.al.|[2506.07245](http://arxiv.org/abs/2506.07245)|null|
+|**2025-06-07**|**Hybrid Extractive Abstractive Summarization for Multilingual Sentiment Analysis**|Mikhail Krasitskii et.al.|[2506.06929](http://arxiv.org/abs/2506.06929)|null|
+|**2025-06-07**|**Graph Neural Networks in Modern AI-aided Drug Discovery**|Odin Zhang et.al.|[2506.06915](http://arxiv.org/abs/2506.06915)|null|
+|**2025-06-06**|**Rapid training of Hamiltonian graph networks without gradient descent**|Atamert Rahma et.al.|[2506.06558](http://arxiv.org/abs/2506.06558)|null|
+|**2025-06-06**|**Bridging Audio and Vision: Zero-Shot Audiovisual Segmentation by Connecting Pretrained Models**|Seung-jae Lee et.al.|[2506.06537](http://arxiv.org/abs/2506.06537)|null|
+|**2025-06-06**|**Near-real-time ship grounding damage assessment using Bayesian networks**|Dimitris G. Georgiadis et.al.|[2506.06493](http://arxiv.org/abs/2506.06493)|null|
 |**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077](http://arxiv.org/abs/2506.04077)|null|
 |**2025-06-04**|**Advancements in Artificial Intelligence Applications for Cardiovascular Disease Research**|Yuanlin Mo et.al.|[2506.03698](http://arxiv.org/abs/2506.03698)|null|
 |**2025-06-04**|**A Threat Intelligence Event Extraction Conceptual Model for Cyber Threat Intelligence Feeds**|Jamal H. Al-Yasiri et.al.|[2506.03551](http://arxiv.org/abs/2506.03551)|null|
 |**2025-06-03**|**Low-EFFourth: A computational framework for generating and studying multilevel model ensembles in low-dimensional systems**|Francisco de Melo Viríssimo et.al.|[2506.03313](http://arxiv.org/abs/2506.03313)|null|
 |**2025-06-03**|**BadReward: Clean-Label Poisoning of Reward Models in Text-to-Image RLHF**|Kaiwen Duan et.al.|[2506.03234](http://arxiv.org/abs/2506.03234)|null|
 |**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Sifan Li et.al.|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
-|**2025-06-03**|**PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis**|Mijeong Kim et.al.|[2506.02794](http://arxiv.org/abs/2506.02794)|null|
+|**2025-06-03**|**PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis**|Mijeong Kim et.al.|[2506.02794](http://arxiv.org/abs/2506.02794)|**[link](https://github.com/mjmjeong/physgaia)**|
 |**2025-06-02**|**Understanding Overadaptation in Supervised Fine-Tuning: The Role of Ensemble Methods**|Yifan Hao et.al.|[2506.01901](http://arxiv.org/abs/2506.01901)|null|
 |**2025-06-02**|**Human-Centric Evaluation for Foundation Models**|Yijin Guo et.al.|[2506.01793](http://arxiv.org/abs/2506.01793)|null|
 |**2025-06-02**|**Confidence intervals for forced alignment boundaries using model ensembles**|Matthew C. Kelley et.al.|[2506.01256](http://arxiv.org/abs/2506.01256)|**[link](https://github.com/maetshju/maps_ci_analysis)**|
