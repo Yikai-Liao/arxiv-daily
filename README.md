@@ -1,4 +1,4 @@
-## Updated on 2025.06.13
+## Updated on 2025.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -170,12 +170,16 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Continual Hyperbolic Learning of Instances and Classes**|Melika Ayoughi et.al.|[2506.10710](http://arxiv.org/abs/2506.10710)|null|
+|**2025-06-12**|**Saturation Self-Organizing Map**|Igor Urbanik et.al.|[2506.10680](http://arxiv.org/abs/2506.10680)|null|
+|**2025-06-12**|**EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair**|Fangwen Mu et.al.|[2506.10484](http://arxiv.org/abs/2506.10484)|null|
+|**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347](http://arxiv.org/abs/2506.09347)|null|
 |**2025-06-10**|**Online Learning Control Strategies for Industrial Processes with Application for Loosening and Conditioning**|Yue Wu et.al.|[2506.08983](http://arxiv.org/abs/2506.08983)|null|
@@ -585,12 +589,15 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**A Bayesian Multisource Fusion Model for Spatiotemporal PM2.5 in an Urban Setting**|Abi I. Riley et.al.|[2506.10688](http://arxiv.org/abs/2506.10688)|null|
+|**2025-06-12**|**Unsupervised Protoform Reconstruction through Parsimonious Rule-guided Heuristics and Evolutionary Search**|Promise Dodzi Kpoglu et.al.|[2506.10614](http://arxiv.org/abs/2506.10614)|**[link](https://github.com/PromiseDodzi/protoform-reconstruction)**|
+|**2025-06-11**|**Learning to Collaborate Over Graphs: A Selective Federated Multi-Task Learning Approach**|Ahmed Elbakary et.al.|[2506.10102](http://arxiv.org/abs/2506.10102)|null|
 |**2025-06-11**|**Engineering Cryogenic FETs: Addressing SCEs and Impact of Interface Traps Down to 2 K Temperature**|Nilesh Pandey et.al.|[2506.09356](http://arxiv.org/abs/2506.09356)|null|
 |**2025-06-10**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967](http://arxiv.org/abs/2506.08967)|null|
 |**2025-06-10**|**A multi-physics model for dislocation driven spontaneous grain nucleation and microstructure evolution in polycrystals**|Izzet Tarik Tandogan et.al.|[2506.08843](http://arxiv.org/abs/2506.08843)|null|
@@ -914,7 +921,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

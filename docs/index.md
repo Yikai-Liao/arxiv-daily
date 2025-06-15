@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.13
+## Updated on 2025.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -169,6 +169,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Continual Hyperbolic Learning of Instances and Classes**|Melika Ayoughi et.al.|[2506.10710](http://arxiv.org/abs/2506.10710)|null|
+|**2025-06-12**|**Saturation Self-Organizing Map**|Igor Urbanik et.al.|[2506.10680](http://arxiv.org/abs/2506.10680)|null|
+|**2025-06-12**|**EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair**|Fangwen Mu et.al.|[2506.10484](http://arxiv.org/abs/2506.10484)|null|
+|**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347](http://arxiv.org/abs/2506.09347)|null|
 |**2025-06-10**|**Online Learning Control Strategies for Industrial Processes with Application for Loosening and Conditioning**|Yue Wu et.al.|[2506.08983](http://arxiv.org/abs/2506.08983)|null|
@@ -582,6 +586,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**A Bayesian Multisource Fusion Model for Spatiotemporal PM2.5 in an Urban Setting**|Abi I. Riley et.al.|[2506.10688](http://arxiv.org/abs/2506.10688)|null|
+|**2025-06-12**|**Unsupervised Protoform Reconstruction through Parsimonious Rule-guided Heuristics and Evolutionary Search**|Promise Dodzi Kpoglu et.al.|[2506.10614](http://arxiv.org/abs/2506.10614)|**[link](https://github.com/PromiseDodzi/protoform-reconstruction)**|
+|**2025-06-11**|**Learning to Collaborate Over Graphs: A Selective Federated Multi-Task Learning Approach**|Ahmed Elbakary et.al.|[2506.10102](http://arxiv.org/abs/2506.10102)|null|
 |**2025-06-11**|**Engineering Cryogenic FETs: Addressing SCEs and Impact of Interface Traps Down to 2 K Temperature**|Nilesh Pandey et.al.|[2506.09356](http://arxiv.org/abs/2506.09356)|null|
 |**2025-06-10**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967](http://arxiv.org/abs/2506.08967)|null|
 |**2025-06-10**|**A multi-physics model for dislocation driven spontaneous grain nucleation and microstructure evolution in polycrystals**|Izzet Tarik Tandogan et.al.|[2506.08843](http://arxiv.org/abs/2506.08843)|null|
