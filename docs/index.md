@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -210,7 +210,7 @@ layout: default
 |**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|**[link](https://github.com/cogsys-tudelft/chameleon)**|
 |**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|**[link](https://github.com/jiangpenghe/cl-lora)**|
 |**2025-05-30**|**Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection**|Falih Gozi Febrinanto et.al.|[2505.24486](http://arxiv.org/abs/2505.24486)|null|
-|**2025-05-30**|**When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways**|Kailin Jiang et.al.|[2505.24449](http://arxiv.org/abs/2505.24449)|null|
+|**2025-05-30**|**When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways**|Kailin Jiang et.al.|[2505.24449](http://arxiv.org/abs/2505.24449)|**[link](https://github.com/EVOKE-LMM/EVOKE)**|
 |**2025-05-30**|**Rethinking Continual Learning with Progressive Neural Collapse**|Zheng Wang et.al.|[2505.24254](http://arxiv.org/abs/2505.24254)|null|
 |**2025-05-29**|**BIRD: Behavior Induction via Representation-structure Distillation**|Galen Pogoncheff et.al.|[2505.23933](http://arxiv.org/abs/2505.23933)|null|
 |**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|**[link](https://github.com/maolinluo/lada)**|
@@ -239,7 +239,7 @@ layout: default
 |**2025-05-24**|**Can LLMs Alleviate Catastrophic Forgetting in Graph Continual Learning? A Systematic Study**|Ziyang Cheng et.al.|[2505.18697](http://arxiv.org/abs/2505.18697)|**[link](https://github.com/zhixunlee/llm4gcl)**|
 |**2025-05-24**|**Exemplar-Free Continual Learning for State Space Models**|Isaac Ning Lee et.al.|[2505.18604](http://arxiv.org/abs/2505.18604)|null|
 |**2025-05-24**|**Learning without Isolation: Pathway Protection for Continual Learning**|Zhikang Chen et.al.|[2505.18568](http://arxiv.org/abs/2505.18568)|**[link](https://github.com/chenzk202212/lwi)**|
-|**2025-05-24**|**Knowledge Grafting of Large Language Models**|Guodong Du et.al.|[2505.18502](http://arxiv.org/abs/2505.18502)|null|
+|**2025-05-24**|**Knowledge Grafting of Large Language Models**|Guodong Du et.al.|[2505.18502](http://arxiv.org/abs/2505.18502)|**[link](https://github.com/duguodong7/graftllm)**|
 |**2025-05-23**|**CarbonFlex: Enabling Carbon-aware Provisioning and Scheduling for Cloud Clusters**|Walid A. Hanafy et.al.|[2505.18357](http://arxiv.org/abs/2505.18357)|null|
 |**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
 |**2025-05-23**|**Evolving Machine Learning: A Survey**|Ignacio Cabrera Martin et.al.|[2505.17902](http://arxiv.org/abs/2505.17902)|null|
@@ -640,7 +640,7 @@ layout: default
 |**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|**[link](https://github.com/maggiemh/bafdp)**|
 |**2025-05-25**|**Deformable Attentive Visual Enhancement for Referring Segmentation Using Vision-Language Model**|Alaa Dalaq et.al.|[2505.19242](http://arxiv.org/abs/2505.19242)|null|
 |**2025-05-24**|**Learning without Isolation: Pathway Protection for Continual Learning**|Zhikang Chen et.al.|[2505.18568](http://arxiv.org/abs/2505.18568)|**[link](https://github.com/chenzk202212/lwi)**|
-|**2025-05-24**|**Knowledge Grafting of Large Language Models**|Guodong Du et.al.|[2505.18502](http://arxiv.org/abs/2505.18502)|null|
+|**2025-05-24**|**Knowledge Grafting of Large Language Models**|Guodong Du et.al.|[2505.18502](http://arxiv.org/abs/2505.18502)|**[link](https://github.com/duguodong7/graftllm)**|
 |**2025-05-24**|**Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting**|Zhining Liu et.al.|[2505.18442](http://arxiv.org/abs/2505.18442)|**[link](https://github.com/zhiningliu1998/timefuse)**|
 |**2025-05-23**|**A Robust PPO-optimized Tabular Transformer Framework for Intrusion Detection in Industrial IoT Systems**|Yuanya She et.al.|[2505.18234](http://arxiv.org/abs/2505.18234)|**[link](https://github.com/RussellTNY/PPO-optimized-Tab-Transformer-for-NIDS-on-TON_IoT)**|
 |**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909](http://arxiv.org/abs/2505.17909)|null|
@@ -895,7 +895,7 @@ layout: default
 |**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
 |**2025-01-17**|**Classifier Ensemble for Efficient Uncertainty Calibration of Deep Neural Networks for Image Classification**|Michael Schulze et.al.|[2501.10089](http://arxiv.org/abs/2501.10089)|null|
 |**2025-01-21**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market Participation**|Nelson Salazar-Pena et.al.|[2501.09551](http://arxiv.org/abs/2501.09551)|null|
-|**2025-01-15**|**Beyond Speaker Identity: Text Guided Target Speech Extraction**|Mingyue Huo et.al.|[2501.09169](http://arxiv.org/abs/2501.09169)|null|
+|**2025-01-15**|**Beyond Speaker Identity: Text Guided Target Speech Extraction**|Mingyue Huo et.al.|[2501.09169](http://arxiv.org/abs/2501.09169)|**[link](https://github.com/mingyue66/textrolmix)**|
 |**2025-01-15**|**A Semi-Parametric Bayesian Spatial Model for Rainfall Events in Geographically Complex Domains**|Paolo Onorati et.al.|[2501.08748](http://arxiv.org/abs/2501.08748)|null|
 |**2025-01-15**|**Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes**|Huy Q. Le et.al.|[2501.08521](http://arxiv.org/abs/2501.08521)|null|
 |**2025-01-13**|**A Preliminary Survey of Semantic Descriptive Model for Images**|Chengxi Yan et.al.|[2501.08352](http://arxiv.org/abs/2501.08352)|null|
