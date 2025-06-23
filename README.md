@@ -209,7 +209,7 @@
 |**2025-06-07**|**Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning**|Yuan Yuan et.al.|[2506.06694](http://arxiv.org/abs/2506.06694)|null|
 |**2025-06-07**|**Non-Intrusive Load Monitoring Based on Image Load Signatures and Continual Learning**|Olimjon Toirov et.al.|[2506.06637](http://arxiv.org/abs/2506.06637)|null|
 |**2025-06-06**|**Optimal Rates in Continual Linear Regression via Increasing Regularization**|Ran Levinstein et.al.|[2506.06501](http://arxiv.org/abs/2506.06501)|null|
-|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|null|
+|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|**[link](https://github.com/HarryLui98/DMPEL)**|
 |**2025-06-06**|**Action-Adaptive Continual Learning: Enabling Policy Generalization under Dynamic Action Spaces**|Chaofan Pan et.al.|[2506.05702](http://arxiv.org/abs/2506.05702)|null|
 |**2025-06-05**|**MLLM-CL: Continual Learning for Multimodal Large Language Models**|Hongbo Zhao et.al.|[2506.05453](http://arxiv.org/abs/2506.05453)|null|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
@@ -583,7 +583,7 @@
 |**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/abs/2501.14205)|null|
 |**2025-01-23**|**Spurious Forgetting in Continual Learning of Language Models**|Junhao Zheng et.al.|[2501.13453](http://arxiv.org/abs/2501.13453)|**[link](https://github.com/zzz47zzz/spurious-forgetting)**|
 |**2025-01-23**|**Beyond Task Diversity: Provable Representation Transfer for Sequential Multi-Task Linear Bandits**|Thang Duong et.al.|[2501.13390](http://arxiv.org/abs/2501.13390)|**[link](https://github.com/duongnhatthang/BOSS)**|
-|**2025-01-30**|**S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning**|Yichen Wu et.al.|[2501.13198](http://arxiv.org/abs/2501.13198)|null|
+|**2025-01-30**|**S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning**|Yichen Wu et.al.|[2501.13198](http://arxiv.org/abs/2501.13198)|**[link](https://github.com/WuYichen-97/SD-Lora-CL)**|
 |**2025-01-26**|**Multiple Queries with Multiple Keys: A Precise Prompt Matching Paradigm for Prompt-based Continual Learning**|Dunwei Tu et.al.|[2501.12635](http://arxiv.org/abs/2501.12635)|null|
 |**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|**[link](https://github.com/bytedance/ui-tars)**|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|**[link](https://github.com/ast-fortiss-tum/perturbation-drive)**|
