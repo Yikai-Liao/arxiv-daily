@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.21
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -180,7 +180,7 @@ layout: default
 |**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566](http://arxiv.org/abs/2506.15566)|null|
 |**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
 |**2025-06-17**|**MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning**|Tristan Tomilin et.al.|[2506.14990](http://arxiv.org/abs/2506.14990)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-19**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-14**|**Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models**|Ziwei Liu et.al.|[2506.12409](http://arxiv.org/abs/2506.12409)|null|
 |**2025-06-14**|**EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning**|Huaijie Wang et.al.|[2506.12351](http://arxiv.org/abs/2506.12351)|null|
 |**2025-06-13**|**Quantum-Inspired Differentiable Integral Neural Networks (QIDINNs): A Feynman-Based Architecture for Continuous Learning Over Streaming Data**|Oscar Boullosa Dapena et.al.|[2506.12111](http://arxiv.org/abs/2506.12111)|null|

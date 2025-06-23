@@ -1,4 +1,4 @@
-## Updated on 2025.06.21
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -178,7 +178,7 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Continual Learning
 
@@ -187,7 +187,7 @@
 |**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566](http://arxiv.org/abs/2506.15566)|null|
 |**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
 |**2025-06-17**|**MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning**|Tristan Tomilin et.al.|[2506.14990](http://arxiv.org/abs/2506.14990)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-19**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-14**|**Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models**|Ziwei Liu et.al.|[2506.12409](http://arxiv.org/abs/2506.12409)|null|
 |**2025-06-14**|**EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning**|Huaijie Wang et.al.|[2506.12351](http://arxiv.org/abs/2506.12351)|null|
 |**2025-06-13**|**Quantum-Inspired Differentiable Integral Neural Networks (QIDINNs): A Feynman-Based Architecture for Continuous Learning Over Streaming Data**|Oscar Boullosa Dapena et.al.|[2506.12111](http://arxiv.org/abs/2506.12111)|null|
@@ -606,7 +606,7 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Model Cooperation
 
@@ -950,7 +950,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
