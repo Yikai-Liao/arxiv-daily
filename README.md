@@ -1,4 +1,4 @@
-## Updated on 2025.06.25
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -180,12 +180,15 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Leveraging Lightweight Generators for Memory Efficient Continual Learning**|Christiaan Lamers et.al.|[2506.19692](http://arxiv.org/abs/2506.19692)|null|
+|**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
+|**2025-06-24**|**Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning**|Russell Beale et.al.|[2506.19484](http://arxiv.org/abs/2506.19484)|null|
 |**2025-06-22**|**Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms**|Cheng Ji et.al.|[2506.17900](http://arxiv.org/abs/2506.17900)|null|
 |**2025-06-21**|**Pathway-based Progressive Inference (PaPI) for Energy-Efficient Continual Learning**|Suyash Gaurav et.al.|[2506.17848](http://arxiv.org/abs/2506.17848)|null|
 |**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Chongkai Gao et.al.|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
@@ -616,12 +619,15 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597](http://arxiv.org/abs/2506.20597)|null|
+|**2025-06-25**|**A digital twin of atomic ensemble quantum memories**|Elizabeth Robertson et.al.|[2506.20403](http://arxiv.org/abs/2506.20403)|null|
+|**2025-06-25**|**A Novel Large Vision Foundation Model (LVFM)-based Approach for Generating High-Resolution Canopy Height Maps in Plantations for Precision Forestry Management**|Shen Tan et.al.|[2506.20388](http://arxiv.org/abs/2506.20388)|null|
 |**2025-06-23**|**Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control**|Adrian Caspari et.al.|[2506.18344](http://arxiv.org/abs/2506.18344)|null|
 |**2025-06-21**|**Machine Learning Model Integration with Open World Temporal Logic for Process Automation**|Dyuman Aditya et.al.|[2506.17776](http://arxiv.org/abs/2506.17776)|null|
 |**2025-06-17**|**Fine-Scale Soil Mapping in Alaska with Multimodal Machine Learning**|Yijun Lin et.al.|[2506.17302](http://arxiv.org/abs/2506.17302)|null|
@@ -968,7 +974,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

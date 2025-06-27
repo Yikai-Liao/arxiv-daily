@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -179,6 +179,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Leveraging Lightweight Generators for Memory Efficient Continual Learning**|Christiaan Lamers et.al.|[2506.19692](http://arxiv.org/abs/2506.19692)|null|
+|**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
+|**2025-06-24**|**Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning**|Russell Beale et.al.|[2506.19484](http://arxiv.org/abs/2506.19484)|null|
 |**2025-06-22**|**Leveraging Large Language Model for Intelligent Log Processing and Autonomous Debugging in Cloud AI Platforms**|Cheng Ji et.al.|[2506.17900](http://arxiv.org/abs/2506.17900)|null|
 |**2025-06-21**|**Pathway-based Progressive Inference (PaPI) for Energy-Efficient Continual Learning**|Suyash Gaurav et.al.|[2506.17848](http://arxiv.org/abs/2506.17848)|null|
 |**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Chongkai Gao et.al.|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
@@ -613,6 +616,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597](http://arxiv.org/abs/2506.20597)|null|
+|**2025-06-25**|**A digital twin of atomic ensemble quantum memories**|Elizabeth Robertson et.al.|[2506.20403](http://arxiv.org/abs/2506.20403)|null|
+|**2025-06-25**|**A Novel Large Vision Foundation Model (LVFM)-based Approach for Generating High-Resolution Canopy Height Maps in Plantations for Precision Forestry Management**|Shen Tan et.al.|[2506.20388](http://arxiv.org/abs/2506.20388)|null|
 |**2025-06-23**|**Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control**|Adrian Caspari et.al.|[2506.18344](http://arxiv.org/abs/2506.18344)|null|
 |**2025-06-21**|**Machine Learning Model Integration with Open World Temporal Logic for Process Automation**|Dyuman Aditya et.al.|[2506.17776](http://arxiv.org/abs/2506.17776)|null|
 |**2025-06-17**|**Fine-Scale Soil Mapping in Alaska with Multimodal Machine Learning**|Yijun Lin et.al.|[2506.17302](http://arxiv.org/abs/2506.17302)|null|
