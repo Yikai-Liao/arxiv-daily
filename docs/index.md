@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.27
+## Updated on 2025.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-22**|**SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging**|Zijun Chen et.al.|[2506.18135](http://arxiv.org/abs/2506.18135)|null|
 |**2025-06-19**|**Subspace-Boosted Model Merging**|Ronald Skorobogat et.al.|[2506.16506](http://arxiv.org/abs/2506.16506)|null|
 |**2025-06-18**|**video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models**|Changli Tang et.al.|[2506.15220](http://arxiv.org/abs/2506.15220)|null|
@@ -179,6 +180,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
+|**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
+|**2025-06-26**|**Little By Little: Continual Learning via Self-Activated Sparse Mixture-of-Rank Adaptive Learning**|Haodong Lu et.al.|[2506.21035](http://arxiv.org/abs/2506.21035)|null|
+|**2025-06-25**|**A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools**|Minh-Hao Van et.al.|[2506.20743](http://arxiv.org/abs/2506.20743)|null|
 |**2025-06-24**|**Leveraging Lightweight Generators for Memory Efficient Continual Learning**|Christiaan Lamers et.al.|[2506.19692](http://arxiv.org/abs/2506.19692)|null|
 |**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
 |**2025-06-24**|**Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning**|Russell Beale et.al.|[2506.19484](http://arxiv.org/abs/2506.19484)|null|
@@ -616,6 +622,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
+|**2025-06-26**|**FedSC: Federated Learning with Semantic-Aware Collaboration**|Huan Wang et.al.|[2506.21012](http://arxiv.org/abs/2506.21012)|null|
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597](http://arxiv.org/abs/2506.20597)|null|
 |**2025-06-25**|**A digital twin of atomic ensemble quantum memories**|Elizabeth Robertson et.al.|[2506.20403](http://arxiv.org/abs/2506.20403)|null|
 |**2025-06-25**|**A Novel Large Vision Foundation Model (LVFM)-based Approach for Generating High-Resolution Canopy Height Maps in Plantations for Precision Forestry Management**|Shen Tan et.al.|[2506.20388](http://arxiv.org/abs/2506.20388)|null|
