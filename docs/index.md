@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -180,6 +180,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review**|Amara Zuffer et.al.|[2506.21899](http://arxiv.org/abs/2506.21899)|null|
+|**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
+|**2025-06-26**|**Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning**|Peihao Wang et.al.|[2506.21797](http://arxiv.org/abs/2506.21797)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
@@ -622,6 +625,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses**|Archisman Ghosh et.al.|[2506.21842](http://arxiv.org/abs/2506.21842)|null|
+|**2025-06-25**|**AeroLite-MDNet: Lightweight Multi-task Deviation Detection Network for UAV Landing**|Haiping Yang et.al.|[2506.21635](http://arxiv.org/abs/2506.21635)|null|
 |**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
 |**2025-06-26**|**FedSC: Federated Learning with Semantic-Aware Collaboration**|Huan Wang et.al.|[2506.21012](http://arxiv.org/abs/2506.21012)|null|
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597](http://arxiv.org/abs/2506.20597)|null|
