@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
@@ -18,7 +18,7 @@ layout: default
 |**2025-06-16**|**CALM: Consensus-Aware Localized Merging for Multi-Task Learning**|Kunda Yan et.al.|[2506.13406](http://arxiv.org/abs/2506.13406)|null|
 |**2025-06-16**|**The Butterfly Effect: Neural Network Training Trajectories Are Highly Sensitive to Initial Conditions**|Devin Kwok et.al.|[2506.13234](http://arxiv.org/abs/2506.13234)|null|
 |**2025-06-14**|**Model Merging for Knowledge Editing**|Zichuan Fu et.al.|[2506.12384](http://arxiv.org/abs/2506.12384)|**[link](https://github.com/applied-machine-learning-lab/mm4ke)**|
-|**2025-06-16**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
+|**2025-07-01**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
 |**2025-06-13**|**A correlation-permutation approach for speech-music encoders model merging**|Fabian Ritter-Gutierrez et.al.|[2506.11403](http://arxiv.org/abs/2506.11403)|null|
 |**2025-06-11**|**Harmonizing and Merging Source Models for CLIP-based Domain Generalization**|Yuhe Ding et.al.|[2506.09446](http://arxiv.org/abs/2506.09446)|null|
 |**2025-06-13**|**Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data**|Bingjie Zhang et.al.|[2506.09093](http://arxiv.org/abs/2506.09093)|null|
@@ -180,9 +180,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019](http://arxiv.org/abs/2506.24019)|null|
+|**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|
+|**2025-06-29**|**GATSim: Urban Mobility Simulation with Generative Agents**|Qi Liu et.al.|[2506.23306](http://arxiv.org/abs/2506.23306)|null|
 |**2025-06-27**|**Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review**|Amara Zuffer et.al.|[2506.21899](http://arxiv.org/abs/2506.21899)|null|
 |**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
-|**2025-06-26**|**Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning**|Peihao Wang et.al.|[2506.21797](http://arxiv.org/abs/2506.21797)|null|
+|**2025-07-01**|**Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning**|Peihao Wang et.al.|[2506.21797](http://arxiv.org/abs/2506.21797)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
@@ -625,6 +628,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**YM-WML: A new Yolo-based segmentation Model with Weighted Multi-class Loss for medical imaging**|Haniyeh Nikkhah et.al.|[2506.22955](http://arxiv.org/abs/2506.22955)|null|
+|**2025-06-28**|**Multimodal Atmospheric Super-Resolution With Deep Generative Models**|Dibyajyoti Chakraborty et.al.|[2506.22780](http://arxiv.org/abs/2506.22780)|null|
 |**2025-06-27**|**Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses**|Archisman Ghosh et.al.|[2506.21842](http://arxiv.org/abs/2506.21842)|null|
 |**2025-06-25**|**AeroLite-MDNet: Lightweight Multi-task Deviation Detection Network for UAV Landing**|Haiping Yang et.al.|[2506.21635](http://arxiv.org/abs/2506.21635)|null|
 |**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
