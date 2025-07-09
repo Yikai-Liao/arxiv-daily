@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**CLUES: Collaborative High-Quality Data Selection for LLMs via Training Dynamics**|Wanru Zhao et.al.|[2507.03004](http://arxiv.org/abs/2507.03004)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-22**|**SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging**|Zijun Chen et.al.|[2506.18135](http://arxiv.org/abs/2506.18135)|null|
 |**2025-06-19**|**Subspace-Boosted Model Merging**|Ronald Skorobogat et.al.|[2506.16506](http://arxiv.org/abs/2506.16506)|null|
@@ -180,6 +181,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Recovering Plasticity of Neural Networks via Soft Weight Rescaling**|Seungwon Oh et.al.|[2507.04683](http://arxiv.org/abs/2507.04683)|null|
+|**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
+|**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494](http://arxiv.org/abs/2507.04494)|null|
+|**2025-07-05**|**Addressing The Devastating Effects Of Single-Task Data Poisoning In Exemplar-Free Continual Learning**|Stanisław Pawlak et.al.|[2507.04106](http://arxiv.org/abs/2507.04106)|null|
+|**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Nigitha Selvaraj et.al.|[2507.04086](http://arxiv.org/abs/2507.04086)|null|
+|**2025-07-05**|**Temporal Continual Learning with Prior Compensation for Human Motion Prediction**|Jianwei Tang et.al.|[2507.04060](http://arxiv.org/abs/2507.04060)|null|
+|**2025-07-05**|**Exploring Kolmogorov-Arnold Network Expansions in Vision Transformers for Mitigating Catastrophic Forgetting in Continual Learning**|Zahid Ullah et.al.|[2507.04020](http://arxiv.org/abs/2507.04020)|null|
+|**2025-07-05**|**Continual Recommender Systems**|Hyunsik Yoo et.al.|[2507.03861](http://arxiv.org/abs/2507.03861)|null|
+|**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
+|**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
+|**2025-07-04**|**Dynamic Multimodal Prototype Learning in Vision-Language Models**|Xingyu Zhu et.al.|[2507.03657](http://arxiv.org/abs/2507.03657)|null|
+|**2025-07-04**|**Dual-Alignment Knowledge Retention for Continual Medical Image Segmentation**|Yuxin Ye et.al.|[2507.03638](http://arxiv.org/abs/2507.03638)|null|
 |**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
 |**2025-07-03**|**Holistic Continual Learning under Concept Drift with Adaptive Memory Realignment**|Alif Ashrafee et.al.|[2507.02310](http://arxiv.org/abs/2507.02310)|null|
 |**2025-07-02**|**How Weight Resampling and Optimizers Shape the Dynamics of Continual Learning and Forgetting in Neural Networks**|Lapo Frati et.al.|[2507.01559](http://arxiv.org/abs/2507.01559)|null|
@@ -635,6 +648,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
+|**2025-07-07**|**LIFT: Automating Symbolic Execution Optimization with Large Language Models for AI Networks**|Ruoxi Wang et.al.|[2507.04931](http://arxiv.org/abs/2507.04931)|null|
+|**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845](http://arxiv.org/abs/2507.04845)|null|
+|**2025-07-05**|**Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles**|Mahdi Rezaei et.al.|[2507.04139](http://arxiv.org/abs/2507.04139)|null|
+|**2025-07-05**|**HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration**|Yuyang Cheng et.al.|[2507.04067](http://arxiv.org/abs/2507.04067)|null|
+|**2025-07-05**|**MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction**|Mohamed Hamad et.al.|[2507.03927](http://arxiv.org/abs/2507.03927)|null|
+|**2025-07-03**|**AI-driven Web Application for Early Detection of Sudden Death Syndrome (SDS) in Soybean Leaves Using Hyperspectral Images and Genetic Algorithm**|Pappu Kumar Yadav et.al.|[2507.03198](http://arxiv.org/abs/2507.03198)|null|
+|**2025-07-03**|**Mechanics Simulation with Implicit Neural Representations of Complex Geometries**|Samundra Karki et.al.|[2507.03087](http://arxiv.org/abs/2507.03087)|null|
+|**2025-07-02**|**Subversion via Focal Points: Investigating Collusion in LLM Monitoring**|Olli Järviniemi et.al.|[2507.03010](http://arxiv.org/abs/2507.03010)|null|
 |**2025-07-01**|**Development and Comparative Evaluation of Three Artificial Intelligence Models (NLP, LLM, JEPA) for Predicting Triage in Emergency Departments: A 7-Month Retrospective Proof-of-Concept**|Edouard Lansiaux et.al.|[2507.01080](http://arxiv.org/abs/2507.01080)|null|
 |**2025-07-01**|**Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning**|Wenjin Mo et.al.|[2507.00423](http://arxiv.org/abs/2507.00423)|null|
 |**2025-07-02**|**Reducing Variability of Multiple Instance Learning Methods for Digital Pathology**|Ali Mammadov et.al.|[2507.00292](http://arxiv.org/abs/2507.00292)|null|
