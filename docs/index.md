@@ -2,18 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**FlexOlmo: Open Language Models for Flexible Data Use**|Weijia Shi et.al.|[2507.07024](http://arxiv.org/abs/2507.07024)|null|
+|**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813](http://arxiv.org/abs/2507.06813)|null|
+|**2025-07-09**|**Temporal Information Retrieval via Time-Specifier Model Merging**|SeungYoon Han et.al.|[2507.06782](http://arxiv.org/abs/2507.06782)|null|
+|**2025-07-09**|**A Single Merging Suffices: Recovering Server-based Learning Performance in Decentralized Learning**|Tongtian Zhu et.al.|[2507.06542](http://arxiv.org/abs/2507.06542)|null|
 |**2025-07-02**|**CLUES: Collaborative High-Quality Data Selection for LLMs via Training Dynamics**|Wanru Zhao et.al.|[2507.03004](http://arxiv.org/abs/2507.03004)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-22**|**SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging**|Zijun Chen et.al.|[2506.18135](http://arxiv.org/abs/2506.18135)|null|
 |**2025-06-19**|**Subspace-Boosted Model Merging**|Ronald Skorobogat et.al.|[2506.16506](http://arxiv.org/abs/2506.16506)|null|
-|**2025-06-18**|**video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models**|Changli Tang et.al.|[2506.15220](http://arxiv.org/abs/2506.15220)|null|
+|**2025-07-10**|**video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models**|Changli Tang et.al.|[2506.15220](http://arxiv.org/abs/2506.15220)|null|
 |**2025-06-17**|**Knowledge Adaptation as Posterior Correction**|Mohammad Emtiyaz Khan et.al.|[2506.14262](http://arxiv.org/abs/2506.14262)|null|
 |**2025-06-16**|**Position: Pause Recycling LoRAs and Prioritize Mechanisms to Uncover Limits and Effectiveness**|Mei-Yen Chen et.al.|[2506.13479](http://arxiv.org/abs/2506.13479)|null|
 |**2025-06-16**|**CALM: Consensus-Aware Localized Merging for Multi-Task Learning**|Kunda Yan et.al.|[2506.13406](http://arxiv.org/abs/2506.13406)|null|
@@ -181,6 +185,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**|Lan Li et.al.|[2507.07100](http://arxiv.org/abs/2507.07100)|null|
+|**2025-07-09**|**On the Hardness of Unsupervised Domain Adaptation: Optimal Learners and Information-Theoretic Perspective**|Zhiyi Dong et.al.|[2507.06552](http://arxiv.org/abs/2507.06552)|null|
+|**2025-07-08**|**Remember Past, Anticipate Future: Learning Continual Multimodal Misinformation Detectors**|Bing Wang et.al.|[2507.05939](http://arxiv.org/abs/2507.05939)|null|
+|**2025-07-08**|**PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning**|Tristan Kirscher et.al.|[2507.05764](http://arxiv.org/abs/2507.05764)|null|
+|**2025-07-07**|**Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training**|Song Lai et.al.|[2507.05386](http://arxiv.org/abs/2507.05386)|null|
 |**2025-07-07**|**Recovering Plasticity of Neural Networks via Soft Weight Rescaling**|Seungwon Oh et.al.|[2507.04683](http://arxiv.org/abs/2507.04683)|null|
 |**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
 |**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494](http://arxiv.org/abs/2507.04494)|null|
@@ -648,6 +657,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Deep Brain Net: An Optimized Deep Learning Model for Brain tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning**|Daniel Onah et.al.|[2507.07011](http://arxiv.org/abs/2507.07011)|null|
+|**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814](http://arxiv.org/abs/2507.06814)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
+|**2025-07-04**|**Pronunciation-Lexicon Free Training for Phoneme-based Crosslingual ASR via Joint Stochastic Approximation**|Saierdaer Yusuyin et.al.|[2507.06249](http://arxiv.org/abs/2507.06249)|null|
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
+|**2025-07-08**|**Spin-Based Modeling of Perception as Emergent from contextualized Internal Evaluation**|Laura Fanfarillo et.al.|[2507.06041](http://arxiv.org/abs/2507.06041)|null|
+|**2025-07-08**|**Gait-Based Hand Load Estimation via Deep Latent Variable Models with Auxiliary Information**|Jingyi Gao et.al.|[2507.05544](http://arxiv.org/abs/2507.05544)|null|
+|**2025-07-07**|**Dual-Attention U-Net++ with Class-Specific Ensembles and Bayesian Hyperparameter Optimization for Precise Wound and Scale Marker Segmentation**|Daniel Cieślak et.al.|[2507.05314](http://arxiv.org/abs/2507.05314)|null|
 |**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
 |**2025-07-07**|**LIFT: Automating Symbolic Execution Optimization with Large Language Models for AI Networks**|Ruoxi Wang et.al.|[2507.04931](http://arxiv.org/abs/2507.04931)|null|
 |**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845](http://arxiv.org/abs/2507.04845)|null|
