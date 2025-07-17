@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -189,12 +189,25 @@
 |**2024-12-12**|**If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs**|Muhammad Khalifa et.al.|[2412.04144](http://arxiv.org/abs/2412.04144)|null|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Continual Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**A Neural Network Model of Complementary Learning Systems: Pattern Separation and Completion for Continual Learning**|James P Jun et.al.|[2507.11393](http://arxiv.org/abs/2507.11393)|null|
+|**2025-07-15**|**Fast Last-Iterate Convergence of SGD in the Smooth Interpolation Regime**|Amit Attia et.al.|[2507.11274](http://arxiv.org/abs/2507.11274)|null|
+|**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
+|**2025-07-14**|**A Simple Baseline for Stable and Plastic Neural Networks**|É. Künzel et.al.|[2507.10637](http://arxiv.org/abs/2507.10637)|null|
+|**2025-07-14**|**Overcoming catastrophic forgetting in neural networks**|Brandon Shuen Yi Loke et.al.|[2507.10485](http://arxiv.org/abs/2507.10485)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-07-15**|**Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)**|Guohao Huo et.al.|[2507.09995](http://arxiv.org/abs/2507.09995)|null|
+|**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Siyi Wu et.al.|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
+|**2025-07-13**|**CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning**|Lingfeng He et.al.|[2507.09471](http://arxiv.org/abs/2507.09471)|null|
+|**2025-07-12**|**Continual Reinforcement Learning by Planning with Online World Models**|Zichen Liu et.al.|[2507.09177](http://arxiv.org/abs/2507.09177)|null|
+|**2025-07-12**|**Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning**|Linlan Huang et.al.|[2507.09118](http://arxiv.org/abs/2507.09118)|null|
+|**2025-07-11**|**Confounder-Free Continual Learning via Recursive Feature Normalization**|Yash Shah et.al.|[2507.09031](http://arxiv.org/abs/2507.09031)|null|
+|**2025-07-11**|**The Bayesian Approach to Continual Learning: An Overview**|Tameem Adel et.al.|[2507.08922](http://arxiv.org/abs/2507.08922)|null|
 |**2025-07-11**|**Critical dynamics governs deep learning**|Simon Vock et.al.|[2507.08527](http://arxiv.org/abs/2507.08527)|null|
 |**2025-07-10**|**Rethinking Query-based Transformer for Continual Image Segmentation**|Yuchen Zhu et.al.|[2507.07831](http://arxiv.org/abs/2507.07831)|null|
 |**2025-07-10**|**Bridging Logic and Learning: Decoding Temporal Logic Embeddings via Transformers**|Sara Candussio et.al.|[2507.07808](http://arxiv.org/abs/2507.07808)|null|
@@ -669,12 +682,18 @@
 |**2025-01-13**|**Information-Theoretic Dual Memory System for Continual Learning**|RunQing Wu et.al.|[2501.07382](http://arxiv.org/abs/2501.07382)|null|
 |**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Model Cooperation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**Quantized Rank Reduction: A Communications-Efficient Federated Learning Scheme for Network-Critical Applications**|Dimitrios Kritsiolis et.al.|[2507.11183](http://arxiv.org/abs/2507.11183)|null|
+|**2025-07-15**|**Nucleus-nucleus potentials in the scattering of tightly and weakly bound systems**|J. Rangel et.al.|[2507.11050](http://arxiv.org/abs/2507.11050)|null|
+|**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
+|**2025-07-14**|**Hierarchical Job Classification with Similarity Graph Integration**|Md Ahsanul Kabir et.al.|[2507.09949](http://arxiv.org/abs/2507.09949)|null|
+|**2025-07-12**|**Automated Multi-Class Crop Pathology Classification via Convolutional Neural Networks: A Deep Learning Approach for Real-Time Precision Agriculture**|Sourish Suri et.al.|[2507.09375](http://arxiv.org/abs/2507.09375)|null|
 |**2025-07-11**|**Do Temporary Workers Face Higher Wage Markdowns? Evidence from India's Automotive Sector**|Davide Luparello et.al.|[2507.08222](http://arxiv.org/abs/2507.08222)|null|
 |**2025-07-10**|**Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**|Kuiyuan Sun et.al.|[2507.07591](http://arxiv.org/abs/2507.07591)|null|
 |**2025-07-10**|**Hybrid LLM-Enhanced Intrusion Detection for Zero-Day Threats in IoT Networks**|Mohammad F. Al-Hammouri et.al.|[2507.07413](http://arxiv.org/abs/2507.07413)|null|
@@ -1055,7 +1074,7 @@
 |**2025-01-10**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**ROME: Robust Model Ensembling for Semantic Communication Against Semantic Jamming Attacks**|Kequan Zhou et.al.|[2501.01172](http://arxiv.org/abs/2501.01172)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
