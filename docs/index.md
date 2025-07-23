@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.21
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Model Merging
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**Omni-Think: Scaling Cross-Domain Generalization in LLMs via Multi-Task RL with Hybrid Rewards**|Derek Li et.al.|[2507.14783](http://arxiv.org/abs/2507.14783)|null|
 |**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297](http://arxiv.org/abs/2507.12297)|null|
 |**2025-07-11**|**Improving Korean-English Cross-Lingual Retrieval: A Data-Centric Study of Language Composition and Model Merging**|Youngjoon Jang et.al.|[2507.08480](http://arxiv.org/abs/2507.08480)|null|
 |**2025-07-10**|**The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs**|Jierun Chen et.al.|[2507.07562](http://arxiv.org/abs/2507.07562)|null|
@@ -189,6 +190,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**Balancing Expressivity and Robustness: Constrained Rational Activations for Reinforcement Learning**|Rafał Surdej et.al.|[2507.14736](http://arxiv.org/abs/2507.14736)|null|
+|**2025-07-19**|**Task-Agnostic Continual Prompt Tuning with Gradient-Based Selection and Decoding**|Anushka Tiwari et.al.|[2507.14725](http://arxiv.org/abs/2507.14725)|null|
+|**2025-07-18**|**Noradrenergic-inspired gain modulation attenuates the stability gap in joint training**|Alejandro Rodriguez-Garcia et.al.|[2507.14056](http://arxiv.org/abs/2507.14056)|null|
+|**2025-07-18**|**Foundation Models as Class-Incremental Learners for Dermatological Image Classification**|Mohamed Elkhayat et.al.|[2507.14050](http://arxiv.org/abs/2507.14050)|null|
+|**2025-07-17**|**LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning**|Kaihong Wang et.al.|[2507.13568](http://arxiv.org/abs/2507.13568)|null|
 |**2025-07-17**|**R^2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning**|Xiaohan Guo et.al.|[2507.13107](http://arxiv.org/abs/2507.13107)|null|
 |**2025-07-16**|**PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning**|M. Anwar Ma'sum et.al.|[2507.12305](http://arxiv.org/abs/2507.12305)|null|
 |**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297](http://arxiv.org/abs/2507.12297)|null|
@@ -684,6 +690,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Mathematical modeling and sensitivity analysis of hypoxia-activated drugs**|Alessandro Coclite et.al.|[2507.15642](http://arxiv.org/abs/2507.15642)|null|
+|**2025-07-21**|**Strategy Evolution in the Adoption of Conservation Tillage Technology under Time Preference Heterogeneity and Lemon Market: Insights from Evolutionary Dynamics**|Dingyi Wang et.al.|[2507.15497](http://arxiv.org/abs/2507.15497)|null|
+|**2025-07-20**|**What Level of Automation is "Good Enough"? A Benchmark of Large Language Models for Meta-Analysis Data Extraction**|Lingbo Li et.al.|[2507.15152](http://arxiv.org/abs/2507.15152)|null|
+|**2025-07-20**|**Integrating Newton's Laws with deep learning for enhanced physics-informed compound flood modelling**|Soheil Radfar et.al.|[2507.15021](http://arxiv.org/abs/2507.15021)|null|
+|**2025-07-19**|**WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis**|Xinheng Lyu et.al.|[2507.14680](http://arxiv.org/abs/2507.14680)|null|
+|**2025-07-19**|**Multi-Sampling-Frequency Naturalness MOS Prediction Using Self-Supervised Learning Model with Sampling-Frequency-Independent Layer**|Go Nishikawa et.al.|[2507.14647](http://arxiv.org/abs/2507.14647)|null|
+|**2025-07-18**|**A Simple Intermediate Coupled MJO-ENSO Model: Multiscale Interactions and ENSO Complexity**|Yinling Zhang et.al.|[2507.14395](http://arxiv.org/abs/2507.14395)|null|
+|**2025-07-18**|**FedStrategist: A Meta-Learning Framework for Adaptive and Robust Aggregation in Federated Learning**|Md Rafid Haque et.al.|[2507.14322](http://arxiv.org/abs/2507.14322)|null|
+|**2025-07-17**|**CCL-XCoT: An Efficient Cross-Lingual Knowledge Transfer Method for Mitigating Hallucination Generation**|Weihua Zheng et.al.|[2507.14239](http://arxiv.org/abs/2507.14239)|null|
 |**2025-07-17**|**AVFSNet: Audio-Visual Speech Separation for Flexible Number of Speakers with Multi-Scale and Multi-Task Learning**|Daning Zhang et.al.|[2507.12972](http://arxiv.org/abs/2507.12972)|null|
 |**2025-07-17**|**PatternSight: A Perceptual Grouping Effectiveness Assessment Approach for Graphical Patterns in Charts**|Xumeng Wang et.al.|[2507.12749](http://arxiv.org/abs/2507.12749)|null|
 |**2025-07-17**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al.|[2507.12727](http://arxiv.org/abs/2507.12727)|null|
